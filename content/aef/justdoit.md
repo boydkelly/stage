@@ -1,5 +1,5 @@
 ---
-title "Just do it !
+title "Just do it !"
 type: "post"
 draft: false
 author: "Boyd Kelly"
