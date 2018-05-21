@@ -1,101 +1,198 @@
-baseurl = "https://example.com/"
-languageCode = "en-us"
-title = "Coastsystems"
+# hostname (and path) to the root eg. https://appernetic.github.io/
+baseurl = "http://www.coastsystems.net"
 
+# Remark if you want to disable multilingual support.
+DefaultContentLanguage = "en"
+
+# If you want all of the languages to be put below their respective language code,
+# enable DefaultContentLanguageInSubdir = true. Without enabling it english content
+# will be in the root and other languages in their respective subfolder such as /sv/.
+# See [Languages] settings at the end of this file.
+
+# Use this languageCode if it's not a multilingual site and also remove all language blocks and menus in the language sections to disable multilingual support.
+# language blocks.
+# Language
+#languageCode = "en"
+
+# SES friendly url:s
+canonifyurls = true
+
+# Frontmatter format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hugo-bootstrap-premium"
 # Pagination
-paginate = 3
+paginate = 10
 paginatePath = "page"
 
-# Theme to use
-theme = "hugo-material-blog"
+# Enable Disqus integration
+disqusShortname = "shortname"
 
-# Copyright, appears in the footer
-copyright = "© 2018 Boyd Kelly"
 
-# Links format
 [permalinks]
-  post = "/:year/:month/:title/"
+post = "/:year/:month/:day/:filename/"
+code = "/:filename/"
 
-# Localization
-defaultContentLanguage = "en"
+[taxonomies]
+tag = "tags"
+topic = "topics"
 
-# English
-[languages.en]
-  languageName = "English"
+[author]
+name = "Boyd Kelly"
+email = "bkelly@coastsystems.net"
 
-  # Main menu
-  [[languages.en.menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+#
+# All parameters below here are optional and can be mixed and matched.
+#
 
-  # Footer menu 1
-  [[languages.en.menu.footer1]]
-    url = "#"
-    name = "Service 1"
-    weight = 1
-  [[languages.en.menu.footer1]]
-    url = "#"
-    name = "Service 2"
-    weight = 2
-
-  # Footer menu 2
-  [[languages.en.menu.footer2]]
-    url = "/"
-    name = "Home"
-    weight = 1
-  [[languages.en.menu.footer2]]
-    url = "/about/"
-    name = "About"
-    weight = 2
-
-  # Include menus in footer
-  [[languages.en.params.footer_menus]]
-    name = "Services"
-    menu = "footer2"
-  [[languages.en.params.footer_menus]]
-    name = "Links"
-    menu = "footer1"
-
-# French
-[languages.fr]
-  languageName = "Français"
-
-  # Main menu
-  [[languages.fr.menu.main]]
-    url = "/fr/"
-    name = "Accueil"
-    weight = 1
-
-  # Footer menu 1
-  [[languages.fr.menu.footer1]]
-    url = "#"
-    name = "Service 1"
-    weight = 1
-  [[languages.fr.menu.footer1]]
-    url = "#"
-    name = "Service 2"
-    weight = 2
-
-  # Footer menu 2
-  [[languages.fr.menu.footer2]]
-    url = "/fr/"
-    name = "Accueil"
-    weight = 1
-  [[languages.fr.menu.footer2]]
-    url = "/about/"
-    name = "Sur"
-    weight = 2
-
-  # Include menus in footer
-  [[languages.fr.params.footer_menus]]
-    name = "Services"
-    menu = "footer2"
-  [[languages.fr.params.footer_menus]]
-    name = "Links"
-    menu = "footer1"
-
-# Other params
 [params]
-  # Display post summaries instead of content in list templates (default: true)
-  # truncate = false
+# bootswatch theme name, unmark and select one: cerulean, cosmo, cyborg, darkly,
+# default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
+# slate, spacelab, superhero, united, yeti.
+
+bootswatchtheme = "flatly"
+
+# menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = true
+#switchlang = true
+# You can use markdown here.
+BrandImage = "" #top header brand image.
+brand = "Coast Systems brand" # brand image alt text.
+topline = "Lots of stuff here"
+#footline = "code with <i class='fa fa-heart'></i>"
+
+customJS = []
+customCSS = ["/css/style_custom.css"]
+
+# Text for the top menu link, which goes to the root URL for the site.
+# Default (if omitted) is "Home".
+home = "home"
+
+mailmunchid = "" # Mailmunch site id
+sumomeid = "" # Sumome id
+mathjax = "" # cdnjs hosted version; empty string to disable mathjax
+
+# Show a sidebar menu
+showRightSidebar = false
+# Select a syntax highlight.
+# Check the static/css/highlight directory for options.
+highlight = "default"
+
+# Google Analytics.
+googleAnalytics = "Your Google Analytics tracking code"
+
+# Sidebar social links.
+github = "www.githubmcom/boydkelly" # Your Github profile ID
+bitbucket = "" # Your Bitbucket profile ID
+linkedin = "www.linkedin.com/in/boydkelly" # Your LinkedIn profile ID (from public URL)
+googleplus = "Myprofile" # Your Google+ profile ID
+facebook = "Myprofile" # Your Facebook profile ID
+twitter = "www.twitter.com/boydkelly" # Your Twitter profile ID
+youtube = ""  # Your Youtube channel ID
+flattr = ""  # populate with your flattr uid
+
+[blackfriday]
+angledQuotes = true
+fractions = false
+hrefTargetBlank = false
+latexDashes = true
+plainIdAnchors = true
+extensions = []
+extensionmask = []
+
+# Menus
+# If you want active menu items highlighted for internal pages don't add them here, they need to be added in each files front matter.
+# like this:
+#[menu]
+#     [menu.main]
+#        name = "Showcase"
+#        weight = 3
+#        identifier = "showcase"
+# i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+#[[Languages.en.menu.switchlang]]
+#  name = "Français"
+#  identifier = ""
+#  weight = 4
+#  url = "fr"
+
+[[Languages.fr.menu.switchlang]]
+  name = "English"
+  identifier = ""
+  weight = 4
+  url = "/"
+
+
+[Languages]
+[Languages.en]
+languageCode = "en"
+weight = 1
+copyright = "(c) 2018 Boyd Kelly"
+title = "Coast Systems" # Site title
+
+[[Languages.en.menu.main]]
+name = "Blog"
+pre = ""
+weight = 2
+identifier = "post"
+url = "/post/"
+
+[[Languages.en.menu.main]]
+name = "About"
+weight = 1
+identifier = ""
+url = "/about"
+pre = "<i class='fa fa-road'></i>"
+
+
+#[[Languages.en.menu.footer]] # add  links to the bottom right corner.
+#name = "Disclaimer"
+#pre = "<i>&middot;</i>"
+#identifier = "disclaimer"
+#weight = 1
+#url = "/disclaimer/"
+
+#[[Languages.en.menu.footer]]
+#name = "Terms"
+#identifier = "terms"
+#weight = 2
+#url = "/terms/"
+
+[Languages.fr]
+languageCode = "fr"
+weight = 2
+title = "Coastsystems fr" # Site title
+copyright = "(c) Copyright"
+
+[[Languages.fr.menu.main]]
+name = "Blog"
+pre = ""
+weight = 2
+identifier = "post"
+url = "/fr/post/"
+
+[[Languages.fr.menu.main]]
+name = "À propos"
+weight = 1
+identifier = ""
+url = "/fr/about"
+pre = "<i class='fa fa-road'></i>"
+
+
+#[[Languages.fr.menu.footer]] # add  links to the bottom right corner.
+#name = "Bas de page"
+#pre = "<i>&middot;</i>"
+#identifier = "basdepage"
+#weight = 1
+#url = "/fr/basdepage/"
+
+#[[Languages.fr.menu.footer]]
+#name = "Vilkor"
+#identifier = "vilkor"
+#weight = 2
+#url = "/sv/vilkor/"
+
+[Languages.fr.taxonomies]
+tag = "Tag"
+topic = "Sujet"
