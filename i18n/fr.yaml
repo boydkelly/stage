@@ -1,7 +1,7 @@
 - id: next
-  translation: "Proch."
+  translation: "Suivant."
 - id: previous
-  translation: ""
+  translation: "Préc."
 - id: backtotop
   translation: "Haut de page"
 - id: readmore
@@ -9,7 +9,7 @@
 - id: byauthor
   translation: "Auteur"
 - id: readinabout
-  translation: "Läs på {{ .ReadingTime }} min"
+  translation: "Lire en {{ .ReadingTime }} min"
 - id: words
   translation: "{{ .WordCount }} mots"
 - id: latestposts
