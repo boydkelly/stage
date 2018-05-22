@@ -5,7 +5,7 @@ title = "Just do it !"
 author = "Boyd Kelly"
 description =  "Just do it !"
 keywords = ["english", "french"]
-topics = ["grammar"]
+topics = ["English in French"]
 tags = ["aef", "language"]
 +++
 

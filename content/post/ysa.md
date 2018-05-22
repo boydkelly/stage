@@ -6,8 +6,8 @@ draft: false
 author: "Boyd Kelly"
 description: "Quelle est la différence entre ces trois termes ?"
 keywords: [anglais,français,english,french]
-topics: ["Anglais en français"]
-tags: ["aef", "langue"]
+topics: ["English in French"]
+tags: ["aef", "language"]
 ---
 
 # Yet, Still, Again?

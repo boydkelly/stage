@@ -151,19 +151,19 @@ pre = "<i class='fa fa-road'></i>"
 name = "Technology"
 weight = 2
 identifier = "tech"
-url = "/tags/tech"
+url = "/topics/Technology"
 
 [[Languages.en.menu.main]]
 name = "English in French"
 weight = 3
 identifier = "aef"
-url = "/tags/aef"
+url = "/topics/English in French"
 
 [[Languages.en.menu.main]]
 name = "Julakan"
 weight = 4
 identifier = "jula"
-url = "/tags/jula"
+url = "/topics/Julakan"
 
 #[[Languages.en.menu.main]]
 #name = "fr"
@@ -208,19 +208,19 @@ pre = "<i class='fa fa-road'></i>"
 name = "Technologie"
 weight = 2
 identifier = "tech"
-url = "/tags/tech"
+url = "/topics/Technologie"
 
 [[Languages.fr.menu.main]]
 name = "Anglais en français"
 weight = 3
 identifier = "aef"
-url = "/tags/aef"
+url = "/topics/Anglais en français"
 
 [[Languages.fr.menu.main]]
 name = "Julakan"
 weight = 4
 identifier = "jula"
-url = "/tags/jula"
+url = "/topics/Julakan"
 
 #[[Languages.fr.menu.main]]
 #name = "en"
@@ -243,4 +243,4 @@ url = "/tags/jula"
 
 [Languages.fr.taxonomies]
 tag = "tags"
-topic = "sujet"
+topic = "topics"

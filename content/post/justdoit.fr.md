@@ -5,8 +5,8 @@ title = "Just do it !"
 #author: "Boyd Kelly"
 #description: "Just do it !"
 #keywords: ["english", "french"]
-#topics: ["grammar"]
-tags = ["aef", "language"]
+topics = ["Anglais en français"]
+tags = ["aef", "langue"]
 +++
 
 Just do it: Le slogan publicitaire de Nike n'est pas façile à traduire en français. Que veut dire cette expression? Le mot 'just' est un faux ami. Quant il est utilisé comme adjectif, il peut souvent se traduire par 'juste' en voulant dire équitable. 
