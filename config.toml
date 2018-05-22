@@ -111,16 +111,16 @@ extensionmask = []
 #        weight = 3
 #        identifier = "showcase"
 # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
-#[[Languages.en.menu.switchlang]]
-#  name = "Français"
-#  identifier = ""
-#  weight = 4
-#  url = "fr"
+[[Languages.en.menu.switchlang]]
+  name = "Français"
+  identifier = ""
+  weight = 7
+  url = "/"
 
 [[Languages.fr.menu.switchlang]]
   name = "English"
   identifier = ""
-  weight = 4
+  weight = 7
   url = "/"
 
 [Languages]
@@ -154,13 +154,13 @@ url = "/tags/tech"
 name = "English in French"
 weight = 3
 identifier = "aef"
-url = "/fr/tags/aef"
+url = "/tags/aef"
 
 [[Languages.en.menu.main]]
 name = "Julakan"
 weight = 4
 identifier = "jula"
-url = "/fr/tags/jula"
+url = "/tags/jula"
 
 #[[Languages.en.menu.main]]
 #name = "fr"
@@ -217,7 +217,7 @@ url = "/tags/aef"
 name = "Julakan"
 weight = 4
 identifier = "jula"
-url = "/fr/tags/jula"
+url = "/tags/jula"
 
 #[[Languages.fr.menu.main]]
 #name = "en"
