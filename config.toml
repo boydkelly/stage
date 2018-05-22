@@ -110,6 +110,9 @@ extensionmask = []
 #        name = "Showcase"
 #        weight = 3
 #        identifier = "showcase"
+
+
+
 # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
 [[Languages.en.menu.switchlang]]
   name = "Français"
