@@ -1,12 +1,12 @@
 ---
-title: "Dataly"
+title: "Datally"
 date: 2018-05-22T15:24:23Z
 type: "post"
 draft: false
 author: "Boyd Kelly"
 description: "Datally: mobile data-saving & WiFi app by Google"
 keywords: ["key", "words"]
-topics: ["topic 1"]
+topics: ["Technologie"]
 tags: ["tech", "android", "afrique"]
 ---
 
