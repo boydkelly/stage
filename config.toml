@@ -1,6 +1,7 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
 baseurl = "http://www.coastsystems.net/"
 
+
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
 
