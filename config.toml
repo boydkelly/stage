@@ -55,8 +55,10 @@ email = "bkelly@coastsystems.net"
 bootswatchtheme = "flatly"
 
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
-DefaultContentLanguageInSubdir = true
-#switchlang = true
+#DefaultContentLanguageInSubdir = true
+switchlang = false
+
+
 # You can use markdown here.
 BrandImage = "" #top header brand image.
 brand = "Coast Systems brand" # brand image alt text.
@@ -116,13 +118,13 @@ extensionmask = []
 # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
 [[Languages.en.menu.switchlang]]
   name = "Français"
-  identifier = ""
+  identifier = "en"
   weight = 7
-  url = "/"
+  url = "/fr"
 
 [[Languages.fr.menu.switchlang]]
   name = "English"
-  identifier = ""
+  identifier = "fr"
   weight = 7
   url = "/"
 
