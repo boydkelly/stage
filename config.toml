@@ -120,7 +120,7 @@ extensionmask = []
   name = "Français"
   identifier = "en"
   weight = 7
-  url = "/fr"
+  url = "/"
 
 [[Languages.fr.menu.switchlang]]
   name = "English"
