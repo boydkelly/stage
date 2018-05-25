@@ -57,7 +57,6 @@ bootswatchtheme = "flatly"
 #DefaultContentLanguageInSubdir = true
 switchlang = false
 
-
 # You can use markdown here.
 BrandImage = "" #top header brand image.
 brand = "Coast Systems brand" # brand image alt text.
@@ -115,11 +114,19 @@ extensionmask = []
 
 
 # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+[[Languages.en.menu.switchlang]]
+  name = "Français"
+  identifier = "fr"
+  weight = 7
+  url = "fr"
+
+
 [[Languages.fr.menu.switchmenu]]
   name = "English"
   identifier = "en"
   weight = 7
-  url = "/"
+  url = "en"
+
 
 [Languages]
 [Languages.en]
@@ -160,11 +167,6 @@ weight = 4
 identifier = "jula"
 url = "/topics/Julakan"
 
-#[[Languages.en.menu.main]]
-#name = "fr"
-#weight = 5
-#identifier = "fr"
-#url = "/fr"
 
 #[[Languages.en.menu.footer]] # add  links to the bottom right corner.
 #name = "Disclaimer"
