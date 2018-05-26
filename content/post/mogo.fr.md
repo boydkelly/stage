@@ -10,10 +10,10 @@ topics: ["Julakan"]
 tags: ["Jula", "Proverbe"]
 ---
 
-# Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.
+## Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.
 
-# C'est l'homme qui fait l'homme.
+## C'est l'homme qui fait l'homme.
 
-# Le fer s'aiguise par le fer, ansi un homme aiguise le visage d'un autre. -Prov 27:17 ***TMN***
+## Le fer s'aiguise par le fer, ansi un homme aiguise le visage d'un autre. -Prov 27:17 ***TMN***
 
-# As iron Sharpens iron, So one man sharpens his friend. -Prov 27:17 ***TMN***
+## As iron Sharpens iron, so one man sharpens his friend. -Prov 27:17 ***TMN***
