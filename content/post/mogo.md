@@ -6,7 +6,7 @@ draft: false
 author: "Boyd Kelly"
 description: "Proverb Jula"
 keywords: ["key", "words"]
-topics: ["Jula"]
+topics: ["Julakan"]
 tags: ["Jula", "Proverb"]
 ---
 
