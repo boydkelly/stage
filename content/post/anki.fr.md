@@ -18,7 +18,7 @@ Pour ceux qui ne connaissent pas [Anki](http://apps.ankiweb.net), selon [Wikiped
 
 Anki est un logiciel à source ouverte qui est disponible sur toutes les plateformes vous venant à l'esprit: Android, IOS, Mac, Linux, Windows, Web. C'est un outil puissant pour mémoriser n'importe quoi.
 
-Si vous aimerez l'essayer pour apprendre le Jula, vous pouvez [télécharger mon fichier ici.](http://bit.ly/2sb0jMw) Ensuite allez vers [télécharger Anki](https://apps.ankiweb.net/#download) pour récupérer le logiciel pour votre plateforme préférée. Vous pouvez aussi chercher 'Anki' sur Google Play ou l'App Store. Les fans d'Android sont avantagés ici; L'appli IOS est la seule à présenter une version payante seulement. (Aucun commentaire MDR !)
+Si vous aimerez l'essayer pour apprendre le Jula, vous pouvez [télécharger mon fichier ici.](http://bit.ly/2sb0jMw) Ensuite allez vers [télécharger Anki](https://apps.ankiweb.net/#download) pour récupérer le logiciel pour votre plateforme préférée. Vous pouvez aussi chercher 'Anki' sur Google Play ou l'App Store. Les fans d'Android sont avantagés ici; L'appli IOS est la seule à ne présenter qu'une version payante. (Aucun commentaire MDR !)
 
 Une fois l'application installée sur Mac or Windows, ouvrez Anki et aller vers Fichier/Importer. Vous serait maintenant prêt à étudier ! Sur Android, si vous tapez sur le fichier apkg depuis le gestionnaire de fichiers, on vous présentera l'option de l'ouvrir avec Anki. Personnellement je choisirai 'toujours' car je ne connaît pas d'autres applications qui utilisent cette extension. Bonnes études, et toute suggestion ou contribution est la bienvenue.
 
