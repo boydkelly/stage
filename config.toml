@@ -1,103 +1,243 @@
-baseurl = "https://bluestnight.shadow53.com"
-title = "BluestNight"
-author = "Michael Bryant"
+# hostname (and path) to the root eg. https://appernetic.github.io/
+baseurl = "http://www.coastsystems.net/"
+
+# Remark if you want to disable multilingual support.
+DefaultContentLanguage = "en"
+
+# If you want all of the languages to be put below their respective language code,
+# enable DefaultContentLanguageInSubdir = true. Without enabling it english content
+# will be in the root and other languages in their respective subfolder such as /sv/.
+# See [Languages] settings at the end of this file.
+
+# Use this languageCode if it's not a multilingual site and also remove all language blocks and menus in the language sections to disable multilingual support.
+# language blocks.
+# Language
+#languageCode = "en"
+
+# SES friendly url:s
+canonifyurls = true
+
+# Frontmatter format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hugo-bootstrap-premium"
+# Pagination
 paginate = 10
-theme = "BluestNight"
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-enableRobotsTXT = true
+paginatePath = "page"
 
-[outputs]
-    home = ["HTML", "CSS", "JSON", "RSS"]
-    section = ["HTML", "RSS"]
+# Enable Disqus integration
+disqusShortname = "www-coastsystems-net"
 
-[Params]
-    tagline = "A featureful, configurable, yet sleek dark theme for Hugo."
-    description = "The official example website for the BluestNight Hugo theme. Comes with documentation." # Description of your site
-    authorbox = true
-    author = "Michael Bryant"
-    post_navigation = false
-    thumbnail = "images/thumbnail.svg"
-    #thumbnail_radius = "15%"
+[permalinks]
+post = "/:year/:month/:day/:filename/"
+code = "/:filename/"
 
-[Params.iubenda]
-    id = "8219381"
-    legal_only = false
+[taxonomies]
+tag = "tags"
+topic = "topics"
 
-[Params.iubenda.pro]
-    enable_pro = true
-    site_id = "908104"
-    enable_cookie_policy = true
-    disable_footer_link = true
-    prior_consent = true
+[author]
+name = "Boyd Kelly"
+email = "bkelly@coastsystems.net"
 
-[Params.piwik]
-    enable = true
-    host = "https://analytics.shadow53.com"
-    site_id = 3
-    track_nojs = true
-    enable_optout = true
-    enable_ajax = true
+#
+# All parameters below here are optional and can be mixed and matched.
+#
 
-[Params.background]
-    src = "images/background_lg.png"
-    medium_src = "images/background_med.png"
-    small_src = "images/background_sm.png"
-    fit_width = false
-    tile = false
+[params]
+# bootswatch theme name, unmark and select one: cerulean, cosmo, cyborg, darkly,
+# default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
+# slate, spacelab, superhero, united, yeti.
 
-[Params.widgets]
-    search = true
-    recent_articles = true
-    categories = true
-    tags = true
-    tags_counter = true
-    patreon = "shadow53"
+bootswatchtheme = "flatly"
 
-[Params.social]
-    icon_style = "square"
-    gitlab = "BluestNight/BluestNight"
-    # The following are for testing only
-    #bitbucket = "username"
-    #deviantart = "username"
-    #email = "email@domain.com"
-    #etsy = "store"
-    #facebook = "userid"
-    #flickr = "username"
-    #github = "username"
-    #gitter = "user/repo"
-    #googleplus = "+Joe-Smith"
-    #instagram = "username"
-    #linkedin = "userid"
-    #medium = "username"
-    #patreon = "username"
-    #pinterest = "username"
-    #playstation = "username"
-    #quora = "userid"
-    #reddit = "username"
-    #slack_org = "subdomain"
-    #snapchat = "username"
-    #soundcloud = "userid"
-    #spotify = "username"
-    #steam = "id/[username]"
-    #telegram = "username"
-    #tumblr = "username"
-    #twitch = "username"
-    #twitter = "username"
-    #vimeo = "userid"
-    #xbox = "username"
-    #youtube = "user/[username]"
+# menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
+#DefaultContentLanguageInSubdir = true
+switchlang = false
 
-[menu]
-  [[menu.main]]
-    name = "Alert"
-    weight = 1
-    parent = "docs-pages"
-    identifier = "alert-for-pages"
-    url = "docs/site/alert/#page-specific-alerts"
-  [[menu.main]]
-    name = "Alert"
-    weight = 1
-    parent = "docs-shortcodes"
-    identifier = "alert-shortcode"
-    url = "docs/site/alert/#shortcode"
+# You can use markdown here.
+BrandImage = "" #top header brand image.
+brand = "Coast Systems brand" # brand image alt text.
+topline = "Lots of stuff here"
+#footline = "code with <i class='fa fa-heart'></i>"
+
+customJS = []
+customCSS = ["/css/style_custom.css"]
+
+# Text for the top menu link, which goes to the root URL for the site.
+# Default (if omitted) is "Home".
+home = "home"
+
+mailmunchid = "" # Mailmunch site id
+sumomeid = "" # Sumome id
+mathjax = "" # cdnjs hosted version; empty string to disable mathjax
+
+# Show a sidebar menu
+showRightSidebar = true
+# Select a syntax highlight.
+# Check the static/css/highlight directory for options.
+highlight = "default"
+
+# Google Analytics.
+googleAnalytics = "UA-7938441-2"
+
+# Sidebar social links.
+github = "www.githubmcom/boydkelly" # Your Github profile ID
+bitbucket = "" # Your Bitbucket profile ID
+linkedin = "www.linkedin.com/in/boydkelly" # Your LinkedIn profile ID (from public URL)
+googleplus = "Myprofile" # Your Google+ profile ID
+facebook = "Myprofile" # Your Facebook profile ID
+twitter = "www.twitter.com/boydkelly" # Your Twitter profile ID
+youtube = ""  # Your Youtube channel ID
+flattr = ""  # populate with your flattr uid
+
+[blackfriday]
+angledQuotes = true
+fractions = false
+hrefTargetBlank = false
+latexDashes = true
+plainIdAnchors = true
+extensions = []
+extensionmask = []
+
+# Menus
+# If you want active menu items highlighted for internal pages don't add them here, they need to be added in each files front matter.
+# like this:
+#[menu]
+#     [menu.main]
+#        name = "Showcase"
+#        weight = 3
+#        identifier = "showcase"
+
+
+
+# i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+[[Languages.en.menu.switchlang]]
+  name = "Français"
+  identifier = "fr"
+  weight = 7
+  url = "fr"
+
+
+[[Languages.fr.menu.switchmenu]]
+  name = "English"
+  identifier = "en"
+  weight = 7
+  url = "en"
+
+
+[Languages]
+[Languages.en]
+languageCode = "en"
+weight = 1
+copyright = "(c) 2018 Boyd Kelly"
+title = "Coast Systems" # Site title
+
+[[Languages.en.menu.main]]
+name = "Blog"
+pre = ""
+weight = 6
+identifier = "post"
+url = "/post/"
+
+[[Languages.en.menu.main]]
+name = "About"
+weight = 1
+identifier = "about"
+url = "/about"
+pre = "<i class='fa fa-road'></i>"
+
+[[Languages.en.menu.main]]
+name = "Technology"
+weight = 2
+identifier = "tech"
+url = "/topics/Technology"
+
+[[Languages.en.menu.main]]
+name = "English in French"
+weight = 3
+identifier = "aef"
+url = "/topics/English in French"
+
+[[Languages.en.menu.main]]
+name = "Julakan"
+weight = 4
+identifier = "jula"
+url = "/topics/Julakan"
+
+
+#[[Languages.en.menu.footer]] # add  links to the bottom right corner.
+#name = "Disclaimer"
+#pre = "<i>&middot;</i>"
+#identifier = "disclaimer"
+#weight = 1
+#url = "/disclaimer/"
+
+#[[Languages.en.menu.footer]]
+#name = "Terms"
+#identifier = "terms"
+#weight = 2
+#url = "/terms/"
+
+[Languages.fr]
+languageCode = "fr"
+weight = 2
+title = "Coastsystems" # Site title
+copyright = "(c) 2018 Boyd Kelly"
+
+[[Languages.fr.menu.main]]
+name = "Blog"
+pre = ""
+weight = 6
+identifier = "post"
+url = "/post/"
+
+[[Languages.fr.menu.main]]
+name = "À propos"
+weight = 1
+identifier = ""
+url = "/about"
+pre = "<i class='fa fa-road'></i>"
+
+[[Languages.fr.menu.main]]
+name = "Technologie"
+weight = 2
+identifier = "tech"
+url = "/topics/Technologie"
+
+[[Languages.fr.menu.main]]
+name = "Anglais en français"
+weight = 3
+identifier = "aef"
+url = "/topics/Anglais en français"
+
+[[Languages.fr.menu.main]]
+name = "Julakan"
+weight = 4
+identifier = "jula"
+url = "/topics/Julakan"
+
+#[[Languages.fr.menu.main]]
+#name = "en"
+#weight = 5
+#identifier = "en"
+#url = "/en"
+
+#[[Languages.fr.menu.footer]] # add  links to the bottom right corner.
+#name = "Bas de page"
+#pre = "<i>&middot;</i>"
+#identifier = "basdepage"
+#weight = 1
+#url = "/fr/basdepage/"
+
+#[[Languages.fr.menu.footer]]
+#name = "Vilkor"
+#identifier = "vilkor"
+#weight = 2
+#url = "/sv/vilkor/"
+
+[Languages.fr.taxonomies]
+tag = "tags"
+topic = "topics"
