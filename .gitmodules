@@ -1,3 +1,0 @@
-[submodule "content"]
-	path = content
-	url = git@gce.coastsystems.net:content.git
