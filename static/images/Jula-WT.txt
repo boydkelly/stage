@@ -1,836 +1,829 @@
-#French	Source	Jula1	Note1	Jula2	Note2	Bambara	Note3	Note ID	tags
-Souveraineté de dieu	Boyd	Ala ka masabaya						3221065537	
-Royaume de dieu	Boyd	Ala ka masaya						-53020406468	
-Serviteurs	Boyd	Batobagaw						-18949490395	
-Lois principes	Boyd	Cifɔni						-26811574427	
-Gloire	Boyd	Nɔɔrɔ						-53017885414	
-Waa kɛmɛ ni bi segi ni looru	Boyd	185 000						-4632780310	
-Fondé sur les ecritures	Yannick	A basiginen be bibulu kan						1527665647504	
-Ce qu'elle nous réserve	Yannick	A be min mara an ye						1527665647505	
-Ça ressemble à …	Yannick	A bɔnin be …ma						1527665647506	
-Ça ressemble à quoi ?	Yannick	A bɔnin be mun le ma ?						1527665647507	
-Qui est en droit de …	Yannick	A dagalen be jon ka …						1527665647508	
-Tout au long de son ministère	Yannick	A ka cidenyabaara kuru bɛɛ la						1527665647509	
-Son caractère généreux	Yannick	A ka sonni dusu						1527665647510	
-Comment a-t-il réagi ?	Yannick	A kɔnna k'o koo ta cogo di?						1527665647511	
-Cela ne consiste pas à ...	Yannick	A kɔrɔ tɛ ka…						1527665647512	
-Sans jamais renoncer	Yannick	A ma sɔn k'a dabila abada						1527665647513	
-Il y a plus de 2000 ans	Yannick	A saan 2000 ni kɔ ye nin ye						1527665647514	
-Neutralité	Yannick	A te sen don politiki ko la						1527665647515	
-Ne pas indisposer les gens inutilement	Yannick	A tɛ mɔgɔ kɔnɔ gwan gwansan						1527665647516	
-Cette personne ne manifeste pas d'intérêt	Yannick	A tigi m'a mako don						1527665647517	
-Rappelez aux proclamateurs	Yannick	A' ye weleweledalaw hakili jigi						1527665647518	
-Compagnon de travail de dieu	Yannick	Ala ka baarakɛnyogon						1527665647519	
-Envoyé de dieu	Boyd	Ala ka ciden						-53017499366	
-Armure complète de dieu	Yannick	Ala ka kɛlɛkɛ minenw bɛɛ						1527665647521	
-Représentant de dieu	Boyd	Ala ka lasigidenw						-7054004510	
-Merveilleuses promesses divines	Yannick	Ala ka layidu cɛnyumanbaw koo						1527665647523	
-Ecole du ministère théocratique	Yannick	Ala ka Mara cidenyabaara lakɔli						1527665647524	
-Théocratie	Yannick	Ala ka mara cogo						1527665647525	
-Souveraineté de dieu	Boyd	Ala ka masabaya						3221065537	
-Royaume de dieu	Boyd	Ala ka masaya						-53020406468	
-Royaume de dieu établi	Yannick	Ala ka masaya sigira sen kan						1527665647528	
-Monde impie	Yannick	Ala ɲɛsiranbali duniɲa						1527665647529	
-Volonté divine	Yannick	Ala sago						1527665647530	
-Volonté de dieu	Yannick	Ala sagoya						1527665647531	
-Instruction spirituelle	Yannick	Alakow kalan						1527665647532	
-Nous savons parfaitement que	Yannick	An b'a lɔn ka gwɛ ko						1527665647533	
-Nous oublions tout le temps	Yannick	An be ɲinɛ tuma o tuma						1527665647534	
-Ceux qui nous observent	Yannick	An filɛbagaw						1527665647535	
-Notre tenue bien arrangée	Yannick	An ka fani doncogo ɲuman						1527665647536	
-Lors de la préparation d'un exposé	Yannick	An ka kalan labɛnto						1527665647537	
-Adopter le bon point de vue	Yannick	An ka kɛ ni miiriya ɲuman ye						1527665647538	
-Notre foi augmente	Yannick	An ka lanaya de dunya						1527665647539	
-Continuons d'attendre jéhovah	Yannick	An ka to ka jehova makɔnɔ						1527665647540	
-Adaptons-nous	Yannick	An ka yɛlɛmani dɔw kɛ an yɛrɛ ka koow la						1527665647541	
-Nous sommes bien informés	Yannick	An kalannin lo kosɔbɛ						1527665647542	
-En prêchant	Yannick	An kɛtɔ ka waajuli kɛ						1527665647543	
-Ne pas se focaliser sur nous-mêmes	Yannick	An man kan ka hakili sigi an ka jɔrɔ an yɛrɛ koo la						1527665647544	
-Notre glorieux père céleste	Yannick	An sankolola faa cyɛnyumanba						1527665647545	
-Pas coupable d'une dette de sang	Yannick	An tɛ mɔgɔ joli hakɛ ta						1527665647546	
-Activité intense	Yannick	Baara gwanniman						1527665647547	
-Activité spéciale	Yannick	Baara kɛrɛnkɛrɛnnin						1527665647548	
-Prophète de malheur	Yannick	Balawo kibaro weleweledala						1527665647549	
-Frère inactif	Yannick	Balima sumalen						1527665647550	
-Préposé aux territoires	Yannick	Balimancɛ  min be kiin koow  ɲɛnabɔ						1527665647551	
-Travail profane	Yannick	Baloɲini baara						1527665647552	
-Points faibles du pays	Yannick	Barika tɛ jamana yɔrɔ minw na						1527665647553	
-Points forts	Yannick	Barikamakow						1527665647554	
-Points faibles	Yannick	Barikantanyakow						1527665647555	
-Conversation initiale	Yannick	Baro folo						1527665647556	
-Thème	Yannick	Barokun				Kalankun		1527665647557	
-Adorateur	Yannick	Batobaga						1527665647558	
-Serviteurs	Boyd	Batobagaw						-18949490395	
-Culte	Boyd	Batoli						-18949479733	
-Béthel	Boyd	Betɛli						-54217186341	
-Famille du béthel	Boyd	Betɛli denbaya mogow						-54217186340	
-Adapter (s') aux gens	Yannick	Bɛn mɔgɔw ma						1527665647563	
-Vie actuelle	Yannick	Bi ka ɲɛnamaya						1527665647564	
-Système de chose actuel	Yannick	Bi koow sigicogoya						1527665647565	
-Contemporain (de notre époque)	Yannick	Bi mɔgɔ						1527665647566	
-Aujourd'hui plus que jamais	Yannick	Bi, ka tɛmɛ sanga ni wagati  bɛɛ kan						1527665647567	
-Bible	Boyd	Bibulu						-40927278615	
-Compréhension actuelle de la bible	Yannick	Bibulu faamuyacogo kura						1527665647569	
-Le récit inspiré nous apprend que	Yannick	Bibulu ka lakalita b'a fɔ an ye ko						1527665647570	
-Lecture de la bible	Boyd	Bibulu kalangwɛ						-44178618673	
-Enseignement biblique fondamental	Yannick	Bibulu kalansira jonjon						1527665647572	
-Dans les temps bibliques	Yannick	Bibulu sɛbɛwagati la						1527665647573	
-Étude biblique	Yannick	Bibulukalan						1527665647574	
-Biens matériels	Yannick	Bololafɛnw						1527665647575	
-Contribution volontaire	Yannick	Bolomafara						1527665647576	
-Contribuer	Yannick	Bolomafara di						1527665647577	
-Se déverser	Yannick	Bɔn						1527665647578	
-Boîte	Yannick	Buwati		Gongo				1527665647579	
-Apôtre	Yannick	Ciden						1527665647580	
-École de formation ministérielle	Yannick	Cidenyabaara degeli lakɔli						1527665647581	
-Lois principes	Boyd	Cifɔni						-26811574427	
-Commandement	Boyd	Cii						-53017833927	
-Exposé n°1	Yannick	Cii folo kalan						1527665647584	
-Dix commandements	Yannick	Cikan Tan						1527665647585	
-Message impopulaire	Yannick	Cira min tun man di mɔgɔw ye						1527665647586	
-Prophétie	Yannick	Ciraya		Cirakuma				1527665647587	
-Dans la dignité	Yannick	Cogo bɛnnen na						1527665647588	
-De façon méthodique (ordonnée)	Yannick	Cogo tilennen na						1527665647589	
-Porte en porte	Yannick	Da ni da la						1527665647590	
-Introduction	Boyd	Dadon kumaw						403520813	
-Imperfection	Yannick	Dafabaliya						1527665647592	
-Inspirée de dieu	Yannick	Dafiɲɛ fɛ (ala...)						1527665647593	
-Lors de l'examen du paragraphe	Yannick	Dakun lajɛtɔ						1527665647594	
-Révision orale	Yannick	Dalafoli segikanni						1527665647595	
-Entamer (entamer une conversation)	Yannick	Daminɛ						1527665647596	
-Créer	Boyd	Dan						3218598874	
-Pionnier spécial	Yannick	Dan na Piyoniye						1527665647598	
-Créature spirituelle	Yannick	Danfɛn hakililama						1527665647599	
-Contemporain de david	Yannick	Daouda ka wagati mɔgɔ				Daouda ka filankuru		1527665647600	
-Fils unique-engendré	Yannick	Dencɛ kelenpɛ bangelen						1527665647601	
-Secte	Yannick	Diinan bolo fara						1527665647603	
-Collège d'anciens	Yannick	Diinan mɔgɔkorow jɛnkulu						1527665647604	
-Ancien	Boyd	Diinan mɔgɔ kɔrɔ						-54217186336	
-Coordinateur du collège des anciens	Yannick	Diinan mɔgɔkɔrɔw jɛnkulu ka koow labɛnbaga						1527665647606	
-Surveillant président	Yannick	Diinan mɔgɔkɔrɔw ɲɛbila						1527665647607	
-Surveillant de ville	Yannick	Dugu kɔrɔsibaga						1527665647608	
-Sur la terre entière	Yannick	Dugukolo kuru bɛɛ kan		Dugukolo faan bɛɛ la				1527665647609	
-Ruine de la terre	Yannick	Dugukolo tinyɛni						1527665647610	
-Esprit du monde	Yannick	Duninya ka miiriya						1527665647611	
-Dans un monde méchant et corrompu	Yannick	Duniɲa juguman tolinen kɔnɔ						1527665647612	
-Puissance mondiale	Yannick	Duniɲa ka jamana fangatigi						1527665647613	
-Souverain de l'univers / souverain seigneur	Yannick	Duniɲa kuru bɛɛ masaba						1527665647614	
-Vin	Boyd	Duvɛn						20017719262	
-Contenance, Capacité	Yannick	Fahakɛ						1527665647616	
-Une tenue et une coiffure modeste	Yannick	Fanidocogo ni kuun masiricogo dama kɛɲɛnen						1527665647617	
-Chair	Boyd	Farisogo						20017677956	
-Chair imparfaite	Yannick	Farisogo dafabali						1527665647619	
-Oeuvres de la chair	Yannick	Farisogo ka kɛwali						1527665647620	
-Désirs charnels	Yannick	Farisogo negew						1527665647621	
-Faute grave	Yannick	Filiba						1527665647622	
-Tabernacle	Yannick	Finiso						1527665647623	
-Discours public	Boyd	Forobakalan						3830971515	
-Discours public	Yannick	Forobakalan						1527665647625	
-Discours spécial	Yannick	Forobakalan kɛrɛnkɛrɛn						1527665647626	
-Levure	Boyd	Funufen						20017822377	
-Discours de mariage	Yannick	Furukalan						1527665647628	
-Publication	Yannick	Gafe						1527665647629	
-Préposé aux publications	Yannick	Gafekow ɲɛnabobaga						1527665647630	
-Antenne de traduction	Boyd	Gafew bayɛlɛma yɔrɔ						-54217186332	
-Demande de publications (demande écrite)	Yannick	Gafew nyinisɛbɛ						1527665647632	
-École de guiléad	Boyd	Gilead lakɔli						-15518782417	
-Inefficacité des gouvernements	Yannick	Gofɛrɛnɛman dɛsɛbagato						1527665647634	
-Propos confidentiels	Yannick	Gundo kumaw						1527665647635	
-Étude familiale	Yannick	Gwakalan						1527665647636	
-Poteau de supplice	Yannick	Gwengwe yiri						1527665647637	
-Esprit fixé sur le royaume	Yannick	Hakili be sigi masaya koow kan						1527665647638	
-Esprit saint	Boyd	Hakili senu						-53018156709	
-Esprit saint	Yannick	Hakili senu						1527665647640	
-Riche nourriture spirituelle	Yannick	Hakilimaya domuni nafamanba						1527665647642	
-Compagnie spirituelle stimulante	Yannick	Hakilimaya jɛnnyogonya duman						1527665647643	
-Combien d'idées aborder ?	Yannick	Hakilinata hakɛ juman ta ?						1527665647644	
-Point principal	Yannick	Hakilinata jonjon		hakilinata kunbaba				1527665647645	
-Éclaircir un point	Yannick	Hakilinata koro yira ka gwɛ						1527665647646	
-Même lorsque la situation semble désespérée	Yannick	Hali ni koow be i n'a fɔ jigisɛmɛ yɔrɔ tɛ yen						1527665647647	
-Assurez-vous que la chambre est propre et nette	Yannick	I k'i janto k'a filɛ n'i sibon saniyalen be ani a ladonnen be						1527665647648	
-Donner à jéhovah le meilleur	Yannick	I k'i seko fisaman kɛ jehova ma						1527665647649	
-Noter les points qui s'appliquent à toi	Yannick	I ka hakilinataw sɛbɛ, minw ɲɛsinna i ma						1527665647650	
-Restons proches de l'organisation de jéhovah	Yannick	I ka to jehova ka jɛnkulu kɔrɔ						1527665647651	
-Ne pas s'écarter des lois	Yannick	I kana mabɔ sariyaw la						1527665647652	
-Objectif personnel	Yannick	I togola lanyinita						1527665647653	
-Israëlites	Boyd	Israɛldenw						-7052097941	
-Support visuel	Yannick	Jaa		Foto				1527665647655	
-Réponse imprimée	Yannick	Jaabili sɛbɛnen						1527665647656	
-Source d'encouragement	Yannick	Jagwɛlɛya sababu						1527665647657	
-Enfer	Boyd	Jahanama						-53020300790	
-Accusé faussement	Yannick	Jalaki gwansan						1527665647659	
-Peuple élu	Yannick	Jama sugandilen						1527665647660	
-Assemblée	Yannick	Jamakulu						1527665647661	
-Grande foule	Yannick	Jamakuluba						1527665647662	
-Sans foi	Boyd	Janfanci						-15176835587	
-Se retirer	Yannick	Jara						1527665647664	
-Jéhovah désire le meilleur de nous -mêmes	Yannick	Jehova be an seko fisaman lo fɛ						1527665647665	
-Jéhovah sera avec nous	Yannick	Jehova bena kɛ an fɛ						1527665647666	
-Créations de jéhovah	Yannick	Jehova ka fɛɛn danenw						1527665647667	
-Jéhovah mérite d'être loué	Yannick	Jehova ka kan ni tandoli ye						1527665647668	
-Char de jehovah	Boyd	Jehova ka wotoro						-15522069116	
-Témoins de jéhovah	Boyd	Jehova seerew						-53019084841	
-Jéhovah a décrété que	Yannick	Jehova y'a latigɛ ko						1527665647671	
-Que jehovah te bénisse	Boyd	Jéhovah ye i ɲuman don						-27410134907	
-Brûler / consumer	Yannick	Jeni				Jɛni		1527665647673	
-Se réunir avec ceux que nous aimons	Yannick	Jɛn n'an diyanye mɔgɔw ye						1527665647674	
-Saine compagnie	Yannick	Jɛnnyogonya nyuman						1527665647675	
-Démon	Boyd	Jina						-5583657714	
-Améliorer sa personnalité	Yannick	Jogo yɛlɛma						1527665647678	
-Esclave fidèle et avisé	Boyd	Jɔnkɛ dannamɔgɔ hakiliman		Joncɛ  kantigiman hakiliman				-54217186334	
-Esclave fidèle et avisé	Yannick	Jɔnkɛ dannamɔgɔ hakiliman		Joncɛ  kantigiman hakiliman				1527665647680	
-Transgresseur	Yannick	Jurumukɛla						1527665647681	
-Laisser la parole de dieu les pousser à l'action	Yannick	K'a to ala ka kuma ka u lasun						1527665647682	
-Éviter les pièges	Yannick	K'a yɛrɛ tanga jaan dow ma						1527665647683	
-Souligner (accentuer)	Yannick	K'a yira ka gwɛ						1527665647684	
-Compter sur jéhovah	Yannick	K'an bolo la jehova kan						1527665647685	
-Nourrir le cœur	Yannick	K'an dusukun balo						1527665647686	
-Nous inciter	Yannick	K'an lasun						1527665647687	
-Donner le meilleur	Yannick	K'an seko fisaman kɛ						1527665647688	
-Résister aux tentations	Yannick	K'an yɛrɛ lafasa kɔrɔbɔliw ma						1527665647689	
-Se comparer aux autres	Yannick	K'an yɛrɛ suma ni mɔgɔw wɛrɛw ye						1527665647690	
-Revêtir un corps humain	Yannick	Ka adamaden cogoya ta						1527665647691	
-Respecter les normes divines	Yannick	Ka Ala ka siraw labato						1527665647692	
-Refuser une transfusion de sang	Yannick	Ka ban ka joli don an fari la						1527665647693	
-Parler d'un sujet d'intérêt local	Yannick	Ka baro dabo kiin kono koo do kan						1527665647694	
-Améliorer nos conversations	Yannick	Ka baro kɛcogo fisaya						1527665647695	
-Succomber aux tentations	Yannick	Ka ben Kɔrɔboliw na						1527665647696	
-Apprendre des textes bibliques	Yannick	Ka bibulusenw degi k'u lɔn						1527665647697	
-Collaborer avec les anciens	Yannick	Ka bolo di diinan mɔgɔkorow ma						1527665647698	
-Rompre le pain	Boyd	Ka buru kari kari						20017637158	
-Ecourter poliment la conversation	Yannick	Ka daan sigi o baro la ni bonya ye						1527665647700	
-Cultiver de bonnes habitudes	Yannick	Ka degi delinanko ɲumanw na						1527665647701	
-Toucher le cœur	Yannick	Ka dusu sɔrɔ						1527665647702	
-Développer nos facultés de perception	Yannick	Ka faamuyali hakili bonya						1527665647703	
-Tenue raisonnable	Yannick	Ka fani kɛɲɛnen don						1527665647704	
-Séances d'excercice	Yannick	Ka gafe yiracogo degi						1527665647705	
-Excommunier	Yannick	Ka gwɛn ka bɔ kafo kɔnɔ						1527665647706	
-Raisonner habilement à partir des écritures	Yannick	Ka hakilijagabɔ koɲuman bibulusenw kan						1527665647707	
-Réponse claire	Yannick	Ka jaabili soro min gwɛnen be						1527665647708	
-Tenir compte de ses limites	Yannick	Ka janto a ka faamuyali danyoro la						1527665647709	
-Faire attention à son enseignement	Yannick	Ka janto mɔgɔw kalanni na						1527665647710	
-Connaître jéhovah et le servir	Yannick	Ka jehova lon ani ka baara kɛ a ye						1527665647711	
-Louer jéhovah publiquement	Yannick	Ka jehova tando bɛɛ nyɛ na						1527665647712	
-Resserrer ses liens avec jéhovah	Yannick	Ka jɛnɲɔgɔya teriman yiriwa ile ni ala cɛ						1527665647713	
-Se chercher des excuses	Yannick	Ka joo di an yɛrɛ ma						1527665647714	
-Améliorer la qualité de la voix	Yannick	Ka kaan cogo fisaya						1527665647715	
-Enseigner avec simplicité	Yannick	Ka kalan cogo nɔgɔman na						1527665647716	
-Commencer une étude  dès le premier contact	Yannick	Ka kalan daminɛ ɲɔgɔnye fɔlɔ la						1527665647717	
-Tirer leçon	Yannick	Ka kalan sɔrɔ						1527665647718	
-Assumer les responsabilités chrétiennes	Yannick	Ka kerecɛnya kunkanbaaraw dafa						1527665647719	
-Axer sa vie	Yannick	Ka kɛ a ɲɛnako fɔlɔ ya						1527665647720	
-Sauver du péché et la mort	Boyd	Ka kisi jurumu ni saya bolo						19411781712	
-Commander (passer commande)	Yannick	Ka komandi kɛ						1527665647722	
-Rester équilibré	Yannick	Ka koo kɛ k'a dama kɛnyɛ						1527665647723	
-Croître spirituellement	Yannick	Ka kɔgɔ Alako ta fan fɛ						1527665647724	
-Anticiper les objections	Yannick	Ka kɔn k'i yɛrɛ labɛn sɔsɔliw koo la						1527665647725	
-Avant notre ère	Yannick	Ka kɔn Krista tile ɲɛ						1527665647726	
-Demander des congés	Yannick	Ka kɔnze deli						1527665647727	
-Surveiller correctement	Yannick	Ka kɔrɔsi ka ɲɛ						1527665647728	
-Pause appropriée	Yannick	Ka kuma ka lɔ cogo bɛnnen na						1527665647729	
-S'agenouiller	Yannick	Ka kunbiri gwan duguma						1527665647730	
-Se réveiller de la mort	Yannick	Ka kunu ka bɔ saya la						1527665647731	
-Se fixer personnellement des objectifs	Yannick	Ka lanyinitaw latigɛ u yɛrɛw ye						1527665647732	
-Se fixer l'objectif d'être	Yannick	Ka laɲini ka kɛ … ye						1527665647733	
-Eveiller la curiosité	Yannick	Ka lasun u ka ɲiningali kɛ						1527665647734	
-Tenir ferme contre le diable et les démons	Yannick	Ka lo ka nyɛ ka sitanɛ ni jinaw kunbɛn						1527665647735	
-Nettoyer et entretenir la salle du royaume	Yannick	Ka masaya boon saniya ani k'a ladon						1527665647736	
-Susciter la conversation	Yannick	Ka mɔgɔ lasun a k'a daa don an ka baro la						1527665647737	
-Enseigner sans oublier que le temps presse	Yannick	Ka mɔgɔ kalan ni kɔrɔtɔ miiriya ye						1527665647738	
-Tirer profit	Yannick	Ka nafa sɔrɔ						1527665647739	
-Calomnier jéhovah	Yannick	Ka nafigiya kɛ jehova la						1527665647740	
-Amasser des trésors sur la terre	Yannick	Ka nafolo lajɛn dugukolo kan						1527665647741	
-Offrandes en faveur de l'œuvre mondiale	Yannick	Ka nili kɛ duniɲa kuru bɛɛ kama						1527665647742	
-Donner avec joie	Yannick	Ka nili kɛ ni diyanye ye						1527665647743	
-Repentir sincère	Yannick	Ka nimisa sɔbɛ la						1527665647744	
-Glorifier dieu	Yannick	Ka nɔɔrɔ la ala kan						1527665647745	
-Mener une vie simple	Yannick	Ka ɲɛnamaya kɛ cogo nɔgɔman na						1527665647746	
-Vivre dans l'attachement à dieu	Yannick	Ka ɲɛnamaya kɛ k'an masirilen to ala la						1527665647747	
-Changer de mode de vie	Yannick	Ka ɲɛnamaya kɛcogo yɛlɛma						1527665647748	
-Oublier jéhovah	Yannick	Ka ɲinɛ jehova kɔ						1527665647749	
-Soigneusement nettoyé avant l'heure	Yannick	Ka saniya konyuman ka kɔn lɛri nyɛ						1527665647750	
-Surmonter les obstacles	Yannick	Ka see sɔrɔ baliw kan						1527665647751	
-Participer à une forme du ministère	Yannick	Ka seen don cidenya baara faan dɔ la						1527665647752	
-Faire notre maximum	Yannick	Ka seko bɛɛ kɛ						1527665647753	
-Prendre note succinctement	Yannick	Ka sɛbɛ ka surunya						1527665647754	
-Ajouter du poids à nos paroles	Yannick	Ka sinsin an ka kumaw kan						1527665647755	
-Nous affiner	Yannick	Ka soon kolon bo an na						1527665647756	
-S'appliquer à connaître la parole de dieu	Yannick	Ka sɔbɛ don ka ala ka kuma kalan						1527665647757	
-Soulever une objection	Yannick	Ka sɔsɔli lawuli						1527665647758	
-Aller à un rendez-vous	Yannick	Ka taa nyogonye do la						1527665647759	
-Aller là où le besoin est grand	Yannick	Ka taga sigi yɔrɔ min na makoyaba be yen						1527665647760	
-Éviter les pièges	Yannick	K'a yɛrɛ tanga jaan dow ma						1527665647761	
-Payer les frais de transport	Yannick	Ka taransipɔri musakaw sara						1527665647762	
-Saisir les occasions propices	Yannick	Ka tɛmɛ cogoya ɲumanw fɛ						1527665647763	
-Prendre position pour jéhovah	Yannick	Ka tugu jehova kɔ						1527665647764	
-Prêcher librement	Yannick	Ka waajuli kɛ ɲɛsuma na						1527665647765	
-Réserver du temps	Yannick	Ka wagati latigɛ						1527665647766	
-Miracle	Boyd	Kabako						-53018186881	
-Païen	Boyd	Kafiri						2217883563	
-Congrégation	Boyd	Kafo						-53018792198	
-Congrégation	Yannick	Kafo						1527665647770	
-Besoin de la congrégation	Yannick	Kafo ka mako						1527665647771	
-Membre de la congrégation	Yannick	Kafoden						1527665647772	
-Surveillant itinérant	Boyd	Kɔrɔsigibaga tagamakɛla						-54217186337	
-Surveillant de circonscription	Yannick	Kafokulu kɔrɔsigibaga		Kafokulu kɔrɔsibaga				1527665647774	
-Comment remplir le formulaire	Yannick	Kafolisɛbɛ dafacogo						1527665647775	
-Immoralité	Yannick	Kakalaya						1527665647776	
-Après chaque exposé	Yannick	Kalan kelen-kelen banni kɔ						1527665647777	
-Orateur	Yannick	Kalan kɛbaga		Forobakalan dibaga				1527665647778	
-Développement logique	Yannick	Kalan kɛcogo tilenna						1527665647779	
-Discours et discussions	Yannick	Kalan ni baro						1527665647780	
-Environ 5000 nouveaux disciples	Yannick	Kalanden kura 5000 nyogon						1527665647781	
-Publications d'étude	Yannick	Kalankɛ  gafew						1527665647782	
-Symposium	Yannick	Kalankulu						1527665647783	
-Exposé suivant	Yannick	Kalansen nɔfɛta						1527665647784	
-Chapitre	Boyd	Sapitiri		Tilan		Tilanyɔrɔ		-54217186344	
-Fils de la désobéissance	Yannick	Kan bilali denw						1527665647786	
-Campagne spéciale	Yannick	Kanpaɲi kɛrɛnkɛrɛn						1527665647787	
-Bonté de cœur	Yannick	Kanuya kantigiman						1527665647788	
-Son amour influence toutes ses actions	Yannick	Kanuya lo b'a lasun a ka kɛtaw bɛɛ la						1527665647789	
-Étude individuelle	Yannick	Kelenna kalan						1527665647790	
-Frères chrétiens	Yannick	Kerecɛn balimaw						1527665647791	
-Ministre chrétien	Yannick	Kerecɛn ciden						1527665647792	
-Chrétien célibataire	Yannick	Kerecɛn furubali						1527665647793	
-Chrétien marié	Yannick	Kerecɛn furulen						1527665647794	
-Compagnons chrétiens	Yannick	Kerecɛnɲɔgɔnw						1527665647795	
-Réunion chrétienne	Yannick	Kerecɛnya lajɛn						1527665647796	
-Les armées mirent le siège sur Jérusalem	Yannick	Kɛlɛbolow ye daga sigi Jerusalem daa la						1527665647797	marked
-Char de guerre	Yannick	Kɛlɛkɛwotoro						1527665647798	
-Lumière brillante (vérité)	Yannick	Kɛnɛyeelen						1527665647799	
-Actes	Yannick	Kɛwalen						1527665647800	
-Bonne nouvelle	Yannick	Kibaro duman						1527665647801	
-Bonne nouvelle éternelle	Yannick	Kibaru duman banbali						1527665647802	
-Territoire	Yannick	Kiin		Jamana				1527665647803	
-Territoire, quartier	Yannick	Kiin						1527665647804	
-Territoire souvent parcouru	Yannick	Kiin boli-boli siɲɛ caaman						1527665647805	
-Prophétie	Boyd	Ciraya		Cirakuma				2217905132	
-Christ	Yannick	Kirista						1527665647807	
-Prophète	Boyd	Cira						-11284825780	
-Étude de livre	Yannick	Kitabukalan jɛnkulu						1527665647809	
-Séparer de babylone la grande	Yannick	Ko an faranna ka bo babilonɛba la						1527665647810	
-Surveillant de district	Yannick	Kobe kɔrɔsigibaga						1527665647811	
-Compte tenu du temps imparti	Yannick	Komi wagati daan tigɛra						1527665647812	
-Vérifions les choses les plus importantes	Yannick	Koo minw kɔrɔtanin lo ka tɛmɛ tɔɔw kan, aw k'olu faranfasi						1527665647813	
-Système de choses	Yannick	Koo sigi cogoya		Diɲɛ				1527665647814	
-Encadré	Boyd	Koorilen						25806141398	
-Collège central	Yannick	Koow Ɲɛnabɔla Jɛnkulu						1527665647816	
-Mer rouge	Yannick	Kɔgɔji wulen						1527665647817	
-Tentation	Yannick	Kɔrɔboli						1527665647818	
-Assistant ministériel	Boyd	Kɔrɔsigi ciden						-54217186339	
-Assistant ministériel	Yannick	Kɔrɔsigi ciden						1527665647820	
-Assistant ministériel expérimenté	Yannick	Kɔrɔsigi ciden setigi						1527665647821	
-Surveillant itinérant	Yannick	Kɔrɔsigibaga tagamakɛla						1527665647822	
-Tour de garde	Boyd	Kɔrɔsili sangaso						3830892769	
-En cas d'urgence	Yannick	Kɔrɔtɔkow kosɔn						1527665647824	
-Mémorial de la mort de christ	Boyd	Krista ka saya hakilijigi lajɛn						20017511166	
-Intronisation du christ	Yannick	Krista sigini masa sigilan kan						1527665647826	
-Éternellement	Boyd	Kudayi						-55856535130	
-Service à plein temps	Yannick	Kudayi cidenya baara						1527665647828	
-Pionnier permanent	Yannick	Kudayi Piyoniye						1527665647829	
-Technique oratoire	Yannick	Kumacogo fɛɛrɛ						1527665647830	
-Prière de conclusion	Yannick	Kuncɛli delili						1527665647831	
-De nouveaux sommets ont été atteints	Yannick	Kunkɔrɔta kura caaman sɔrɔla						1527665647832	
-Sacrifice rédempteur	Yannick	Kunmabɔ  saraka						1527665647833	
-Rançon	Boyd	Kunmabɔsara						-53018679285	
-Sacrifice rédempteur	Boyd	Kunmabɔ  saraka						4895241135	
-Communication spéciale	Yannick	Kunnafoni kɛrɛnkɛrɛn						1527665647836	
-Communications	Boyd	Kunnafoniw						3656657915	
-Trébucher (spirituellement)	Yannick	Kunnatiɲɛ						1527665647838	
-Souveraineté	Yannick	Kuntigiya		Sebagaya		Masabaya		1527665647839	
-Conducteur à la tour de garde	Yannick	La tour de garde kalan ɲɛminɛbaga						1527665647840	
-Organisation	Yannick	Labɛn		Ɔriganisasiyɔn				1527665647841	
-Sabbat	Boyd	Lafiɲɛlon						-53018428141	
-Réunion	Boyd	Lajɛn						-11085274429	
-Lors de la réunion	Yannick	Lajɛn kɛto						1527665647844	
-Lieux de culte	Yannick	Lajɛn kɛyɔrɔw						1527665647845	
-Assemblée	Yannick	Jamakulu						1527665647846	
-Salle d'assemblées	Yannick	Lajɛnba boonw						1527665647847	
-Surveillant de l'école	Yannick	Lakoli kɔrɔsibaga						1527665647848	
-Ressussiter	Boyd	Lakunun						-55856535126	
-Interlocuteur	Boyd	Lamɛnbaga		Lamɛnnikɛla				4896872164	
-Compagnon de chambre	Yannick	Lamɔgɔ						1527665647851	
-Foi (sans)	Yannick	Lanabaliya						1527665647852	
-Foi	Yannick	Lanaya						1527665647853	
-Foi solide	Yannick	Lanaya barikaman						1527665647854	
-Foi naissante	Yannick	Lanaya kura						1527665647855	
-Alliance	Boyd	Tɔnsigi						-201373188	
-Terre promise	Yannick	Layidu jamana						1527665647857	
-Arche (de l'alliance)	Yannick	Layidu waganden						1527665647858	
-Semaine spéciale	Yannick	Lɔgɔkun kɛrɛnkɛrɛnnin						1527665647859	
-Jéhovah est humble	Yannick	Majigilenya be Jehova la (Si sentiment, qualité, partie du corps : be … la)						1527665647860	
-Chez les personnes intéressées	Yannick	Makodon mɔgɔw fɛ						1527665647861	
-Ne doit pas durer plus de	Yannick	Man kan ka mɛɛn ka tɛmɛ … kan						1527665647862	
-Codirigeant	Yannick	Marakɛɲɔgɔn						1527665647863	
-Royaume	Boyd	Masaya						4894757744	
-Salle du royaume	Yannick	Masaya boon				Massaya Soo	Bambara	1527665647865	
-Ministère du royaume	Yannick	Masaya cidenyabaara						1527665647866	
-Bonne nouvelle du royaume	Yannick	Masaya kibaro duman						1527665647867	
-École pour évangélisateurs du royaume	Boyd	Masaya waajulikɛlaw ka lakoli						-15518899097	
-Messie	Boyd	Masiya						4894740815	
-Repas du seigneur	Yannick	Matigi ka surafana seli						1527665647870	
-Attitude mentale	Yannick	Miiriya cogo						1527665647872	
-Offre du mois	Yannick	Min be di kalo la						1527665647873	
-Qui convienne	Yannick	Min dagalen be						1527665647874	
-Qui mérite toute notre attention	Yannick	Min ka kan ka ta sɔbɛ la						1527665647875	
-Trop décontracté	Yannick	Min labilanen lo kojugu						1527665647876	
-Qui correspond	Yannick	Min nyɛsinna						1527665647877	
-Qui est indécent	Yannick	Min tɛ mɔgɔ sutara						1527665647878	
-Qui est excentrique	Yannick	Min waganen lo kojugu						1527665647879	
-Ceux dont la situation ressemble à la nôtre	Yannick	Minw be an ka cogoya ɲɔgɔn kɔnɔ						1527665647880	
-Qui correspondent le mieux à leurs besoins	Yannick	Minw be u makow ɲɛ cogo fisaman na						1527665647881	
-Ceux qui ont grandi dans un foyer chrétien	Yannick	Minw lamɔna kerecɛnya denbaya kɔnɔ						1527665647882	
-Sujet de préoccupation	Yannick	mɔgɔ be hami koo min koson						1527665647883	
-Membres du service accueil	Yannick	mɔgɔ kunbɛnbagaw						1527665647884	
-Beaucoup écoutent plus attentivement	Yannick	mɔgɔw b'u tulo malo						1527665647885	
-Préposé à l'accueil	Yannick	Mɔgɔ kunbɛnbaga						1527665647886	
-Peuple particulier	Yannick	Mɔgɔ ɲɛnatɔmɔnin						1527665647887	
-Cela ne passe pas inaperçu	Yannick	Mɔgɔ wɛrɛw b'a kɔrɔsi						1527665647888	
-Centres d'intérêt des gens	Yannick	Mɔgɔw ka makoyaw						1527665647889	
-Qu'est-ce que cela requiert de nous?	Yannick	Mun lo ɲininen be an fɛ do ?						1527665647890	
-Pourquoi tolère-t-il autant de souffrances ?	Yannick	Mun na a b'a to tɔɔrɔ be caya ten ?						1527665647891	
-Endurer	Boyd	Muɲu						3661744119	
-Endurance	Yannick	Muɲuli						1527665647893	
-Apostat	Yannick	Murutilen						1527665647894	
-Quand nous sommes occupés dans le service	Yannick	N'an bolo degunnen be Alakow la						1527665647895	
-Diable	Boyd	Naafigi						-53019039215	
-Bienfait durable	Yannick	Nafa bɛrɛbɛrɛ						1527665647897	
-J'ai ma propre religion	Yannick	Ne be diinan dɔ la ka ban						1527665647898	
-Ça ne m'intéresse pas	Yannick	Ne mako t'a la						1527665647899	
-Je ne m'intéresse pas aux témoins de jéhovah	Yannick	Ne mako tɛ jehova seerew la						1527665647900	
-Tact	Yannick	Nɛmɛnɛmɛ						1527665647901	
-La fin de la fausse religion est proche	Yannick	Ngalon diinan laban ka surun						1527665647902	
-Si une personne manifeste de l'intérêt	Yannick	Ni mɔgɔ do y'a mako don an ka baro la						1527665647903	
-Dans la mesure du temps disponible	Yannick	Ni wagati be yen						1527665647904	
-Offrande	Yannick	Nili						1527665647905	
-Au bord du nil	Yannick	Nili bada la						1527665647906	
-Boîte à offrande	Boyd	Nili buwati						3653464641	
-Repentir (se)	Yannick	Nimisa fɛn la						1527665647908	
-Repentance	Yannick	Nimisali						1527665647909	
-Cela donne vraiment à réfléchir	Yannick	Nin b'an lasun ka miiri sɔbɛ la						1527665647910	
-Cette information est importante car …	Yannick	Nin kunnafoni korotalen be sabu …						1527665647911	
-Joie	Boyd	Ninsɔndiya						-11287133660	
-Service joyeux	Yannick	Nyagali baara						1527665647914	
-Espérance de la vie éternelle	Yannick	Nyɛnamaya banbali jigi						1527665647915	
-Expliquer	Boyd	Ɲɛfɔ						-7054053843	
-Guider	Boyd	Ɲɛminɛ						-7054111008	
-Président (d'une réunion)	Yannick	Ɲɛminɛbaga		Barokuntigi		Kalankɛla ɲɛbila		1527665647918	
-Réunion récréative	Yannick	Ɲɛnagɛw lajɛn		Tulonkɛ lajɛn		Ɲɛnagɛw ɲɔgɔnye		1527665647919	
-Éveiller l'intérêt	Yannick	Ɲɛnatigɛ		Ka hakili sama				1527665647920	
-Question subsidiaire	Yannick	Ɲiningali wɛrɛ						1527665647921	
-Esprit de compétition	Yannick	Ɲɔgɔndan miiriya						1527665647922	
-Bonté	Yannick	Ɲumaya						1527665647923	
-Bonté mal placée	Yannick	Ɲumaya min man kan		Ɲumaya min a dagalen tɛ				1527665647924	
-Cela prouve que	Yannick	O b'a yira ka gwɛ ko						1527665647925	
-Cela arrivera de notre vivant	Yannick	O bena kɛ k'an to sii la						1527665647926	
-De tels sacrifices	Yannick	O bonyogonko sarakaw						1527665647927	
-Un article l'a poussé	Yannick	O kalan y'a lasun						1527665647928	
-Cette femme n'a jamais manqué une réunion	Yannick	O muso ma fɔn lajɛn si la						1527665647929	
-Ce genre de questions	Yannick	O ɲiningali ɲogonw						1527665647930	
-Pas le moment de flâner	Yannick	O tɛ saliya wagati ye						1527665647931	
-Cela l'affermi en vue des épreuves à endurer	Yannick	O ye a fanga don a la walisa a ka kɔrɔbɔliw muɲu						1527665647932	
-Pionnier auxiliaire	Yannick	Piyoniye korosigi						1527665647933	
-Pionnier	Boyd	Piyɔniye						-54217186338	
-Service de pionnier	Yannick	Piyɔniye baara						1527665647935	
-Juru sara	Boyd	Propitiation						19411687406	
-Rapport	Yannick	Rapoori						1527665647937	
-Texte de l'année	Yannick	Saan ka kalankun		Saan ka bibulusen				1527665647938	
-1er siècle	Yannick	Saan kɛmɛ folo						1527665647939	
-Sacrifice rédempteur	Boyd	Kunmabɔ  saraka						19411554786	
-Autres brebis	Yannick	Saga wɛrɛw						1527665647941	
-Petit troupeau	Yannick	Sagakulunin						1527665647942	
-Dessein	Boyd	Sago						-8263134106	
-Serviteur/adorateur	Boyd	Sagokɛla						-11287332641	
-Chapitre	Boyd	Sapitiri		Tilan		Tilanyɔrɔ		-53018127491	
-Sacrifier	Boyd	Saraka						-55856535110	
-Sacrifice	Yannick	Saraka						1527665647947	
-Sacrifier (à faux dieu)	Yannick	Saraka bɔ		kɛ				1527665647948	
-Prêtre	Boyd	Sarakalasebaga						-27013963802	
-Conditions à remplir	Yannick	Saratiw ka dafa						1527665647950	
-Kisi	Boyd	Sauver						19411739780	
-Puissant	Boyd	Sebagaya						2477044405	
-Témoin	Yannick	Seere		Seree				1527665647953	
-Témoignage informel	Yannick	Seereya kɛ sababu dɔ sen fɛ		Sen fɛ seereya		Senfɛ sereya		1527665647954	
-Révision	Boyd	Segikanni						-4434272399	
-Secrétaire	Yannick	Sekeretɛri						1527665647956	
-Saint	Yannick	Senu				Senuman		1527665647957	
-Témoignage	Yannick	Sereeya						1527665647958	
-Asperger	Yannick	Seri seri						1527665647959	
-Tract/dépliant	Yannick	Sɛbɛnin						1527665647960	
-Valider	Boyd	Sɛmɛtiya						20017782740	
-Divers aspects	Yannick	Sifa faanw ka ca						1527665647962	
-Coépouse	Yannick	Sinamuso						1527665647963	
-Satan	Boyd	Sitanɛ						-53019012572	
-Site officiel	Yannick	Site daganin						1527665647965	
-"Classe de ""l'intendant"""	Yannick	So kunna sigibaga jɛnkulu						1527665647966	
-Intendant	Yannick	Sokunnasigibaga						1527665647967	
-Système de sonorisation	Yannick	Sono juru						1527665647968	
-Cheval	Boyd	Soo						3670467518	
-De maison en maison	Boyd	Soo ni soo						3656948736	
-Société	Yannick	Sosiyete						1527665647971	
-Filiale	Yannick	Sosiyete ka biro		Tonbolo		Tɔnbolo biro		1527665647972	
-Sujet controversé	Yannick	Sɔsɔli kuma						1527665647973	
-Esprit des ancêtres	Yannick	Sukɔrɔ						1527665647974	
-Résurrection	Yannick	Sukununi		Suu kununi				1527665647975	
-Résurrection	Boyd	Sukununi		Suu kununi				-53018531254	
-Baisser	Boyd	Suuri		Sosuuri				-53277812243	
-Trébucher (physiquement)	Yannick	Talon						1527665647978	
-Des amis peu recommandables	Yannick	Teri jugu sifaw						1527665647979	
-Premier contact	Yannick	Tɛmɛko fɔlɔ						1527665647980	
-Assemblée de circonscription	Yannick	Tile fila lajɛnba						1527665647981	
-Assemblée spéciale d'un jour	Yannick	Tile kelen lajɛnba						1527665647982	
-Assemblée de district	Yannick	Tile saba lajɛnba						1527665647983	
-Texte du jour	Yannick	Tilera kalan		Lon o lon ka miiriya				1527665647984	
-Estrade	Yannick	Tintin						1527665647985	
-Surélévation/estrade	Yannick	Tintin						1527665647986	
-Le seul vrai dieu	Yannick	Tiɲɛn ala kelenpe						1527665647987	
-Bureau de la filiale	Yannick	Tɔnbolo biro						1527665647988	
-Comité de filiale	Boyd	Tɔnbolo ka kɔmité						-16124033849	
-Alliance	Yannick	Tɔnsigi						1527665647990	
-Grande tribulation	Yannick	Tɔɔrɔba						1527665647991	
-Déluge	Yannick	Tufane jii		Sanjiba				1527665647992	
-Compagnon	Yannick	Tunɲɔgɔn						1527665647993	
-Convertir(se)	Yannick	Tuubi						1527665647994	
-Éviter les extrêmes	Yannick	U waganen tɛ						1527665647995	
-Retrait volontaire	Yannick	U yɛrɛ mabɔ kafo la						1527665647996	
-À cause de leur état de pécheur	Yannick	U yɛrɛw ka jurumutoya koson						1527665647997	
-Verset	Boyd	Vɛrise		Bibulusen				-53018100777	
-Verset	Yannick	Vɛrise		Bibulusen				1527665647999	
-Verset clé	Yannick	Vɛrise jonjon						1527665648000	
-185000	Boyd	Waa kɛmɛ ni bi seegi ni looru						-7053266987	
-Devoir sacré	Yannick	Waajibiko senuman						1527665648002	
-Prêcher	Boyd	Wajuli kɛ		Waju				-54727587241	
-Quand nous prêchons	Yannick	Waajuli kɛto						1527665648004	
-Ministère (prédication)	Yannick	Waajulibaara						1527665648005	
-Surveillant au service	Yannick	Waajulibaara kɔrɔsibaga						1527665648006	
-Année de service	Yannick	Waajulibaara saan						1527665648007	
-Évangélisateur zélé	Yannick	Waajulikɛla kisɛman						1527665648008	
-Le numéro de carte de territoire	Yannick	Waajulikɛyɔrɔ karti ka nimɔrɔ						1527665648009	
-Groupes de prédication	Yannick	Waajuliko jɛnkuluw						1527665648010	
-Réunion de service	Yannick	Waajuliko lajɛn						1527665648011	
-Comité de service	Yannick	Waajuliko ɲɛnabɔbagaw jɛnkulu						1527665648012	
-Temps critiques sont là	Yannick	Wagati gwɛlɛnw sera an kun						1527665648013	
-Temps imparti	Yannick	Wagati latigɛlen						1527665648014	
-Un autre moment de la journée	Yannick	Wagati wɛrɛ la tile kɔnɔ						1527665648015	
-Prêcher	Yannick	Wajuli kɛ		Waju				1527665648016	
-Territoire (prédication)	Yannick	Wajulikɛ yɔrɔ						1527665648017	
-Fait (de prédication)	Yannick	Wale						1527665648018	
-Proclamateur	Boyd	Weleweledala		Wajulikɛla				-18714818564	
-Proclamateur	Yannick	Weleweledala		Wajulikɛla				1527665648020	
-Enseignant capable	Yannick	Weleweledala kolonbaga		Weleweledala setigi				1527665648021	
-Proclamateur moins expérimenté	Yannick	Weleweledala kura						1527665648023	
-La paque juive	Boyd	Yahutuw ka tɛmɛnkan seli						20017576005	
-Cette méthode est elle toujours utile ?	Yannick	Yala o kɛcogo be sanga la hali bi wa ?						1527665648025	
-Conversion	Yannick	Yɛlɛmani						1527665648026	
-Sacrifier (se)	Yannick	Yɛrɛ saraka (réfléchi)						1527665648027	
-Offrande de soi	Yannick	Yɛrɛkundili						1527665648028	
-Maitrise de soi	Boyd	Yɛrɛminɛli						3656197437	
-Esprit d'indépendance	Yannick	Yɛrɛta hakili						1527665648030	
-Présence de jésus	Yannick	Yɛsu be yan wagati						1527665648031	
-Présentation	Boyd	Yiracogo						-18949454284	
-Psalmiste	Yannick	Zaburu sɛbɛbaga						1527665648033	
-District du jourdain	Yannick	Zurudɛn mara						1527665648034	
-Ancien numéro	Yannick	Zurunali koroman						1527665648035	
-Journée de périodiques	Yannick	Zurunaliw dilon						1527665648036	
-Tournée de périodiques	Yannick	Zurunaliw disira						1527665648037	
-Diffusion des périodiques	Yannick	Zurunaliw jɛnsɛnni						1527665648038	
-Fondé sur les Ecritures		A basiginen be Bibulu kan						27783419414	
-Il chérissait son fils		A dencɛ ko tun ka di a ye hali						27783419415	
-Se sentir heureux		A dusu diyara						27783419416	
-Se sentir satisfait		A dusu wasara						27783419417	
-Ses manières d'agir		A ka koow kɛcɔgɔw						27783419418	
-Il parle exclusivement de		A kɔnɔnakow bɛɛ be kuma						27783419419	
-Il était disposé		A labɛnnen tun lo ka ..						27783419420	
-Il croit en …		A lanen be .. na						27783419421	
-Il croyait en …		A lanen tun be…na						27783419422	
-Il n'est pas intéressé		A m'a mako don						27783419423	
-Il nous a oublié		A ɲinɛna an kɔ						27783419424	
-Écrit à l'envers		A sɛbɛra ka yɛlɛma ɲɛjugu kan						27783419425	
-Elle m'est allée droit au cœur		A sinna ka ne dusu minɛ						27783419426	
-Il ne cherche pas ses propres intérêts		A t'a yɛrɛ nafa ɲini						27783419427	
-Il ne les lisait jamais		A tun m'u kalan ka ye						27783419428	
-Veuillez l'utiliser largement		A' ye baara kɛ n'a ye caaman						27783419429	
-Abonnement		Abɔneman						27783419430	
-Compagnon de travail de Dieu		Ala ka baarakɛnyogon						27783419431	
-Armure complète de Dieu		Ala ka kɛlɛkɛ minenw bɛɛ						27783419432	
-Royaume de Dieu établi		Ala ka masaya sigira sen kan						27783419433	
-Fidèle intendant de la faveur imméritée de Dieu		Ala ka nɛɛma nilifɛn marabaga dannamɔgɔw						27783419434	
-Obéissance à Dieu		Ala kanminɛli						27783419435	
-Impie		Ala lɔnbali						27783419436	
-Pécheurs impies		Ala ɲɛsiranbali jurumutɔw						27783419437	
-Trinité		Ala sabaya						27783419438	
-Volonté de Dieu		Ala sagoya						27783419439	
-Pensée spirituelle		Alako miiriya						27783419440	
-Trésor spirituel		Alako nafolo						27783419441	
-Moisson spirituelle		Alako sumatigɛ						27783419442	
-Croyant		Alalɔnbaga						27783419443	
-Elle l'adopta comme son fils		Ale y'a kɛ a yɛrɛ dencɛ ye						27783419444	
-Paradis		Alijɛnɛ						27783419445	
-Scène du paradis		Alijɛnɛ bisigi						27783419446	
-Soyons déterminés à écouter		An k'an cɛsiri k'a lamɛn						27783419447	
-Conjuguons nos efforts		An ka jɛn k'an jija ka …						27783419448	
-Séparons-nous		An ka mabɔ ɲɔgɔnna						27783419449	
-Soyons souples		An ka magaya						27783419450	
-Continuons d'attendre Jéhovah		An ka to ka Jehova makɔnɔ						27783419451	
-Parcourons entièrement le territoire		An ka waajuli kɛ  kiin kɔnɔ k'a dafa						27783419452	
-N'en concluez pas trop rapidement		An kana koroto k'a miiri ko						27783419453	
-Notre glorieux Père céleste		An sankolola Faa cyɛnyumanba						27783419454	
-Abordable		An te sigasiga ka kuma a fɛ		A labilanin lo mɔgɔw kama (être abordable)				27783419455	
-En ses propres termes		An yɛrɛ ka kumacogo la						27783419456	
-Ne vous en remettez pas au hasard		Aw kana miiri ko koow bena kɛ u yɛrɛ ye						27783419457	
-Récompense merveilleuse		Barajiba						27783419458	
-Force fournie		Barika dilen						27783419459	
-Evènement imprévus		Barinankow						27783419460	
-Entrée en matière		Baro dadon kuma						27783419461	
-Bonne discussion		Baro diiman						27783419462	
-Thème / Article / Titre		Barokun		Kalankun				27783419463	
-Idoles sans vie		Batofɛnw ɲɛnaman tɛ						27783419464	
-Traduction		Bayɛlɛmani						27783419465	
-Maltraitence des animaux		Bɛgɛnw nintoro						27783419466	
-Règlement des différents		Bɛnbaliyaw ɲɛnabɔko						27783419467	
-À notre époque		Bi tilew la						27783419468	
-Compréhension actuelle de la Bible		Bibulu faamuyacogo kura						27783419469	
-Stocker		Bila		Bilanin				27783419470	
-Image (sens figuré)/Représentation		Bisigi						27783419471	
-Idôlatrie		Boli batoli						27783419472	
-Don matériel		Bololafen nili						27783419473	
-Matériel (sur le plan)		Bololafɛn						27783419474	
-Aide matérielle		Bololafɛn dili						27783419475	
-Montants des portes		Bonda yiri						27783419476	
-Généalogie / Origine		Buruju						27783419477	
-Pédophilie		Cɛnimusoya kɛ ni denfitiniw ye						27783419479	
-Homosexualité		Cɛɲɔgɔnɲini ni musoɲɔgɔnɲini koo						27783419480	
-Intertitre / Sous-titre		Cɛtigɛ						27783419481	
-Discours d'instruction		Cii fɔlɔ kalan						27783419482	
-Message		Cira						27783419483	
-Message capital		Cira kɔrɔtalen						27783419484	
-Faux prophète		Cira ngalontigɛla						27783419485	
-Messager		Ciraden						27783419486	
-De façon méthodique (ordonnée) / Logique		Cogo tilennen na						27783419487	
-Frapper à une porte		Daa kɔkɔ						27783419488	
-Démarrer (conversation)		Dabɔ						27783419489	
-Inspirée de Dieu		Dafiɲɛ fɛ (Ala...)						27783419490	
-Quelques paragraphes		Dakun damanin dɔw						27783419491	
-Nombre de paragraphes		Dakun hakɛ						27783419492	
-Renier		Dalacɛ						27783419493	
-Reniement		Dalacɛli						27783419494	
-Contemporain de David		Daouda ka wagati mɔgɔ		Daouda ka filankuru				27783419495	
-Emblème		Dasiri						27783419496	
-Surveillant Président		Diinan mɔgɔkɔrɔw ɲɛbila						27783419497	
-Abîme		Dingɛ dunba						27783419498	
-Volonté, Plaisir		Diyanako						27783419499	
-Approbation		Diyanye						27783419500	
-Cantique / Mélogie		Donkili						27783419501	
-Recueil de cantiques		Donkili gafe						27783419502	
-Réduire, Manquer de respect à		Dɔgɔ						27783419503	
-Chanson, Chant, Musique		Dɔnkili						27783419504	
-Bienfait		Duga		Sara		Nafa		27783419505	
-Bénis		Dugaden		Dubaden				27783419506	
-Chemise, Vêtement, Tunique		Duloki		Dereke		Fani		27783419507	
-Humanité, Monde		Duniɲa		Diɲɛ				27783419508	
-Souverain de l'univers / Souverain Seigneur		Duniɲa kuru bɛɛ Masaba						27783419509	
-Pharaon		Faharuna						27783419510	
-Force irrésistible		Fanga barikama						27783419511	
-Tenue		Fani doncogo		Fani				27783419512	
-Méthode, moyen		Fɛɛrɛ						27783419513	
-Faiblesse (défaut)		Finyɛ						27783419514	
-Fête populaire		Foroba fɛtilon						27783419515	
-Discours public / Réunion publique		Forobakalan						27783419516	
-Manuel d'étude		Gafe kalanta						27783419517	
-Présentation simple		Gafe yiracogo nɔgɔman						27783419518	
-Écritures grecques chrétiennes		Gɛrɛkikan Sɛbɛninw						27783419519	
-Esprit fixé sur le Royaume		Hakili be sigi Masaya koow kan						27783419520	
-Famine spirituelle		Hakilimaya kongo						27783419521	
-Pensée essentielle		Hakilinata jonjon						27783419522	
-Fruit de l'esprit		Halkili senu deen						27783419523	
-Écritures hébraïques		Heburukan Sɛbɛninw						27783419524	
-Donner à Jéhovah le meilleur		I k'i seko fisaman kɛ Jehova ma						27783419525	
-Fixe toi un objectif personnel		I k'i togola lanyinita latigɛ						27783419526	
-Restons proches de l'organisation de Jéhovah		I ka to Jehova ka jɛnkulu kɔrɔ						27783419527	
-Assistance / Foule		Jama						27783419528	
-Situation des comptes		Jateminɛw dantigɛli						27783419529	
-Créations de Jéhovah		Jehova ka fɛɛn danenw						27783419530	
-Brûler / Consumer		Jeni		Jɛni				27783419531	
-Mauvaise compagnie		Jɛnɲɔgɔn jugu						27783419532	
-Idôle		Joo		Boli		Batofɛn		27783419533	
-Pire ennemi		Juguba						27783419534	
-Se soucier		K'a janto		Jɔrɔ				27783419535	
-Laisser la Parole de Dieu les pousser à l'action		K'a to Ala ka Kuma ka u lasun						27783419536	
-Faire usage de sa raison		K'a yɛrɛ hakili jagabo						27783419537	
-Compter sur Jéhovah		K'an bolo la Jehova kan						27783419538	
-Fixer notre esprit sur des pensées constructives		K'an nyɛɛ jolen to koo nafamanw kan						27783419539	
-Plein d'égards		K'i janto mɔgɔ la						27783419540	
-Se vouer		K'i yɛrɛkun di						27783419541	
-Nous observons leur environnement		K'u laminikow kɔrɔsi						27783419542	
-Remercier Dieu		Ka barika la Ala ye		Ka Ala fo				27783419543	
-Reporter le baptême à plus tard		Ka batɛmi bila wagati wɛrɛ kan		Ka batɛmi segi kɔ		Ka batɛmi bila ka suma		27783419544	
-Prendre l'initiative		Ka bɔ i yɛrɛ la						27783419545	
-Productif		Ka den koɲuman						27783419546	
-Partager avec d'autres		Ka do bo aw bolo fɛnw la ka o di						27783419547	
-Inculquer à vos enfants		Ka don aw deenw kuun na						27783419548	
-S'exposer à un danger		Ka farati bila a sen kɔrɔ						27783419549	
-Raisonner habilement à partir des Écritures		Ka hakilijagabɔ koɲuman Bibulusenw kan						27783419550	
-S'intéresser sincèrement à autrui		Ka janto ɲɔgɔn na sɔbɛ la						27783419551	
-Connaître Jéhovah et le servir		Ka Jehova lon ani ka baara kɛ a ye						27783419552	
-Louer Jéhovah publiquement		Ka Jehova tando bɛɛ nyɛ na						27783419553	
-Resserrer ses liens avec Jéhovah		Ka jɛnɲɔgɔya teriman yiriwa ile ni Ala cɛ						27783419554	
-Lecture publique		Ka kalan gwɛ kɛ jama ɲɛ na						27783419555	
-Parler au naturel		Ka kalan kɛ u yɛrɛ kuma cogo la						27783419556	
-Savoir lire et écrire		Ka kalan ni sɛbɛri lon						27783419557	
-Être irréprochable et innocent		Ka kɛ jalakibali jɛlenw ye						27783419558	
-Regarder le côté positif de la situation		Ka koow jate ni nyɛɛ nyuman ye						27783419559	
-Parler de façon positive		Ka kuma ɲuman fɔ						27783419560	
-Répondre à une objection		Ka kuma tigɛbaga ka sɔsɔli jaabi						27783419561	
-Se prosterner		Ka kunbiri gwan dɔ kɔrɔ						27783419562	
-Prendre des dispositions précises		Ka labɛn kɛ ka gwɛ						27783419563	
-Prendre rendez-vous		Ka labɛn kɛ ka segi ka na						27783419564	
-Prendre la meilleure décision		Ka latigɛli fisaman kɛ						27783419565	
-Tenir ferme contre le Diable et les démons		Ka lo ka nyɛ ka Sitanɛ ni jinaw kunbɛn						27783419566	
-Accueillir les visiteurs		Ka lonanw bisimila						27783419567	
-Fixer un jour		Ka loon kelen latigɛ						27783419568	
-Nettoyer et entretenir la Salle du Royaume		Ka Masaya Boon saniya ani k'a ladon						27783419569	
-Penser que les morts sont conscients		Ka miiri ko mɔgɔ salenw be koow kala ma						27783419570	
-Réfléchir sérieusement à tout ce qu'il contient		Ka miiri kosɔbɛ a kɔnnakow bɛɛ kan						27783419571	
-Inciter d'autres personnes		Ka mɔgɔ wɛrɛw lasun						27783419572	
-Calomnier Jéhovah		Ka nafigiya kɛ Jehova la						27783419573	
-Se repentir		Ka nimisa						27783419574	
-Glorifier Dieu		Ka nɔɔrɔ la Ala kan						27783419575	
-Pousser des cris de joie		Ka nyagalikan bo						27783419576	
-Fixer notre attention		Ka ɲɛɛ jɔ						27783419577	
-Chérir la vie		Ka ɲɛnamaya jati fɛnba ye						27783419578	
-Vivre dans l'attachement à Dieu		Ka ɲɛnamaya kɛ k'an masirilen to Ala la						27783419579	
-Simplifier sa vie		Ka ɲɛnamaya kɛ nɔgɔman na		An k'an ɲɛnamaya kɛ nɔgɔman na				27783419580	
-Oublier Jéhovah		Ka ɲinɛ Jehova kɔ						27783419581	
-Être réintégré		Ka segi ka na						27783419582	
-Mettre en valeur		Ka sin k'a yira						27783419583	
-Accentuation des mots clés		Ka sinsin yɔrɔ jɔnjɔnw kan						27783419584	
-Mettre en évidence		Ka sinsin… kan		Yira ka gwɛ				27783419585	
-S'appliquer à connaître la Parole de Dieu		Ka sɔbɛ don ka Ala ka Kuma kalan						27783419586	
-Défendre la vérité		Ka tinyɛnko lafasa						27783419587	
-Prendre position pour Jéhovah		Ka tugu Jehova kɔ						27783419588	
-Résumer brièvement les textes longs		Ka vɛrise janw kofo ka surunya						27783419589	
-Montrer sa reconnaissance		Ka walenyumanlon yira						27783419590	
-Paganisme / Païenne		Kafiriya						27783419591	
-Formulaire		Kafolisɛbɛ						27783419592	
-Discours		Kalan						27783419593	
-Leçon importante		Kalan nafaman						27783419594	
-Exposé constructif		Kalan ɲuman						27783419595	
-Disciple		Kalanden						27783419596	
-Fidélité indéfectible		Kantigiya lamagabali						27783419597	
-Les armées mirent le siège sur Jérusalem		Kɛlɛbolow ye daga sigi Jerusalem daa la						27783419598	
-Juger		Kiri tigɛ ... kan						27783419599	
-Juger avec justice		Kiri tigɛ cogo tilennin na						27783419600	
-Jugement (lieu du)		Kiritigɛyɔrɔ						27783419601	
-Séparer de Babylone la Grande		Ko an faranna ka bo Babilonɛba la						27783419602	
-Obéissance		Kololi						27783419603	
-Activités saines		Koow kɛcogo saniman						27783419604	
-Malgré l'opposition		Koroboli bɛɛ n'a ta						27783419605	
-Mer Rouge		Kɔgɔji Wulen						27783419606	
-Observateur		Kɔlɔsili kɛbaga						27783419607	
-Directeur de festin		Kɔɲɔko kuntigi						27783419608	
-Intronisation du Christ		Krista sigini masa sigilan kan						27783419609	
-Fluidité de l'expression		Kuma ka nɔgɔya a daa						27783419610	
-Modulation		Kumakan yɛlɛma-yɛlɛma						27783419611	
-Lépreux		Kunatɔ						27783419612	
-Idée annexe		Kunnafoni do						27783419613	
-Génération		Kuru		Filankuru		Wagatikelenmɔgɔw		27783419614	
-Sens (à la vie)		Kuun						27783419615	
-Conducteur à la Tour de Garde		La Tour de Garde kalan ɲɛminɛbaga						27783419616	
-Conseiller adjoint (EMT)		Ladili dibaga filanan		Ladili dibaga kankɔrɔsigi				27783419617	
-Blâme		Lagosili						27783419618	
-Ferme / Inébranlable		Lamagabali						27783419619	
-Auditeur		Lamɛnnikɛla						27783419620	
-Contexte		Laminiko						27783419621	
-Maraige coutumier		Landa furu						27783419622	
-Objectif		Lanyinita		Laɲinita				27783419623	
-Priorité		Laɲinita fɔlɔ						27783419624	
-Progresser (faire)		Lataga ɲɛ						27783419625	
-Manque de foi		Limaniyabaliya						27783419626	
-Lecture hebdomadaire de la bible		Logokun kono ka bibulu kalangwɛ						27783419627	
-Pendant un jour entier		Loon kelen kuru bɛɛ						27783419628	
-Centre d'intérêt		Makow						27783419629	
-Salle du Royaume		Masaya boon						27783419630	
-Bonne nouvelle du Royaume		Masaya kibaro duman						27783419631	
-Repas du Seigneur		Matigi ka surafana seli						27783419632	
-Idées indéniables		Miiriyaw, mɔgɔ te se k'u soso						27783419633	
-Enduire		Mɔ						27783419634	
-Modèle		Mɔdɛli						27783419635	
-Offenser		Mɔgɔ gasi tiɲɛn		Baga mɔgɔ ma				27783419636	
-Personnes sans instruction		Mɔgɔ gwansan kalanbaliw						27783419637	
-Il dédaigna la comapgnie des méchants		Mɔgɔ juguw ka jɛnɲɔgɔnya tun ka gwo a ye						27783419638	
-Personne cultivée		mɔgɔ kalannen						27783419639	
-Personne inexpérimentée		Mɔgɔ ko lɔnbali						27783419640	
-Personne d'une origine différente		Mɔgɔ min bɔyɔrɔ tɛ kelen ye						27783419641	
-Protecteur		mɔgɔ tangabaga						27783419642	
-Oints (chrétiens)		Mɔnlenw						27783419643	
-Supporter/endurer		Muɲuli						27783419644	
-Quand c'est approprié		N'a bɛnnen be						27783419645	
-Quand vous reviendrez		N'an segira ka na						27783419646	
-Quand tu seras grand		N'i kɔrɔbayara						27783419647	
-Matérialiste		Nafolo kanuya b'a la						27783419648	
-Trésor inestimable		Nafolo nafamanba						27783419649	
-Empêcher de progresser		Nagasi						27783419650	
-Je ne m'intéresse pas aux Témoins de Jéhovah		Ne mako tɛ Jehova Seerew la						27783419651	
-Privilège		Nɛɛma						27783419652	
-Faux dieux		Ngalon alaw						27783419653	
-Fausse religion		Ngalon diinan						27783419654	
-Si les circonstances le permettent		Ni koow cogoya bɛnnen be						27783419655	
-Presque tout le monde apprécie		Ni mɔgɔ kelen-kelen tɛ , a ka di bɛɛ ye ka						27783419656	
-Si un autre est disponible		Ni mɔgɔ wɛrɛ labilanen lo						27783419657	
-Au bord du Nil		Nili bada la						27783419658	
-Parabole		Ntalen						27783419659	
-Donner un proverbe		Ntalen la						27783419660	
-Exemple remarquable		Nyɛyirali cɛnyumanba						27783419661	
-Fixer du regard		Ɲɛɛ jɔlen to						27783419662	
-Progrès sensibles (notables)		Ɲɛtaga bɛrɛ kɛ						27783419663	
-Progrès (faire)		Ɲɛtaga kɛ						27783419664	
-Volonté		Ŋaniya						27783419665	
-Murmurer		Ŋunuŋunu		Dajukɔrɔ kuma fɔ				27783419666	
-Murmure		Ŋunuŋunukan						27783419667	
-Jamais vu chose semblable		O koɲɔgɔn tun ma deli ka ye abada						27783419668	
-Elles ne sont pas autorisées à l'assemblée		O ma daga lajɛnba yɔrɔ la						27783419669	
-Programme		Porogramu						27783419670	
-Possibilité unique		Sababuba						27783419671	
-Nuée		Sankaba						27783419672	
-Père céleste plein d'amour		Sankolola Faa kanutigi						27783419673	
-Récompenser		Sara						27783419674	
-Principe élevé		Sariyakolo kɔrɔtalen						27783419675	
-Tenue vestimentaire		Sawura						27783419676	
-Saint / Sain / Pur		Senu		Senuman				27783419677	
-Dépliant		Sɛbɛnin						27783419678	
-Tract		Sɛbɛnin						27783419679	
-Vérification		Sɛgɛsɛgɛri						27783419680	
-Réservation des sièges		Sigiyɔrɔ marali						27783419681	
-Sur les trottoirs		Siradaw la						27783419682	
-Maintenant que tu as grandi		Sisan, komi i kɔrɔbayara						27783419683	
-Accepter revue		Sɔn zurunali la		fɛn la				27783419684	
-Objection / Dispute		Sɔsɔli		Kuma tigbaga				27783419685	
-Approcher s' (temps)		Surunyalen						27783419686	
-Métaphore		Tagamasinyɛ						27783419687	
-Prendre plaisir		Timinandiya						27783419688	
-Surélévation/Estrade		Tintin						27783419689	
-Le seul vrai Dieu		Tiɲɛn Ala kelenpe						27783419690	
-En avoir conscience ou non		U b'a kala ma wo, u t'a kala ma wo						27783419691	
-Ils pensent qu'ils ne sont pas qualifiés pour		U b'a miiri ko see t'u ye ka						27783419692	
-A leur insu		U ɲina ma						27783419693	
-Les attaquer par surprise		U taga cun u kan						27783419694	
-Nouvelle visite		Viziti kura						27783419695	
-Il est indispensable		Waajibi lo						27783419696	
-Autre nécessité		Waajibiko wɛrɛ						27783419697	
-Graphique chronologique		Wagati jateminɛcogo jaa						27783419698	
-Fait marquant		Waleba						27783419699	
-Afin de se rétablir spirituellement		Walisa a ka segi ka fanga sɔrɔ Alako ta fan fɛ						27783419700	
-Pour ajouter du poids à nos paroles		Walisa ka sinsin an ka kumaw kan						27783419701	
-Feuille d'invitation		Weelesɛbɛ						27783419702	
-Proclamer		Weleweleda						27783419703	
-Proclamateur expérimenté		Weleweledala kolɔnbaga						27783419704	
-Vous êtes-vous jamais demandé		Yala i delila k'i yɛrɛ ɲiniga ni…						27783419705	
-Êtes-vous prêts à faire votre choix ?		Yala i labɛnnen be k'o latigɛ wa ?						27783419706	
-Changer / Traduire		Yɛlɛma						27783419707	
-Maîtrise de soi		Yɛrɛminɛli						27783419708	
-Présence de Jésus		Yɛsu be yan wagati						27783419709	
-Méthode souple		Yiracogo magaman		Yiracogo nogoman				27783419710	
-Statue en bois		Yirimɔgɔnin						27783419711	
-Accroissement		Yiriwali						27783419712	
-District du Jourdain		Zurudɛn mara						27783419713	
-Journal intéressant		Zurunali, a kalan ka di						27783419714	
+#Note ID	French	Source	Jula1	Note1	Jula2	Note2	Bambara	Note3	tags
+-53017885414	Gloire	Boyd	Nɔɔrɔ						
+-4632780310	Waa kɛmɛ ni bi segi ni looru	Boyd	185 000						
+1527665647504	Fondé sur les ecritures	Yannick	A basiginen be bibulu kan						
+1527665647505	Ce qu'elle nous réserve	Yannick	A be min mara an ye						
+1527665647506	Ça ressemble à …	Yannick	A bɔnin be …ma						
+1527665647507	Ça ressemble à quoi ?	Yannick	A bɔnin be mun le ma ?						
+1527665647508	Qui est en droit de …	Yannick	A dagalen be jon ka …						
+1527665647509	Tout au long de son ministère	Yannick	A ka cidenyabaara kuru bɛɛ la						
+1527665647510	Son caractère généreux	Yannick	A ka sonni dusu						
+1527665647511	Comment a-t-il réagi ?	Yannick	A kɔnna k'o koo ta cogo di?						
+1527665647512	Cela ne consiste pas à ...	Yannick	A kɔrɔ tɛ ka…						
+1527665647513	Sans jamais renoncer	Yannick	A ma sɔn k'a dabila abada						
+1527665647514	Il y a plus de 2000 ans	Yannick	A saan 2000 ni kɔ ye nin ye						
+1527665647515	Neutralité	Yannick	A te sen don politiki ko la						
+1527665647516	Ne pas indisposer les gens inutilement	Yannick	A tɛ mɔgɔ kɔnɔ gwan gwansan						
+1527665647517	Cette personne ne manifeste pas d'intérêt	Yannick	A tigi m'a mako don						
+1527665647518	Rappelez aux proclamateurs	Yannick	A' ye weleweledalaw hakili jigi						
+1527665647519	Compagnon de travail de dieu	Yannick	Ala ka baarakɛnyogon						
+-53017499366	Envoyé de dieu	Boyd	Ala ka ciden						
+1527665647521	Armure complète de dieu	Yannick	Ala ka kɛlɛkɛ minenw bɛɛ						
+-7054004510	Représentant de dieu	Boyd	Ala ka lasigidenw						
+1527665647523	Merveilleuses promesses divines	Yannick	Ala ka layidu cɛnyumanbaw koo						
+1527665647524	Ecole du ministère théocratique	Yannick	Ala ka Mara cidenyabaara lakɔli						
+1527665647525	Théocratie	Yannick	Ala ka mara cogo						
+3221065537	Souveraineté de dieu	Boyd	Ala ka masabaya						
+-53020406468	Royaume de dieu	Boyd	Ala ka masaya						
+1527665647528	Royaume de dieu établi	Yannick	Ala ka masaya sigira sen kan						
+1527665647529	Monde impie	Yannick	Ala ɲɛsiranbali duniɲa						
+1527665647530	Volonté divine	Yannick	Ala sago						
+1527665647531	Volonté de dieu	Yannick	Ala sagoya						
+1527665647532	Instruction spirituelle	Yannick	Alakow kalan						
+1527665647533	Nous savons parfaitement que	Yannick	An b'a lɔn ka gwɛ ko						
+1527665647534	Nous oublions tout le temps	Yannick	An be ɲinɛ tuma o tuma						
+1527665647535	Ceux qui nous observent	Yannick	An filɛbagaw						
+1527665647536	Notre tenue bien arrangée	Yannick	An ka fani doncogo ɲuman						
+1527665647537	Lors de la préparation d'un exposé	Yannick	An ka kalan labɛnto						
+1527665647538	Adopter le bon point de vue	Yannick	An ka kɛ ni miiriya ɲuman ye						
+1527665647539	Notre foi augmente	Yannick	An ka lanaya de dunya						
+1527665647540	Continuons d'attendre jéhovah	Yannick	An ka to ka jehova makɔnɔ						
+1527665647541	Adaptons-nous	Yannick	An ka yɛlɛmani dɔw kɛ an yɛrɛ ka koow la						
+1527665647542	Nous sommes bien informés	Yannick	An kalannin lo kosɔbɛ						
+1527665647543	En prêchant	Yannick	An kɛtɔ ka waajuli kɛ						
+1527665647544	Ne pas se focaliser sur nous-mêmes	Yannick	An man kan ka hakili sigi an ka jɔrɔ an yɛrɛ koo la						
+1527665647545	Notre glorieux père céleste	Yannick	An sankolola faa cyɛnyumanba						
+1527665647546	Pas coupable d'une dette de sang	Yannick	An tɛ mɔgɔ joli hakɛ ta						
+1527665647547	Activité intense	Yannick	Baara gwanniman						
+1527665647548	Activité spéciale	Yannick	Baara kɛrɛnkɛrɛnnin						
+1527665647549	Prophète de malheur	Yannick	Balawo kibaro weleweledala						
+1527665647550	Frère inactif	Yannick	Balima sumalen						
+1527665647551	Préposé aux territoires	Yannick	Balimancɛ  min be kiin koow  ɲɛnabɔ						
+1527665647552	Travail profane	Yannick	Baloɲini baara						
+1527665647553	Points faibles du pays	Yannick	Barika tɛ jamana yɔrɔ minw na						
+1527665647554	Points forts	Yannick	Barikamakow						
+1527665647555	Points faibles	Yannick	Barikantanyakow						
+1527665647556	Conversation initiale	Yannick	Baro folo						
+1527665647557	Thème	Yannick	Barokun				Kalankun		
+1527665647558	Adorateur	Yannick	Batobaga						
+-18949490395	Serviteurs	Boyd	Batobagaw						
+-18949479733	Culte	Boyd	Batoli						
+-54217186341	Béthel	Boyd	Betɛli						
+-54217186340	Famille du béthel	Boyd	Betɛli denbaya mogow						
+1527665647563	Adapter (s') aux gens	Yannick	Bɛn mɔgɔw ma						
+1527665647564	Vie actuelle	Yannick	Bi ka ɲɛnamaya						
+1527665647565	Système de chose actuel	Yannick	Bi koow sigicogoya						
+1527665647566	Contemporain (de notre époque)	Yannick	Bi mɔgɔ						
+1527665647567	Aujourd'hui plus que jamais	Yannick	Bi, ka tɛmɛ sanga ni wagati  bɛɛ kan						
+-40927278615	Bible	Boyd	Bibulu						
+1527665647569	Compréhension actuelle de la bible	Yannick	Bibulu faamuyacogo kura						
+1527665647570	Le récit inspiré nous apprend que	Yannick	Bibulu ka lakalita b'a fɔ an ye ko						
+-44178618673	Lecture de la bible	Boyd	Bibulu kalangwɛ						
+1527665647572	Enseignement biblique fondamental	Yannick	Bibulu kalansira jonjon						
+1527665647573	Dans les temps bibliques	Yannick	Bibulu sɛbɛwagati la						
+1527665647574	Étude biblique	Yannick	Bibulukalan						
+1527665647575	Biens matériels	Yannick	Bololafɛnw						
+1527665647576	Contribution volontaire	Yannick	Bolomafara						
+1527665647577	Contribuer	Yannick	Bolomafara di						
+1527665647578	Se déverser	Yannick	Bɔn						
+1527665647579	Boîte	Yannick	Buwati		Gongo				
+1527665647580	Apôtre	Yannick	Ciden						
+1527665647581	École de formation ministérielle	Yannick	Cidenyabaara degeli lakɔli						
+-26811574427	Lois principes	Boyd	Cifɔni						
+-53017833927	Commandement	Boyd	Cii						
+1527665647584	Exposé n°1	Yannick	Cii folo kalan						
+1527665647585	Dix commandements	Yannick	Cikan Tan						
+1527665647586	Message impopulaire	Yannick	Cira min tun man di mɔgɔw ye						
+1527665647587	Prophétie	Yannick	Ciraya		Cirakuma				duplicate
+1527665647588	Dans la dignité	Yannick	Cogo bɛnnen na						
+1527665647589	De façon méthodique (ordonnée)	Yannick	Cogo tilennen na						
+1527665647590	Porte en porte	Yannick	Da ni da la						
+403520813	Introduction	Boyd	Dadon kumaw						
+1527665647592	Imperfection	Yannick	Dafabaliya						
+1527665647593	Inspirée de dieu	Yannick	Dafiɲɛ fɛ (ala...)						
+1527665647594	Lors de l'examen du paragraphe	Yannick	Dakun lajɛtɔ						
+1527665647595	Révision orale	Yannick	Dalafoli segikanni						
+1527665647596	Entamer (entamer une conversation)	Yannick	Daminɛ						
+3218598874	Créer	Boyd	Dan						
+1527665647598	Pionnier spécial	Yannick	Dan na Piyoniye						
+1527665647599	Créature spirituelle	Yannick	Danfɛn hakililama						
+1527665647600	Contemporain de david	Yannick	Daouda ka wagati mɔgɔ				Daouda ka filankuru		
+1527665647601	Fils unique-engendré	Yannick	Dencɛ kelenpɛ bangelen						
+1527665647603	Secte	Yannick	Diinan bolo fara						
+1527665647604	Collège d'anciens	Yannick	Diinan mɔgɔkorow jɛnkulu						
+-54217186336	Ancien	Boyd	Diinan mɔgɔ kɔrɔ						
+1527665647606	Coordinateur du collège des anciens	Yannick	Diinan mɔgɔkɔrɔw jɛnkulu ka koow labɛnbaga						
+1527665647607	Surveillant président	Yannick	Diinan mɔgɔkɔrɔw ɲɛbila						
+1527665647608	Surveillant de ville	Yannick	Dugu kɔrɔsibaga						
+1527665647609	Sur la terre entière	Yannick	Dugukolo kuru bɛɛ kan		Dugukolo faan bɛɛ la				
+1527665647610	Ruine de la terre	Yannick	Dugukolo tinyɛni						
+1527665647611	Esprit du monde	Yannick	Duninya ka miiriya						
+1527665647612	Dans un monde méchant et corrompu	Yannick	Duniɲa juguman tolinen kɔnɔ						
+1527665647613	Puissance mondiale	Yannick	Duniɲa ka jamana fangatigi						
+1527665647614	Souverain de l'univers / souverain seigneur	Yannick	Duniɲa kuru bɛɛ masaba						
+20017719262	Vin	Boyd	Duvɛn						
+1527665647616	Contenance, Capacité	Yannick	Fahakɛ						
+1527665647617	Une tenue et une coiffure modeste	Yannick	Fanidocogo ni kuun masiricogo dama kɛɲɛnen						
+20017677956	Chair	Boyd	Farisogo						
+1527665647619	Chair imparfaite	Yannick	Farisogo dafabali						
+1527665647620	Oeuvres de la chair	Yannick	Farisogo ka kɛwali						
+1527665647621	Désirs charnels	Yannick	Farisogo negew						
+1527665647622	Faute grave	Yannick	Filiba						
+1527665647623	Tabernacle	Yannick	Finiso						
+3830971515	Discours public	Boyd	Forobakalan						duplicate
+1527665647625	Discours public	Yannick	Forobakalan						duplicate
+1527665647626	Discours spécial	Yannick	Forobakalan kɛrɛnkɛrɛn						
+20017822377	Levure	Boyd	Funufen						
+1527665647628	Discours de mariage	Yannick	Furukalan						
+1527665647629	Publication	Yannick	Gafe						
+1527665647630	Préposé aux publications	Yannick	Gafekow ɲɛnabobaga						
+-54217186332	Antenne de traduction	Boyd	Gafew bayɛlɛma yɔrɔ						
+1527665647632	Demande de publications (demande écrite)	Yannick	Gafew nyinisɛbɛ						
+-15518782417	École de guiléad	Boyd	Gilead lakɔli						
+1527665647634	Inefficacité des gouvernements	Yannick	Gofɛrɛnɛman dɛsɛbagato						
+1527665647635	Propos confidentiels	Yannick	Gundo kumaw						
+1527665647636	Étude familiale	Yannick	Gwakalan						
+1527665647637	Poteau de supplice	Yannick	Gwengwe yiri						
+1527665647638	Esprit fixé sur le royaume	Yannick	Hakili be sigi masaya koow kan						
+-53018156709	Esprit saint	Boyd	Hakili senu						duplicate
+1527665647640	Esprit saint	Yannick	Hakili senu						duplicate
+1527665647642	Riche nourriture spirituelle	Yannick	Hakilimaya domuni nafamanba						
+1527665647643	Compagnie spirituelle stimulante	Yannick	Hakilimaya jɛnnyogonya duman						
+1527665647644	Combien d'idées aborder ?	Yannick	Hakilinata hakɛ juman ta ?						
+1527665647645	Point principal	Yannick	Hakilinata jonjon		hakilinata kunbaba				
+1527665647646	Éclaircir un point	Yannick	Hakilinata koro yira ka gwɛ						
+1527665647647	Même lorsque la situation semble désespérée	Yannick	Hali ni koow be i n'a fɔ jigisɛmɛ yɔrɔ tɛ yen						
+1527665647648	Assurez-vous que la chambre est propre et nette	Yannick	I k'i janto k'a filɛ n'i sibon saniyalen be ani a ladonnen be						
+1527665647649	Donner à jéhovah le meilleur	Yannick	I k'i seko fisaman kɛ jehova ma						
+1527665647650	Noter les points qui s'appliquent à toi	Yannick	I ka hakilinataw sɛbɛ, minw ɲɛsinna i ma						
+1527665647651	Restons proches de l'organisation de jéhovah	Yannick	I ka to jehova ka jɛnkulu kɔrɔ						
+1527665647652	Ne pas s'écarter des lois	Yannick	I kana mabɔ sariyaw la						
+1527665647653	Objectif personnel	Yannick	I togola lanyinita						
+-7052097941	Israëlites	Boyd	Israɛldenw						
+1527665647655	Support visuel	Yannick	Jaa		Foto				
+1527665647656	Réponse imprimée	Yannick	Jaabili sɛbɛnen						
+1527665647657	Source d'encouragement	Yannick	Jagwɛlɛya sababu						
+-53020300790	Enfer	Boyd	Jahanama						
+1527665647659	Accusé faussement	Yannick	Jalaki gwansan						
+1527665647660	Peuple élu	Yannick	Jama sugandilen						
+1527665647661	Assemblée	Yannick	Jamakulu						duplicate
+1527665647662	Grande foule	Yannick	Jamakuluba						
+-15176835587	Sans foi	Boyd	Janfanci						
+1527665647664	Se retirer	Yannick	Jara						
+1527665647665	Jéhovah désire le meilleur de nous -mêmes	Yannick	Jehova be an seko fisaman lo fɛ						
+1527665647666	Jéhovah sera avec nous	Yannick	Jehova bena kɛ an fɛ						
+1527665647667	Créations de jéhovah	Yannick	Jehova ka fɛɛn danenw						
+1527665647668	Jéhovah mérite d'être loué	Yannick	Jehova ka kan ni tandoli ye						
+-15522069116	Char de jehovah	Boyd	Jehova ka wotoro						
+-53019084841	Témoins de jéhovah	Boyd	Jehova seerew						
+1527665647671	Jéhovah a décrété que	Yannick	Jehova y'a latigɛ ko						
+-27410134907	Que jehovah te bénisse	Boyd	Jéhovah ye i ɲuman don						
+1527665647673	Brûler / consumer	Yannick	Jeni				Jɛni		
+1527665647674	Se réunir avec ceux que nous aimons	Yannick	Jɛn n'an diyanye mɔgɔw ye						
+1527665647675	Saine compagnie	Yannick	Jɛnnyogonya nyuman						
+-5583657714	Démon	Boyd	Jina						
+1527665647678	Améliorer sa personnalité	Yannick	Jogo yɛlɛma						
+-54217186334	Esclave fidèle et avisé	Boyd	Jɔnkɛ dannamɔgɔ hakiliman		Joncɛ  kantigiman hakiliman				duplicate
+1527665647680	Esclave fidèle et avisé	Yannick	Jɔnkɛ dannamɔgɔ hakiliman		Joncɛ  kantigiman hakiliman				duplicate
+1527665647681	Transgresseur	Yannick	Jurumukɛla						
+1527665647682	Laisser la parole de dieu les pousser à l'action	Yannick	K'a to ala ka kuma ka u lasun						
+1527665647683	Éviter les pièges	Yannick	K'a yɛrɛ tanga jaan dow ma						duplicate
+1527665647684	Souligner (accentuer)	Yannick	K'a yira ka gwɛ						
+1527665647685	Compter sur jéhovah	Yannick	K'an bolo la jehova kan						
+1527665647686	Nourrir le cœur	Yannick	K'an dusukun balo						
+1527665647687	Nous inciter	Yannick	K'an lasun						
+1527665647688	Donner le meilleur	Yannick	K'an seko fisaman kɛ						
+1527665647689	Résister aux tentations	Yannick	K'an yɛrɛ lafasa kɔrɔbɔliw ma						
+1527665647690	Se comparer aux autres	Yannick	K'an yɛrɛ suma ni mɔgɔw wɛrɛw ye						
+1527665647691	Revêtir un corps humain	Yannick	Ka adamaden cogoya ta						
+1527665647692	Respecter les normes divines	Yannick	Ka Ala ka siraw labato						
+1527665647693	Refuser une transfusion de sang	Yannick	Ka ban ka joli don an fari la						
+1527665647694	Parler d'un sujet d'intérêt local	Yannick	Ka baro dabo kiin kono koo do kan						
+1527665647695	Améliorer nos conversations	Yannick	Ka baro kɛcogo fisaya						
+1527665647696	Succomber aux tentations	Yannick	Ka ben Kɔrɔboliw na						
+1527665647697	Apprendre des textes bibliques	Yannick	Ka bibulusenw degi k'u lɔn						
+1527665647698	Collaborer avec les anciens	Yannick	Ka bolo di diinan mɔgɔkorow ma						
+20017637158	Rompre le pain	Boyd	Ka buru kari kari						
+1527665647700	Ecourter poliment la conversation	Yannick	Ka daan sigi o baro la ni bonya ye						
+1527665647701	Cultiver de bonnes habitudes	Yannick	Ka degi delinanko ɲumanw na						
+1527665647702	Toucher le cœur	Yannick	Ka dusu sɔrɔ						
+1527665647703	Développer nos facultés de perception	Yannick	Ka faamuyali hakili bonya						
+1527665647704	Tenue raisonnable	Yannick	Ka fani kɛɲɛnen don						
+1527665647705	Séances d'excercice	Yannick	Ka gafe yiracogo degi						
+1527665647706	Excommunier	Yannick	Ka gwɛn ka bɔ kafo kɔnɔ						
+1527665647707	Raisonner habilement à partir des écritures	Yannick	Ka hakilijagabɔ koɲuman bibulusenw kan						
+1527665647708	Réponse claire	Yannick	Ka jaabili soro min gwɛnen be						
+1527665647709	Tenir compte de ses limites	Yannick	Ka janto a ka faamuyali danyoro la						
+1527665647710	Faire attention à son enseignement	Yannick	Ka janto mɔgɔw kalanni na						
+1527665647711	Connaître jéhovah et le servir	Yannick	Ka jehova lon ani ka baara kɛ a ye						
+1527665647712	Louer jéhovah publiquement	Yannick	Ka jehova tando bɛɛ nyɛ na						
+1527665647713	Resserrer ses liens avec jéhovah	Yannick	Ka jɛnɲɔgɔya teriman yiriwa ile ni ala cɛ						
+1527665647714	Se chercher des excuses	Yannick	Ka joo di an yɛrɛ ma						
+1527665647715	Améliorer la qualité de la voix	Yannick	Ka kaan cogo fisaya						
+1527665647716	Enseigner avec simplicité	Yannick	Ka kalan cogo nɔgɔman na						
+1527665647717	Commencer une étude  dès le premier contact	Yannick	Ka kalan daminɛ ɲɔgɔnye fɔlɔ la						
+1527665647718	Tirer leçon	Yannick	Ka kalan sɔrɔ						
+1527665647719	Assumer les responsabilités chrétiennes	Yannick	Ka kerecɛnya kunkanbaaraw dafa						
+1527665647720	Axer sa vie	Yannick	Ka kɛ a ɲɛnako fɔlɔ ya						
+19411781712	Sauver du péché et la mort	Boyd	Ka kisi jurumu ni saya bolo						
+1527665647722	Commander (passer commande)	Yannick	Ka komandi kɛ						
+1527665647723	Rester équilibré	Yannick	Ka koo kɛ k'a dama kɛnyɛ						
+1527665647724	Croître spirituellement	Yannick	Ka kɔgɔ Alako ta fan fɛ						
+1527665647725	Anticiper les objections	Yannick	Ka kɔn k'i yɛrɛ labɛn sɔsɔliw koo la						
+1527665647726	Avant notre ère	Yannick	Ka kɔn Krista tile ɲɛ						
+1527665647727	Demander des congés	Yannick	Ka kɔnze deli						
+1527665647728	Surveiller correctement	Yannick	Ka kɔrɔsi ka ɲɛ						
+1527665647729	Pause appropriée	Yannick	Ka kuma ka lɔ cogo bɛnnen na						
+1527665647730	S'agenouiller	Yannick	Ka kunbiri gwan duguma						
+1527665647731	Se réveiller de la mort	Yannick	Ka kunu ka bɔ saya la						
+1527665647732	Se fixer personnellement des objectifs	Yannick	Ka lanyinitaw latigɛ u yɛrɛw ye						
+1527665647733	Se fixer l'objectif d'être	Yannick	Ka laɲini ka kɛ … ye						
+1527665647734	Eveiller la curiosité	Yannick	Ka lasun u ka ɲiningali kɛ						
+1527665647735	Tenir ferme contre le diable et les démons	Yannick	Ka lo ka nyɛ ka sitanɛ ni jinaw kunbɛn						
+1527665647736	Nettoyer et entretenir la salle du royaume	Yannick	Ka masaya boon saniya ani k'a ladon						
+1527665647737	Susciter la conversation	Yannick	Ka mɔgɔ lasun a k'a daa don an ka baro la						
+1527665647738	Enseigner sans oublier que le temps presse	Yannick	Ka mɔgɔ kalan ni kɔrɔtɔ miiriya ye						
+1527665647739	Tirer profit	Yannick	Ka nafa sɔrɔ						
+1527665647740	Calomnier jéhovah	Yannick	Ka nafigiya kɛ jehova la						
+1527665647741	Amasser des trésors sur la terre	Yannick	Ka nafolo lajɛn dugukolo kan						
+1527665647742	Offrandes en faveur de l'œuvre mondiale	Yannick	Ka nili kɛ duniɲa kuru bɛɛ kama						
+1527665647743	Donner avec joie	Yannick	Ka nili kɛ ni diyanye ye						
+1527665647744	Repentir sincère	Yannick	Ka nimisa sɔbɛ la						
+1527665647745	Glorifier dieu	Yannick	Ka nɔɔrɔ la ala kan						
+1527665647746	Mener une vie simple	Yannick	Ka ɲɛnamaya kɛ cogo nɔgɔman na						
+1527665647747	Vivre dans l'attachement à dieu	Yannick	Ka ɲɛnamaya kɛ k'an masirilen to ala la						
+1527665647748	Changer de mode de vie	Yannick	Ka ɲɛnamaya kɛcogo yɛlɛma						
+1527665647749	Oublier jéhovah	Yannick	Ka ɲinɛ jehova kɔ						
+1527665647750	Soigneusement nettoyé avant l'heure	Yannick	Ka saniya konyuman ka kɔn lɛri nyɛ						
+1527665647751	Surmonter les obstacles	Yannick	Ka see sɔrɔ baliw kan						
+1527665647752	Participer à une forme du ministère	Yannick	Ka seen don cidenya baara faan dɔ la						
+1527665647753	Faire notre maximum	Yannick	Ka seko bɛɛ kɛ						
+1527665647754	Prendre note succinctement	Yannick	Ka sɛbɛ ka surunya						
+1527665647755	Ajouter du poids à nos paroles	Yannick	Ka sinsin an ka kumaw kan						
+1527665647756	Nous affiner	Yannick	Ka soon kolon bo an na						
+1527665647757	S'appliquer à connaître la parole de dieu	Yannick	Ka sɔbɛ don ka ala ka kuma kalan						
+1527665647758	Soulever une objection	Yannick	Ka sɔsɔli lawuli						
+1527665647759	Aller à un rendez-vous	Yannick	Ka taa nyogonye do la						
+1527665647760	Aller là où le besoin est grand	Yannick	Ka taga sigi yɔrɔ min na makoyaba be yen						
+1527665647761	Éviter les pièges	Yannick	K'a yɛrɛ tanga jaan dow ma						duplicate
+1527665647762	Payer les frais de transport	Yannick	Ka taransipɔri musakaw sara						
+1527665647763	Saisir les occasions propices	Yannick	Ka tɛmɛ cogoya ɲumanw fɛ						
+1527665647764	Prendre position pour jéhovah	Yannick	Ka tugu jehova kɔ						
+1527665647765	Prêcher librement	Yannick	Ka waajuli kɛ ɲɛsuma na						
+1527665647766	Réserver du temps	Yannick	Ka wagati latigɛ						
+-53018186881	Miracle	Boyd	Kabako						
+2217883563	Païen	Boyd	Kafiri						
+-53018792198	Congrégation	Boyd	Kafo						duplicate
+1527665647770	Congrégation	Yannick	Kafo						duplicate
+1527665647771	Besoin de la congrégation	Yannick	Kafo ka mako						
+1527665647772	Membre de la congrégation	Yannick	Kafoden						
+-54217186337	Surveillant itinérant	Boyd	Kɔrɔsigibaga tagamakɛla						duplicate
+1527665647774	Surveillant de circonscription	Yannick	Kafokulu kɔrɔsigibaga		Kafokulu kɔrɔsibaga				
+1527665647775	Comment remplir le formulaire	Yannick	Kafolisɛbɛ dafacogo						
+1527665647776	Immoralité	Yannick	Kakalaya						
+1527665647777	Après chaque exposé	Yannick	Kalan kelen-kelen banni kɔ						
+1527665647778	Orateur	Yannick	Kalan kɛbaga		Forobakalan dibaga				
+1527665647779	Développement logique	Yannick	Kalan kɛcogo tilenna						
+1527665647780	Discours et discussions	Yannick	Kalan ni baro						
+1527665647781	Environ 5000 nouveaux disciples	Yannick	Kalanden kura 5000 nyogon						
+1527665647782	Publications d'étude	Yannick	Kalankɛ  gafew						
+1527665647783	Symposium	Yannick	Kalankulu						
+1527665647784	Exposé suivant	Yannick	Kalansen nɔfɛta						
+1527665647786	Fils de la désobéissance	Yannick	Kan bilali denw						
+1527665647787	Campagne spéciale	Yannick	Kanpaɲi kɛrɛnkɛrɛn						
+1527665647788	Bonté de cœur	Yannick	Kanuya kantigiman						
+1527665647789	Son amour influence toutes ses actions	Yannick	Kanuya lo b'a lasun a ka kɛtaw bɛɛ la						
+1527665647790	Étude individuelle	Yannick	Kelenna kalan						
+1527665647791	Frères chrétiens	Yannick	Kerecɛn balimaw						
+1527665647792	Ministre chrétien	Yannick	Kerecɛn ciden						
+1527665647793	Chrétien célibataire	Yannick	Kerecɛn furubali						
+1527665647794	Chrétien marié	Yannick	Kerecɛn furulen						
+1527665647795	Compagnons chrétiens	Yannick	Kerecɛnɲɔgɔnw						
+1527665647796	Réunion chrétienne	Yannick	Kerecɛnya lajɛn						
+1527665647798	Char de guerre	Yannick	Kɛlɛkɛwotoro						
+1527665647799	Lumière brillante (vérité)	Yannick	Kɛnɛyeelen						
+1527665647800	Actes	Yannick	Kɛwalen						duplicate
+1527665647801	Bonne nouvelle	Yannick	Kibaro duman						
+1527665647802	Bonne nouvelle éternelle	Yannick	Kibaru duman banbali						
+1527665647803	Territoire	Yannick	Kiin		Jamana				
+1527665647804	Territoire, quartier	Yannick	Kiin						
+1527665647805	Territoire souvent parcouru	Yannick	Kiin boli-boli siɲɛ caaman						
+2217905132	Prophétie	Boyd	Ciraya		Cirakuma				duplicate
+1527665647807	Christ	Yannick	Kirista						
+-11284825780	Prophète	Boyd	Cira						
+1527665647809	Étude de livre	Yannick	Kitabukalan jɛnkulu						
+1527665647810	Séparer de babylone la grande	Yannick	Ko an faranna ka bo babilonɛba la						
+1527665647811	Surveillant de district	Yannick	Kobe kɔrɔsigibaga						
+1527665647812	Compte tenu du temps imparti	Yannick	Komi wagati daan tigɛra						
+1527665647813	Vérifions les choses les plus importantes	Yannick	Koo minw kɔrɔtanin lo ka tɛmɛ tɔɔw kan, aw k'olu faranfasi						
+1527665647814	Système de choses	Yannick	Koo sigi cogoya		Diɲɛ				
+25806141398	Encadré	Boyd	Koorilen						
+1527665647816	Collège central	Yannick	Koow Ɲɛnabɔla Jɛnkulu						
+1527665647817	Mer rouge	Yannick	Kɔgɔji wulen						
+1527665647818	Tentation	Yannick	Kɔrɔboli						
+-54217186339	Assistant ministériel	Boyd	Kɔrɔsigi ciden						duplicate
+1527665647820	Assistant ministériel	Yannick	Kɔrɔsigi ciden						duplicate
+1527665647821	Assistant ministériel expérimenté	Yannick	Kɔrɔsigi ciden setigi						
+1527665647822	Surveillant itinérant	Yannick	Kɔrɔsigibaga tagamakɛla						duplicate
+3830892769	Tour de garde	Boyd	Kɔrɔsili sangaso						
+1527665647824	En cas d'urgence	Yannick	Kɔrɔtɔkow kosɔn						
+20017511166	Mémorial de la mort de christ	Boyd	Krista ka saya hakilijigi lajɛn						
+1527665647826	Intronisation du christ	Yannick	Krista sigini masa sigilan kan						
+-55856535130	Éternellement	Boyd	Kudayi						
+1527665647828	Service à plein temps	Yannick	Kudayi cidenya baara						
+1527665647829	Pionnier permanent	Yannick	Kudayi Piyoniye						
+1527665647830	Technique oratoire	Yannick	Kumacogo fɛɛrɛ						
+1527665647831	Prière de conclusion	Yannick	Kuncɛli delili						
+1527665647832	De nouveaux sommets ont été atteints	Yannick	Kunkɔrɔta kura caaman sɔrɔla						
+1527665647833	Sacrifice rédempteur	Yannick	Kunmabɔ  saraka						duplicate
+-53018679285	Rançon	Boyd	Kunmabɔsara						
+4895241135	Sacrifice rédempteur	Boyd	Kunmabɔ  saraka						duplicate
+1527665647836	Communication spéciale	Yannick	Kunnafoni kɛrɛnkɛrɛn						
+3656657915	Communications	Boyd	Kunnafoniw						
+1527665647838	Trébucher (spirituellement)	Yannick	Kunnatiɲɛ						
+1527665647839	Souveraineté	Yannick	Kuntigiya		Sebagaya		Masabaya		
+1527665647840	Conducteur à la tour de garde	Yannick	La tour de garde kalan ɲɛminɛbaga						
+1527665647841	Organisation	Yannick	Labɛn		Ɔriganisasiyɔn				
+-53018428141	Sabbat	Boyd	Lafiɲɛlon						
+-11085274429	Réunion	Boyd	Lajɛn						
+1527665647844	Lors de la réunion	Yannick	Lajɛn kɛto						
+1527665647845	Lieux de culte	Yannick	Lajɛn kɛyɔrɔw						
+1527665647846	Assemblée	Yannick	Jamakulu						duplicate
+1527665647847	Salle d'assemblées	Yannick	Lajɛnba boonw						
+1527665647848	Surveillant de l'école	Yannick	Lakoli kɔrɔsibaga						
+-55856535126	Ressussiter	Boyd	Lakunun						
+4896872164	Interlocuteur	Boyd	Lamɛnbaga		Lamɛnnikɛla				
+1527665647851	Compagnon de chambre	Yannick	Lamɔgɔ						
+1527665647852	Foi (sans)	Yannick	Lanabaliya						
+1527665647853	Foi	Yannick	Lanaya						duplicate
+1527665647854	Foi solide	Yannick	Lanaya barikaman						
+1527665647855	Foi naissante	Yannick	Lanaya kura						
+-201373188	Alliance	Boyd	Tɔnsigi						duplicate
+1527665647857	Terre promise	Yannick	Layidu jamana						
+1527665647858	Arche (de l'alliance)	Yannick	Layidu waganden						
+1527665647859	Semaine spéciale	Yannick	Lɔgɔkun kɛrɛnkɛrɛnnin						
+1527665647860	Jéhovah est humble	Yannick	Majigilenya be Jehova la (Si sentiment, qualité, partie du corps : be … la)						
+1527665647861	Chez les personnes intéressées	Yannick	Makodon mɔgɔw fɛ						
+1527665647862	Ne doit pas durer plus de	Yannick	Man kan ka mɛɛn ka tɛmɛ … kan						
+1527665647863	Codirigeant	Yannick	Marakɛɲɔgɔn						
+4894757744	Royaume	Boyd	Masaya						
+1527665647865	Salle du royaume	Yannick	Masaya boon				Massaya Soo	Bambara	
+1527665647866	Ministère du royaume	Yannick	Masaya cidenyabaara						
+1527665647867	Bonne nouvelle du royaume	Yannick	Masaya kibaro duman						
+-15518899097	École pour évangélisateurs du royaume	Boyd	Masaya waajulikɛlaw ka lakoli						
+4894740815	Messie	Boyd	Masiya						
+1527665647870	Repas du seigneur	Yannick	Matigi ka surafana seli						
+1527665647872	Attitude mentale	Yannick	Miiriya cogo						
+1527665647873	Offre du mois	Yannick	Min be di kalo la						
+1527665647874	Qui convienne	Yannick	Min dagalen be						
+1527665647875	Qui mérite toute notre attention	Yannick	Min ka kan ka ta sɔbɛ la						
+1527665647876	Trop décontracté	Yannick	Min labilanen lo kojugu						
+1527665647877	Qui correspond	Yannick	Min nyɛsinna						
+1527665647878	Qui est indécent	Yannick	Min tɛ mɔgɔ sutara						
+1527665647879	Qui est excentrique	Yannick	Min waganen lo kojugu						
+1527665647880	Ceux dont la situation ressemble à la nôtre	Yannick	Minw be an ka cogoya ɲɔgɔn kɔnɔ						
+1527665647881	Qui correspondent le mieux à leurs besoins	Yannick	Minw be u makow ɲɛ cogo fisaman na						
+1527665647882	Ceux qui ont grandi dans un foyer chrétien	Yannick	Minw lamɔna kerecɛnya denbaya kɔnɔ						
+1527665647883	Sujet de préoccupation	Yannick	mɔgɔ be hami koo min koson						
+1527665647884	Membres du service accueil	Yannick	mɔgɔ kunbɛnbagaw						
+1527665647885	Beaucoup écoutent plus attentivement	Yannick	mɔgɔw b'u tulo malo						
+1527665647886	Préposé à l'accueil	Yannick	Mɔgɔ kunbɛnbaga						
+1527665647887	Peuple particulier	Yannick	Mɔgɔ ɲɛnatɔmɔnin						
+1527665647888	Cela ne passe pas inaperçu	Yannick	Mɔgɔ wɛrɛw b'a kɔrɔsi						
+1527665647889	Centres d'intérêt des gens	Yannick	Mɔgɔw ka makoyaw						
+1527665647890	Qu'est-ce que cela requiert de nous?	Yannick	Mun lo ɲininen be an fɛ do ?						
+1527665647891	Pourquoi tolère-t-il autant de souffrances ?	Yannick	Mun na a b'a to tɔɔrɔ be caya ten ?						
+3661744119	Endurer	Boyd	Muɲu						duplicate
+1527665647893	Endurance	Yannick	Muɲuli						duplicate
+1527665647894	Apostat	Yannick	Murutilen						
+1527665647895	Quand nous sommes occupés dans le service	Yannick	N'an bolo degunnen be Alakow la						
+-53019039215	Diable	Boyd	Naafigi						
+1527665647897	Bienfait durable	Yannick	Nafa bɛrɛbɛrɛ						
+1527665647898	J'ai ma propre religion	Yannick	Ne be diinan dɔ la ka ban						
+1527665647899	Ça ne m'intéresse pas	Yannick	Ne mako t'a la						
+1527665647900	Je ne m'intéresse pas aux témoins de jéhovah	Yannick	Ne mako tɛ jehova seerew la						
+1527665647901	Tact	Yannick	Nɛmɛnɛmɛ						
+1527665647902	La fin de la fausse religion est proche	Yannick	Ngalon diinan laban ka surun						
+1527665647903	Si une personne manifeste de l'intérêt	Yannick	Ni mɔgɔ do y'a mako don an ka baro la						
+1527665647904	Dans la mesure du temps disponible	Yannick	Ni wagati be yen						
+1527665647905	Offrande	Yannick	Nili						
+1527665647906	Au bord du nil	Yannick	Nili bada la						
+3653464641	Boîte à offrande	Boyd	Nili buwati						
+1527665647908	Repentir (se)	Yannick	Nimisa fɛn la						
+1527665647909	Repentance	Yannick	Nimisali						
+1527665647910	Cela donne vraiment à réfléchir	Yannick	Nin b'an lasun ka miiri sɔbɛ la						
+1527665647911	Cette information est importante car …	Yannick	Nin kunnafoni korotalen be sabu …						
+-11287133660	Joie	Boyd	Ninsɔndiya						duplicate
+1527665647914	Service joyeux	Yannick	Nyagali baara						
+1527665647915	Espérance de la vie éternelle	Yannick	Nyɛnamaya banbali jigi						
+-7054053843	Expliquer	Boyd	Ɲɛfɔ						
+-7054111008	Guider	Boyd	Ɲɛminɛ						
+1527665647918	Président (d'une réunion)	Yannick	Ɲɛminɛbaga		Barokuntigi		Kalankɛla ɲɛbila		
+1527665647919	Réunion récréative	Yannick	Ɲɛnagɛw lajɛn		Tulonkɛ lajɛn		Ɲɛnagɛw ɲɔgɔnye		
+1527665647920	Éveiller l'intérêt	Yannick	Ɲɛnatigɛ		Ka hakili sama				
+1527665647921	Question subsidiaire	Yannick	Ɲiningali wɛrɛ						
+1527665647922	Esprit de compétition	Yannick	Ɲɔgɔndan miiriya						
+1527665647923	Bonté	Yannick	Ɲumaya						duplicate
+1527665647924	Bonté mal placée	Yannick	Ɲumaya min man kan		Ɲumaya min a dagalen tɛ				
+1527665647925	Cela prouve que	Yannick	O b'a yira ka gwɛ ko						
+1527665647926	Cela arrivera de notre vivant	Yannick	O bena kɛ k'an to sii la						
+1527665647927	De tels sacrifices	Yannick	O bonyogonko sarakaw						
+1527665647928	Un article l'a poussé	Yannick	O kalan y'a lasun						
+1527665647929	Cette femme n'a jamais manqué une réunion	Yannick	O muso ma fɔn lajɛn si la						
+1527665647930	Ce genre de questions	Yannick	O ɲiningali ɲogonw						
+1527665647931	Pas le moment de flâner	Yannick	O tɛ saliya wagati ye						
+1527665647932	Cela l'affermi en vue des épreuves à endurer	Yannick	O ye a fanga don a la walisa a ka kɔrɔbɔliw muɲu						
+1527665647933	Pionnier auxiliaire	Yannick	Piyoniye korosigi						
+-54217186338	Pionnier	Boyd	Piyɔniye						
+1527665647935	Service de pionnier	Yannick	Piyɔniye baara						
+19411687406	Juru sara	Boyd	Propitiation						
+1527665647937	Rapport	Yannick	Rapoori						
+1527665647938	Texte de l'année	Yannick	Saan ka kalankun		Saan ka bibulusen				
+1527665647939	1er siècle	Yannick	Saan kɛmɛ folo						
+19411554786	Sacrifice rédempteur	Boyd	Kunmabɔ  saraka						duplicate
+1527665647941	Autres brebis	Yannick	Saga wɛrɛw						
+1527665647942	Petit troupeau	Yannick	Sagakulunin						
+-8263134106	Dessein	Boyd	Sago						
+-11287332641	Serviteur/adorateur	Boyd	Sagokɛla						
+-53018127491	Chapitre	Boyd	Sapitiri		Tilan		Tilanyɔrɔ		duplicate
+-55856535110	Sacrifier	Boyd	Saraka						
+1527665647947	Sacrifice	Yannick	Saraka						
+1527665647948	Sacrifier (à faux dieu)	Yannick	Saraka bɔ		kɛ				
+-27013963802	Prêtre	Boyd	Sarakalasebaga						
+1527665647950	Conditions à remplir	Yannick	Saratiw ka dafa						
+19411739780	Kisi	Boyd	Sauver						
+2477044405	Puissant	Boyd	Sebagaya						
+1527665647953	Témoin	Yannick	Seere		Seree				
+1527665647954	Témoignage informel	Yannick	Seereya kɛ sababu dɔ sen fɛ		Sen fɛ seereya		Senfɛ sereya		
+-4434272399	Révision	Boyd	Segikanni						
+1527665647956	Secrétaire	Yannick	Sekeretɛri						
+1527665647957	Saint	Yannick	Senu				Senuman		
+1527665647958	Témoignage	Yannick	Sereeya						
+1527665647959	Asperger	Yannick	Seri seri						
+1527665647960	Tract/dépliant	Yannick	Sɛbɛnin						
+20017782740	Valider	Boyd	Sɛmɛtiya						
+1527665647962	Divers aspects	Yannick	Sifa faanw ka ca						
+1527665647963	Coépouse	Yannick	Sinamuso						
+-53019012572	Satan	Boyd	Sitanɛ						
+1527665647965	Site officiel	Yannick	Site daganin						
+1527665647966	"Classe de ""l'intendant"""	Yannick	So kunna sigibaga jɛnkulu						
+1527665647967	Intendant	Yannick	Sokunnasigibaga						
+1527665647968	Système de sonorisation	Yannick	Sono juru						
+3670467518	Cheval	Boyd	Soo						
+3656948736	De maison en maison	Boyd	Soo ni soo						
+1527665647971	Société	Yannick	Sosiyete						
+1527665647972	Filiale	Yannick	Sosiyete ka biro		Tonbolo		Tɔnbolo biro		
+1527665647973	Sujet controversé	Yannick	Sɔsɔli kuma						
+1527665647974	Esprit des ancêtres	Yannick	Sukɔrɔ						
+-53018531254	Résurrection	Boyd	Sukununi		Suu kununi				duplicate
+-53277812243	Baisser	Boyd	Suuri		Sosuuri				
+1527665647978	Trébucher (physiquement)	Yannick	Talon						
+1527665647979	Des amis peu recommandables	Yannick	Teri jugu sifaw						
+1527665647980	Premier contact	Yannick	Tɛmɛko fɔlɔ						
+1527665647981	Assemblée de circonscription	Yannick	Tile fila lajɛnba						
+1527665647982	Assemblée spéciale d'un jour	Yannick	Tile kelen lajɛnba						
+1527665647983	Assemblée de district	Yannick	Tile saba lajɛnba						
+1527665647984	Texte du jour	Yannick	Tilera kalan		Lon o lon ka miiriya				
+1527665647985	Estrade	Yannick	Tintin						
+1527665647986	Surélévation/estrade	Yannick	Tintin						
+1527665647987	Le seul vrai dieu	Yannick	Tiɲɛn ala kelenpe						
+1527665647988	Bureau de la filiale	Yannick	Tɔnbolo biro						
+-16124033849	Comité de filiale	Boyd	Tɔnbolo ka kɔmité						
+1527665647990	Alliance	Yannick	Tɔnsigi						duplicate
+1527665647991	Grande tribulation	Yannick	Tɔɔrɔba						
+1527665647992	Déluge	Yannick	Tufane jii		Sanjiba				
+1527665647993	Compagnon	Yannick	Tunɲɔgɔn						
+1527665647994	Convertir(se)	Yannick	Tuubi						
+1527665647995	Éviter les extrêmes	Yannick	U waganen tɛ						
+1527665647996	Retrait volontaire	Yannick	U yɛrɛ mabɔ kafo la						
+1527665647997	À cause de leur état de pécheur	Yannick	U yɛrɛw ka jurumutoya koson						
+-53018100777	Verset	Boyd	Vɛrise		Bibulusen				duplicate
+1527665647999	Verset	Yannick	Vɛrise		Bibulusen				duplicate
+1527665648000	Verset clé	Yannick	Vɛrise jonjon						
+-7053266987	185000	Boyd	Waa kɛmɛ ni bi seegi ni looru						
+1527665648002	Devoir sacré	Yannick	Waajibiko senuman						
+-54727587241	Prêcher	Boyd	Wajuli kɛ		Waju				duplicate
+1527665648004	Quand nous prêchons	Yannick	Waajuli kɛto						
+1527665648005	Ministère (prédication)	Yannick	Waajulibaara						
+1527665648006	Surveillant au service	Yannick	Waajulibaara kɔrɔsibaga						
+1527665648007	Année de service	Yannick	Waajulibaara saan						
+1527665648008	Évangélisateur zélé	Yannick	Waajulikɛla kisɛman						
+1527665648009	Le numéro de carte de territoire	Yannick	Waajulikɛyɔrɔ karti ka nimɔrɔ						
+1527665648010	Groupes de prédication	Yannick	Waajuliko jɛnkuluw						
+1527665648011	Réunion de service	Yannick	Waajuliko lajɛn						
+1527665648012	Comité de service	Yannick	Waajuliko ɲɛnabɔbagaw jɛnkulu						
+1527665648013	Temps critiques sont là	Yannick	Wagati gwɛlɛnw sera an kun						
+1527665648014	Temps imparti	Yannick	Wagati latigɛlen						
+1527665648015	Un autre moment de la journée	Yannick	Wagati wɛrɛ la tile kɔnɔ						
+1527665648016	Prêcher	Yannick	Wajuli kɛ		Waju				duplicate
+1527665648017	Territoire (prédication)	Yannick	Wajulikɛ yɔrɔ						
+1527665648018	Fait (de prédication)	Yannick	Wale						
+-18714818564	Proclamateur	Boyd	Weleweledala		Wajulikɛla				duplicate
+1527665648020	Proclamateur	Yannick	Weleweledala		Wajulikɛla				duplicate
+1527665648021	Enseignant capable	Yannick	Weleweledala kolonbaga		Weleweledala setigi				
+1527665648023	Proclamateur moins expérimenté	Yannick	Weleweledala kura						
+20017576005	La paque juive	Boyd	Yahutuw ka tɛmɛnkan seli						
+1527665648025	Cette méthode est elle toujours utile ?	Yannick	Yala o kɛcogo be sanga la hali bi wa ?						
+1527665648026	Conversion	Yannick	Yɛlɛmani						
+1527665648027	Sacrifier (se)	Yannick	Yɛrɛ saraka (réfléchi)						
+1527665648028	Offrande de soi	Yannick	Yɛrɛkundili						
+3656197437	Maitrise de soi	Boyd	Yɛrɛminɛli						
+1527665648030	Esprit d'indépendance	Yannick	Yɛrɛta hakili						
+1527665648031	Présence de jésus	Yannick	Yɛsu be yan wagati						
+-18949454284	Présentation	Boyd	Yiracogo						
+1527665648033	Psalmiste	Yannick	Zaburu sɛbɛbaga						
+1527665648034	District du jourdain	Yannick	Zurudɛn mara						
+1527665648035	Ancien numéro	Yannick	Zurunali koroman						
+1527665648036	Journée de périodiques	Yannick	Zurunaliw dilon						
+1527665648037	Tournée de périodiques	Yannick	Zurunaliw disira						
+1527665648038	Diffusion des périodiques	Yannick	Zurunaliw jɛnsɛnni						
+27783419414	Fondé sur les Ecritures		A basiginen be Bibulu kan						
+27783419415	Il chérissait son fils		A dencɛ ko tun ka di a ye hali						
+27783419416	Se sentir heureux		A dusu diyara						
+27783419417	Se sentir satisfait		A dusu wasara						
+27783419418	Ses manières d'agir		A ka koow kɛcɔgɔw						
+27783419419	Il parle exclusivement de		A kɔnɔnakow bɛɛ be kuma						
+27783419420	Il était disposé		A labɛnnen tun lo ka ..						
+27783419421	Il croit en …		A lanen be .. na						
+27783419422	Il croyait en …		A lanen tun be…na						
+27783419423	Il n'est pas intéressé		A m'a mako don						
+27783419424	Il nous a oublié		A ɲinɛna an kɔ						
+27783419425	Écrit à l'envers		A sɛbɛra ka yɛlɛma ɲɛjugu kan						
+27783419426	Elle m'est allée droit au cœur		A sinna ka ne dusu minɛ						
+27783419427	Il ne cherche pas ses propres intérêts		A t'a yɛrɛ nafa ɲini						
+27783419428	Il ne les lisait jamais		A tun m'u kalan ka ye						
+27783419429	Veuillez l'utiliser largement		A' ye baara kɛ n'a ye caaman						
+27783419430	Abonnement		Abɔneman						
+27783419431	Compagnon de travail de Dieu		Ala ka baarakɛnyogon						
+27783419432	Armure complète de Dieu		Ala ka kɛlɛkɛ minenw bɛɛ						
+27783419433	Royaume de Dieu établi		Ala ka masaya sigira sen kan						
+27783419434	Fidèle intendant de la faveur imméritée de Dieu		Ala ka nɛɛma nilifɛn marabaga dannamɔgɔw						
+27783419435	Obéissance à Dieu		Ala kanminɛli						
+27783419436	Impie		Ala lɔnbali						
+27783419437	Pécheurs impies		Ala ɲɛsiranbali jurumutɔw						
+27783419438	Trinité		Ala sabaya						
+27783419439	Volonté de Dieu		Ala sagoya						
+27783419440	Pensée spirituelle		Alako miiriya						
+27783419441	Trésor spirituel		Alako nafolo						
+27783419442	Moisson spirituelle		Alako sumatigɛ						
+27783419443	Croyant		Alalɔnbaga						
+27783419444	Elle l'adopta comme son fils		Ale y'a kɛ a yɛrɛ dencɛ ye						
+27783419445	Paradis		Alijɛnɛ						duplicate
+27783419446	Scène du paradis		Alijɛnɛ bisigi						
+27783419447	Soyons déterminés à écouter		An k'an cɛsiri k'a lamɛn						
+27783419448	Conjuguons nos efforts		An ka jɛn k'an jija ka …						
+27783419449	Séparons-nous		An ka mabɔ ɲɔgɔnna						
+27783419450	Soyons souples		An ka magaya						
+27783419451	Continuons d'attendre Jéhovah		An ka to ka Jehova makɔnɔ						
+27783419452	Parcourons entièrement le territoire		An ka waajuli kɛ  kiin kɔnɔ k'a dafa						
+27783419453	N'en concluez pas trop rapidement		An kana koroto k'a miiri ko						
+27783419454	Notre glorieux Père céleste		An sankolola Faa cyɛnyumanba						
+27783419455	Abordable		An te sigasiga ka kuma a fɛ		A labilanin lo mɔgɔw kama (être abordable)				
+27783419456	En ses propres termes		An yɛrɛ ka kumacogo la						
+27783419457	Ne vous en remettez pas au hasard		Aw kana miiri ko koow bena kɛ u yɛrɛ ye						
+27783419458	Récompense merveilleuse		Barajiba						
+27783419459	Force fournie		Barika dilen						
+27783419460	Evènement imprévus		Barinankow						
+27783419461	Entrée en matière		Baro dadon kuma						
+27783419462	Bonne discussion		Baro diiman						
+27783419463	Thème / Article / Titre		Barokun		Kalankun				
+27783419464	Idoles sans vie		Batofɛnw ɲɛnaman tɛ						
+27783419465	Traduction		Bayɛlɛmani						
+27783419466	Maltraitence des animaux		Bɛgɛnw nintoro						
+27783419467	Règlement des différents		Bɛnbaliyaw ɲɛnabɔko						
+27783419468	À notre époque		Bi tilew la						
+27783419469	Compréhension actuelle de la Bible		Bibulu faamuyacogo kura						
+27783419470	Stocker		Bila		Bilanin				
+27783419471	Image (sens figuré)/Représentation		Bisigi						
+27783419472	Idôlatrie		Boli batoli						
+27783419473	Don matériel		Bololafen nili						
+27783419474	Matériel (sur le plan)		Bololafɛn						
+27783419475	Aide matérielle		Bololafɛn dili						
+27783419476	Montants des portes		Bonda yiri						
+27783419477	Généalogie / Origine		Buruju						
+27783419479	Pédophilie		Cɛnimusoya kɛ ni denfitiniw ye						
+27783419480	Homosexualité		Cɛɲɔgɔnɲini ni musoɲɔgɔnɲini koo						
+27783419481	Intertitre / Sous-titre		Cɛtigɛ						
+27783419482	Discours d'instruction		Cii fɔlɔ kalan						
+27783419483	Message		Cira						
+27783419484	Message capital		Cira kɔrɔtalen						
+27783419485	Faux prophète		Cira ngalontigɛla						
+27783419486	Messager		Ciraden						
+27783419487	De façon méthodique (ordonnée) / Logique		Cogo tilennen na						
+27783419488	Frapper à une porte		Daa kɔkɔ						
+27783419489	Démarrer (conversation)		Dabɔ						
+27783419490	Inspirée de Dieu		Dafiɲɛ fɛ (Ala...)						
+27783419491	Quelques paragraphes		Dakun damanin dɔw						
+27783419492	Nombre de paragraphes		Dakun hakɛ						
+27783419493	Renier		Dalacɛ						
+27783419494	Reniement		Dalacɛli						
+27783419495	Contemporain de David		Daouda ka wagati mɔgɔ		Daouda ka filankuru				
+27783419496	Emblème		Dasiri						
+27783419497	Surveillant Président		Diinan mɔgɔkɔrɔw ɲɛbila						
+27783419498	Abîme		Dingɛ dunba						
+27783419499	Volonté, Plaisir		Diyanako						
+27783419500	Approbation		Diyanye						
+27783419501	Cantique / Mélogie		Donkili						
+27783419502	Recueil de cantiques		Donkili gafe						
+27783419503	Réduire, Manquer de respect à		Dɔgɔ						
+27783419504	Chanson, Chant, Musique		Dɔnkili						
+27783419505	Bienfait		Duga		Sara		Nafa		
+27783419506	Bénis		Dugaden		Dubaden				
+27783419507	Chemise, Vêtement, Tunique		Duloki		Dereke		Fani		
+27783419508	Humanité, Monde		Duniɲa		Diɲɛ				
+27783419509	Souverain de l'univers / Souverain Seigneur		Duniɲa kuru bɛɛ Masaba						
+27783419510	Pharaon		Faharuna						
+27783419511	Force irrésistible		Fanga barikama						
+27783419512	Tenue		Fani doncogo		Fani				
+27783419513	Méthode, moyen		Fɛɛrɛ						
+27783419514	Faiblesse (défaut)		Finyɛ						
+27783419515	Fête populaire		Foroba fɛtilon						
+27783419516	Discours public / Réunion publique		Forobakalan						
+27783419517	Manuel d'étude		Gafe kalanta						
+27783419518	Présentation simple		Gafe yiracogo nɔgɔman						
+27783419519	Écritures grecques chrétiennes		Gɛrɛkikan Sɛbɛninw						
+27783419520	Esprit fixé sur le Royaume		Hakili be sigi Masaya koow kan						
+27783419521	Famine spirituelle		Hakilimaya kongo						
+27783419522	Pensée essentielle		Hakilinata jonjon						
+27783419523	Fruit de l'esprit		Halkili senu deen						
+27783419524	Écritures hébraïques		Heburukan Sɛbɛninw						
+27783419525	Donner à Jéhovah le meilleur		I k'i seko fisaman kɛ Jehova ma						
+27783419526	Fixe toi un objectif personnel		I k'i togola lanyinita latigɛ						
+27783419527	Restons proches de l'organisation de Jéhovah		I ka to Jehova ka jɛnkulu kɔrɔ						
+27783419528	Assistance / Foule		Jama						
+27783419529	Situation des comptes		Jateminɛw dantigɛli						
+27783419530	Créations de Jéhovah		Jehova ka fɛɛn danenw						
+27783419531	Brûler / Consumer		Jeni		Jɛni				
+27783419532	Mauvaise compagnie		Jɛnɲɔgɔn jugu						
+27783419533	Idôle		Joo		Boli		Batofɛn		
+27783419534	Pire ennemi		Juguba						
+27783419535	Se soucier		K'a janto		Jɔrɔ				
+27783419536	Laisser la Parole de Dieu les pousser à l'action		K'a to Ala ka Kuma ka u lasun						
+27783419537	Faire usage de sa raison		K'a yɛrɛ hakili jagabo						
+27783419538	Compter sur Jéhovah		K'an bolo la Jehova kan						
+27783419539	Fixer notre esprit sur des pensées constructives		K'an nyɛɛ jolen to koo nafamanw kan						
+27783419540	Plein d'égards		K'i janto mɔgɔ la						
+27783419541	Se vouer		K'i yɛrɛkun di						
+27783419542	Nous observons leur environnement		K'u laminikow kɔrɔsi						
+27783419543	Remercier Dieu		Ka barika la Ala ye		Ka Ala fo				
+27783419544	Reporter le baptême à plus tard		Ka batɛmi bila wagati wɛrɛ kan		Ka batɛmi segi kɔ		Ka batɛmi bila ka suma		
+27783419545	Prendre l'initiative		Ka bɔ i yɛrɛ la						
+27783419546	Productif		Ka den koɲuman						
+27783419547	Partager avec d'autres		Ka do bo aw bolo fɛnw la ka o di						
+27783419548	Inculquer à vos enfants		Ka don aw deenw kuun na						
+27783419549	S'exposer à un danger		Ka farati bila a sen kɔrɔ						
+27783419550	Raisonner habilement à partir des Écritures		Ka hakilijagabɔ koɲuman Bibulusenw kan						
+27783419551	S'intéresser sincèrement à autrui		Ka janto ɲɔgɔn na sɔbɛ la						
+27783419552	Connaître Jéhovah et le servir		Ka Jehova lon ani ka baara kɛ a ye						
+27783419553	Louer Jéhovah publiquement		Ka Jehova tando bɛɛ nyɛ na						
+27783419554	Resserrer ses liens avec Jéhovah		Ka jɛnɲɔgɔya teriman yiriwa ile ni Ala cɛ						
+27783419555	Lecture publique		Ka kalan gwɛ kɛ jama ɲɛ na						
+27783419556	Parler au naturel		Ka kalan kɛ u yɛrɛ kuma cogo la						
+27783419557	Savoir lire et écrire		Ka kalan ni sɛbɛri lon						
+27783419558	Être irréprochable et innocent		Ka kɛ jalakibali jɛlenw ye						
+27783419559	Regarder le côté positif de la situation		Ka koow jate ni nyɛɛ nyuman ye						
+27783419560	Parler de façon positive		Ka kuma ɲuman fɔ						
+27783419561	Répondre à une objection		Ka kuma tigɛbaga ka sɔsɔli jaabi						
+27783419562	Se prosterner		Ka kunbiri gwan dɔ kɔrɔ						
+27783419563	Prendre des dispositions précises		Ka labɛn kɛ ka gwɛ						
+27783419564	Prendre rendez-vous		Ka labɛn kɛ ka segi ka na						
+27783419565	Prendre la meilleure décision		Ka latigɛli fisaman kɛ						
+27783419566	Tenir ferme contre le Diable et les démons		Ka lo ka nyɛ ka Sitanɛ ni jinaw kunbɛn						
+27783419567	Accueillir les visiteurs		Ka lonanw bisimila						
+27783419568	Fixer un jour		Ka loon kelen latigɛ						
+27783419569	Nettoyer et entretenir la Salle du Royaume		Ka Masaya Boon saniya ani k'a ladon						
+27783419570	Penser que les morts sont conscients		Ka miiri ko mɔgɔ salenw be koow kala ma						
+27783419571	Réfléchir sérieusement à tout ce qu'il contient		Ka miiri kosɔbɛ a kɔnnakow bɛɛ kan						
+27783419572	Inciter d'autres personnes		Ka mɔgɔ wɛrɛw lasun						
+27783419573	Calomnier Jéhovah		Ka nafigiya kɛ Jehova la						
+27783419574	Se repentir		Ka nimisa						
+27783419575	Glorifier Dieu		Ka nɔɔrɔ la Ala kan						
+27783419576	Pousser des cris de joie		Ka nyagalikan bo						
+27783419577	Fixer notre attention		Ka ɲɛɛ jɔ						
+27783419578	Chérir la vie		Ka ɲɛnamaya jati fɛnba ye						
+27783419579	Vivre dans l'attachement à Dieu		Ka ɲɛnamaya kɛ k'an masirilen to Ala la						
+27783419580	Simplifier sa vie		Ka ɲɛnamaya kɛ nɔgɔman na		An k'an ɲɛnamaya kɛ nɔgɔman na				
+27783419581	Oublier Jéhovah		Ka ɲinɛ Jehova kɔ						
+27783419582	Être réintégré		Ka segi ka na						
+27783419583	Mettre en valeur		Ka sin k'a yira						
+27783419584	Accentuation des mots clés		Ka sinsin yɔrɔ jɔnjɔnw kan						
+27783419585	Mettre en évidence		Ka sinsin… kan		Yira ka gwɛ				
+27783419586	S'appliquer à connaître la Parole de Dieu		Ka sɔbɛ don ka Ala ka Kuma kalan						
+27783419587	Défendre la vérité		Ka tinyɛnko lafasa						
+27783419588	Prendre position pour Jéhovah		Ka tugu Jehova kɔ						
+27783419589	Résumer brièvement les textes longs		Ka vɛrise janw kofo ka surunya						
+27783419590	Montrer sa reconnaissance		Ka walenyumanlon yira						
+27783419591	Paganisme / Païenne		Kafiriya						
+27783419592	Formulaire		Kafolisɛbɛ						
+27783419593	Discours		Kalan						
+27783419594	Leçon importante		Kalan nafaman						
+27783419595	Exposé constructif		Kalan ɲuman						
+27783419596	Disciple		Kalanden						
+27783419597	Fidélité indéfectible		Kantigiya lamagabali						
+27783419598	Les armées mirent le siège sur Jérusalem		Kɛlɛbolow ye daga sigi Jerusalem daa la						duplicate
+27783419599	Juger		Kiri tigɛ ... kan						
+27783419600	Juger avec justice		Kiri tigɛ cogo tilennin na						
+27783419601	Jugement (lieu du)		Kiritigɛyɔrɔ						
+27783419602	Séparer de Babylone la Grande		Ko an faranna ka bo Babilonɛba la						
+27783419603	Obéissance		Kololi						
+27783419604	Activités saines		Koow kɛcogo saniman						
+27783419605	Malgré l'opposition		Koroboli bɛɛ n'a ta						
+27783419606	Mer Rouge		Kɔgɔji Wulen						
+27783419607	Observateur		Kɔlɔsili kɛbaga						
+27783419608	Directeur de festin		Kɔɲɔko kuntigi						
+27783419609	Intronisation du Christ		Krista sigini masa sigilan kan						
+27783419610	Fluidité de l'expression		Kuma ka nɔgɔya a daa						
+27783419611	Modulation		Kumakan yɛlɛma-yɛlɛma						
+27783419612	Lépreux		Kunatɔ						
+27783419613	Idée annexe		Kunnafoni do						
+27783419614	Génération		Kuru		Filankuru		Wagatikelenmɔgɔw		
+27783419615	Sens (à la vie)		Kuun						
+27783419616	Conducteur à la Tour de Garde		La Tour de Garde kalan ɲɛminɛbaga						
+27783419617	Conseiller adjoint (EMT)		Ladili dibaga filanan		Ladili dibaga kankɔrɔsigi				
+27783419618	Blâme		Lagosili						
+27783419619	Ferme / Inébranlable		Lamagabali						
+27783419620	Auditeur		Lamɛnnikɛla						
+27783419621	Contexte		Laminiko						
+27783419622	Maraige coutumier		Landa furu						
+27783419623	Objectif		Lanyinita		Laɲinita				
+27783419624	Priorité		Laɲinita fɔlɔ						
+27783419625	Progresser (faire)		Lataga ɲɛ						
+27783419626	Manque de foi		Limaniyabaliya						
+27783419627	Lecture hebdomadaire de la bible		Logokun kono ka bibulu kalangwɛ						
+27783419628	Pendant un jour entier		Loon kelen kuru bɛɛ						
+27783419629	Centre d'intérêt		Makow						
+27783419630	Salle du Royaume		Masaya boon						
+27783419631	Bonne nouvelle du Royaume		Masaya kibaro duman						
+27783419632	Repas du Seigneur		Matigi ka surafana seli						
+27783419633	Idées indéniables		Miiriyaw, mɔgɔ te se k'u soso						
+27783419634	Enduire		Mɔ						
+27783419635	Modèle		Mɔdɛli						
+27783419636	Offenser		Mɔgɔ gasi tiɲɛn		Baga mɔgɔ ma				
+27783419637	Personnes sans instruction		Mɔgɔ gwansan kalanbaliw						
+27783419638	Il dédaigna la comapgnie des méchants		Mɔgɔ juguw ka jɛnɲɔgɔnya tun ka gwo a ye						
+27783419639	Personne cultivée		mɔgɔ kalannen						
+27783419640	Personne inexpérimentée		Mɔgɔ ko lɔnbali						
+27783419641	Personne d'une origine différente		Mɔgɔ min bɔyɔrɔ tɛ kelen ye						
+27783419642	Protecteur		mɔgɔ tangabaga						
+27783419643	Oints (chrétiens)		Mɔnlenw						
+27783419644	Supporter/endurer		Muɲuli						
+27783419645	Quand c'est approprié		N'a bɛnnen be						
+27783419646	Quand vous reviendrez		N'an segira ka na						
+27783419647	Quand tu seras grand		N'i kɔrɔbayara						
+27783419648	Matérialiste		Nafolo kanuya b'a la						
+27783419649	Trésor inestimable		Nafolo nafamanba						
+27783419650	Empêcher de progresser		Nagasi						
+27783419651	Je ne m'intéresse pas aux Témoins de Jéhovah		Ne mako tɛ Jehova Seerew la						
+27783419652	Privilège		Nɛɛma						
+27783419653	Faux dieux		Ngalon alaw						
+27783419654	Fausse religion		Ngalon diinan						
+27783419655	Si les circonstances le permettent		Ni koow cogoya bɛnnen be						
+27783419656	Presque tout le monde apprécie		Ni mɔgɔ kelen-kelen tɛ , a ka di bɛɛ ye ka						
+27783419657	Si un autre est disponible		Ni mɔgɔ wɛrɛ labilanen lo						
+27783419658	Au bord du Nil		Nili bada la						
+27783419659	Parabole		Ntalen						
+27783419660	Donner un proverbe		Ntalen la						
+27783419661	Exemple remarquable		Nyɛyirali cɛnyumanba						
+27783419662	Fixer du regard		Ɲɛɛ jɔlen to						
+27783419663	Progrès sensibles (notables)		Ɲɛtaga bɛrɛ kɛ						
+27783419664	Progrès (faire)		Ɲɛtaga kɛ						
+27783419665	Volonté		Ŋaniya						
+27783419666	Murmurer		Ŋunuŋunu		Dajukɔrɔ kuma fɔ				
+27783419667	Murmure		Ŋunuŋunukan						
+27783419668	Jamais vu chose semblable		O koɲɔgɔn tun ma deli ka ye abada						
+27783419669	Elles ne sont pas autorisées à l'assemblée		O ma daga lajɛnba yɔrɔ la						
+27783419670	Programme		Porogramu						
+27783419671	Possibilité unique		Sababuba						
+27783419672	Nuée		Sankaba						
+27783419673	Père céleste plein d'amour		Sankolola Faa kanutigi						
+27783419674	Récompenser		Sara						
+27783419675	Principe élevé		Sariyakolo kɔrɔtalen						
+27783419676	Tenue vestimentaire		Sawura						
+27783419677	Saint / Sain / Pur		Senu		Senuman				
+27783419678	Dépliant		Sɛbɛnin						
+27783419679	Tract		Sɛbɛnin						
+27783419680	Vérification		Sɛgɛsɛgɛri						
+27783419681	Réservation des sièges		Sigiyɔrɔ marali						
+27783419682	Sur les trottoirs		Siradaw la						
+27783419683	Maintenant que tu as grandi		Sisan, komi i kɔrɔbayara						
+27783419684	Accepter revue		Sɔn zurunali la		fɛn la				
+27783419685	Objection / Dispute		Sɔsɔli		Kuma tigbaga				
+27783419686	Approcher s' (temps)		Surunyalen						
+27783419687	Métaphore		Tagamasinyɛ						
+27783419688	Prendre plaisir		Timinandiya						
+27783419689	Surélévation/Estrade		Tintin						
+27783419690	Le seul vrai Dieu		Tiɲɛn Ala kelenpe						
+27783419691	En avoir conscience ou non		U b'a kala ma wo, u t'a kala ma wo						
+27783419692	Ils pensent qu'ils ne sont pas qualifiés pour		U b'a miiri ko see t'u ye ka						
+27783419693	A leur insu		U ɲina ma						
+27783419694	Les attaquer par surprise		U taga cun u kan						
+27783419695	Nouvelle visite		Viziti kura						
+27783419696	Il est indispensable		Waajibi lo						
+27783419697	Autre nécessité		Waajibiko wɛrɛ						
+27783419698	Graphique chronologique		Wagati jateminɛcogo jaa						
+27783419699	Fait marquant		Waleba						
+27783419700	Afin de se rétablir spirituellement		Walisa a ka segi ka fanga sɔrɔ Alako ta fan fɛ						
+27783419701	Pour ajouter du poids à nos paroles		Walisa ka sinsin an ka kumaw kan						
+27783419702	Feuille d'invitation		Weelesɛbɛ						
+27783419703	Proclamer		Weleweleda						
+27783419704	Proclamateur expérimenté		Weleweledala kolɔnbaga						
+27783419705	Vous êtes-vous jamais demandé		Yala i delila k'i yɛrɛ ɲiniga ni…						
+27783419706	Êtes-vous prêts à faire votre choix ?		Yala i labɛnnen be k'o latigɛ wa ?						
+27783419707	Changer / Traduire		Yɛlɛma						
+27783419708	Maîtrise de soi		Yɛrɛminɛli						
+27783419709	Présence de Jésus		Yɛsu be yan wagati						
+27783419710	Méthode souple		Yiracogo magaman		Yiracogo nogoman				
+27783419711	Statue en bois		Yirimɔgɔnin						
+27783419712	Accroissement		Yiriwali						
+27783419713	District du Jourdain		Zurudɛn mara						
+27783419714	Journal intéressant		Zurunali, a kalan ka di						
