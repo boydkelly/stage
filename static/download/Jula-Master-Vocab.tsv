@@ -63,7 +63,7 @@
 -17233891349	Que dieu fasse que les enfants grandissent	bk	Ala ye denmisɛnw balo												phrase
 -17234019882	Que dieu diminue les soucis	bk	Ala ye haminan koo nɔgɔya												phrase
 -17234126057	Longue vie et santé	bk	Si niin kɛnɛya												phrase
--17234185036	Épreuve / crise	bk	Gwɛlɛya												
+-17234185036	Épreuve / crise Difficulté	bk	Gwɛlɛya		Kɔrɔbɔli										
 -17234242456	Richesse	yq	Nanfolo		Nafolo										
 -17508233029	Pas de maladie est l'ami de l'homme.	bk	Banan tɛ mɔgɔ teri ye.												phrase
 -17508246419	Arrêter / Construire	bk	Lɔ												verbe
@@ -79,8 +79,8 @@
 -17509681716	As-tu dit quelque chose?	bk	I ka dɔ fɔ wa?												phrase
 -17509773102	Deuxième nouvelle (un peu en dessous)	bk	Dɔɔni be a kɔrɔ												phrase
 17834855115	Lourd	yq	Gwili		Guli										marked
--17944849393	Construction	yq	Dilanni		Lɔli		Dilanni								verbe
--17944876358	Construire	bk	Dilan												verbe
+-17944849393	Construction	yq	Lɔli		Dilanni										verbe
+-17944876358	Construire	bk	Lɔ		Dilan										verbe
 -17945360773	Page	yq	Sɛbɛ ɲɛɛ		Ɲɛɛ										
 -18161797927	Champ de riz	bk	Malo foro												
 -18161840020	Marché africain	bk	Farafin lɔgɔ												
@@ -97,7 +97,7 @@
 -18434366707	Paludisme	bk	Sumaya dimi												
 -18510955590	Conseil	bk	Ladili												
 -18512229590	Ensemble	yq	Ɲɔngɔn fɛ		Ɲɔgɔn fɛ										essentiel
--18512251732	Pour que	yq	Walisa		Walisa										
+-18512251732	À venir / Prochain	yq			Nata										
 -18512314835	Étudiant	yq	Lakoliden		Kalanden										gens
 -18766567636	Perdre	bk	Tunu												leech verbe
 -18766759486	Partout	yq	Yɔrɔbɛɛ		Yɔrɔ bɛɛ										
@@ -169,7 +169,7 @@
 -27001359839	Bonne route (arriver)	bk	Ala y'a ɲuma se												marked phrase
 -27012867677	Je veut te montrer quelque chose	bk	N' be fɛ  ka fɛn dɔ yira i la												phrase
 27201819760	Arrête !	bk	A dabla !	CIV	A to !	ALT									phrase
-27205737326	Oeil		Ɲakili	CIV	Ɲakise	BFA									corp
+27205737326	Oeil		Ɲakili	CIV	Ɲakise	BFA	Ɲɛ		Ɲakile						corp
 27206246061	Lutter		Kɛlɛ	CIV	Bondori	BFA									
 27206395649	Foi	yq	Lanaya	CIV	Lanaya	BFA									
 27206473406	Quelle heure/quand	bk	Tuma juman	CIV	Wagati juman	BFA									calendrier question
@@ -182,7 +182,7 @@
 -27502669907	Toujours	yq			Bele										
 27767656744	Ananas	bk	Jabibi	Mli											nourriture
 27768736655	Guêpe	yq	Dondoli		Dondoli										animal
-27768736657	Fourmi ailée	yq	Dugumani siman		Dugumani Siman										animal
+27768736657	Fourmi ailée	yq	Dugumani siman												animal
 27768736661	Lionceau	yq	Jaraden		Jaraden										animal
 27768736662	Corbeau	yq	Kaankaan												animal
 27768736663	Loup	yq	Kongo wulu												animal
@@ -195,7 +195,7 @@
 27768736676	Singe	yq	Sula		Sula										animal marked
 27768736677	Grenouille	yq	Tɔri sen jan		Tɔri										animal marked
 27783419432	Bénin	yq			Benɛn										
-27809169043	Bras	yq	Bolo		Bolo										corp
+27809169043	Humilité / Modestie	yq			Majigilenya										
 27809169044	Poing	yq			Bolokuru										corp
 27809169045	Barbe	yq	Bonbonsi												corp
 27809169046	Salive	yq			Daji										corp
@@ -207,8 +207,8 @@
 27809169052	Cou	yq			Kaan										corp
 27809169053	Nuque	yq			Kaankala										corp
 27809169054	Genou	yq	Kunbiri kun		Kunbiri										alasane corp
-27809169055	Langue	yq			Nɛɛnkun		Nɛɛn								corp marked
-27809169056	Oeil	yq	Ɲakili		Ɲɛ		Ɲakise								corp
+27809169055	Langue	yq			Nɛɛn										delete
+27809169056	Vache	yq	Misimuso												corp
 27809169057	Yeux	yq	Ɲadenw		Ɲɛ		Ɲɛdenw								corp
 27809169058	Uriner	yq			Ɲɛgɛnɛ										corp
 27809169059	Dent	yq			Ɲiin										corp
@@ -316,7 +316,7 @@
 27946172021	S'assécher / Sécher	yq			Ja (v.)										verbe
 27946172022	Commerce	yq			Jago		Jagokɛyɔrɔ								
 27946172023	Affaire commerciale	yq			Jagoko										
-27946172024	Encourager	yq			Jagwɛlɛya		Lasun								verbe
+27946172024	Courage	yq			Jagwɛlɛya		Lasun								verbe
 27946172025	Accuser, Condamner	yq			Jalaki										verbe
 27946172026	Longueur	yq			Janya										
 27946172027	Descendre	yq			Jigi										verbe
@@ -342,7 +342,7 @@
 27946172048	Accident	yq			Kasara										
 27946172049	Pleurer	yq			Kasi										verbe
 27946172050	Devenir	yq			Kɛ ... yɛ										verbe
-27946172051	Lutter	yq			Kɛlɛ										verbe
+27946172051	Livre	yq			Gafe										verbe
 27946172052	Exciser	yq			Kɛnɛ-kɛnɛ		Kɔrɔ		Siginɛgɛ						santé
 27946172053	Santé / Favorise la santé	yq			Kɛnɛya		Ka kɛ kɛnɛya la								santé
 27946172054	Juge	yq			Kititigɛla		Kitibaga								gens
@@ -379,7 +379,7 @@
 27946172085	Venir (faire)	yq			Lana										verbe
 27946172086	Annuler	yq			Lasa		Dabila								verbe
 27946172087	Avertir	yq			Lasɔmi										verbe
-27946172088	Etranger	yq	Lonan		Lonan		Dunan		Lonacɛ						gens
+27946172088	Comprimé	bk	Filakise												gens
 27946172089	Gérant d'un hôtel	yq			Lotɛlitigi										gens
 27946172090	Apaiser	yq			Mada		Dusu Mala								verbe
 27946172091	Rabaisser	yq			Mafiɲɛya										verbe
@@ -420,7 +420,7 @@
 27946172127	Maintenant / Tout de suite	yq			Sisan										
 27946172128	Partager	yq			Son		Tilan								verbe
 27946172129	Tuberculose	yq			Sɔgɔsɔgɔgwɛ										santé
-27946172130	Trouver / Avoir / Gagner	yq	Sɔrɔ		Sɔrɔ										verbe
+27946172130	Crapeau	yq	Tɔri												a
 27946172131	Soldats	yq			Sɔrɔdasiw										gens
 27946172132	Palu	yq			Sumaya										santé
 27946172133	Bouton / Furoncle	yq			Sumunin										santé
@@ -433,7 +433,7 @@
 27946172140	Passer	yq			Tɛmɛ										verbe
 27946172141	Couper / Traverser	yq			Tigɛ										verbe
 27946172142	Découper	yq			Tigɛtigɛ										verbe
-27946172143	Propriétaire	yq			Tigi										gens
+27946172143	Propriétaire	yq	Tigitigi		Tigi										gens
 27946172144	Achever / Terminer / Finir (un travail)	yq			Tila										verbe
 27946172145	Jour / Soleil	yq	Tere	CIV	Tere	BFA	Tile	MLI	Lon						essentiel
 27946172146	Ouest	yq			Tileben										
@@ -453,19 +453,23 @@
 27946172161	Journaliste	yq			Zurunali sɛbɛrikɛla										gens
 28035546765	Ajuster / Aplanir / Niveler	yq			Dakɛɲɛ										verbe
 28035546766	Depuis 16 ans	yq			A saan 16 ye nin ye										verbe
+28364392934	Nous sommes dans la main de Dieu.	alasane	An be Ala bla la.												
 28365516628	Ongle	alasane	Bolo sɔɔni												alasane corp
 28366286693	Sourcis / Cil	alasane	Ɲa sii												alasane corp
 28366354150	Paupière	alasane	Ɲa fara												alasane corp
 28366446248	Pupille	alasane	Ɲakiseden												alasane corp
-28366622927	Oeil	alasane	Ɲakise		Ɲakile										alasane corp
+28366622927	Heure	yq	Lɛri		Lɛri		Nɛgɛ ɲɛɛ ... ex: tan								calendrier
 28366846362	Gorge	alasane	Kaan file file												alasane corp
+28367029046	Mamelon	alasane	Suun												corp
 28367076607	Poitrine	alasane	Disi	m b i disi ka re											alasane corp
+28367283754	casser	alasane	ci	vitre pneu	kare	bois poitrine disi									alasane
+28367609785	Poumons	alasane	Sɔɔn kuna kuna												alasane corp
 28367778141	Intestins	alasane	Kɔnɔ nogo												alasane corp
 28367944447	Nombril	alasane	Bara kun												alasane corp
 28367971257	Veine	source	Fasa juru												alasane corp
 28368107720	Sang	alasane	Joli	(n.)											alasane corp
 28368192363	Levres	alasane	Dagwolo												alasane corp
-28368284086	Langue	alasane	Nɛɛn												alasane corp
+28368284086	Langue	alasane	Nɛɛn		Nɛɛnkun										alasane corp
 28368362045	Fesse	alasane	bobara												alasane corp
 28368415340	Cerveau	alasane	Kun nɛɛn		Zɛmɛ										alasane corp
 28368569026	Bouton	alasane	Suguni		Sumuni										corp marked santé
@@ -510,7 +514,7 @@
 -34269420531	Endurer persévérer	bk	Sɔmina												leech verbe
 -3582239531	Ensuite (ajouter)	bk	Ka fara o kan												connecteur essentiel
 -3582266273	Promesse	yq	Layiri		Layidu		dajuru								leech marked
-3661703856	Endurance		Muɲuli												duplicate wt
+3661703856	Endurance		Muɲuli												wt
 3670486778	Aigle	bk	Segɛn												animal
 3670506647	Hippopotame	bk	Meeri	CIV/BFA			Mali	MLI							animal
 3670546453	Chèvre de montagne	bk	Kongo baa												animal
@@ -527,6 +531,7 @@
 3827696317	Eau	yq	Jii		Jii										essentiel
 3832771434	Espérer	yq	Jigi		Jigi	N jigi b'a la.									
 3845946176	Attendre	yq	Kɔnɔ		Kɔnɔ (v.)		Kɔnɔni kɛ		Makɔnɔ						verbe
+3846098296	Canari / Marmite	yq	Daga		Nɛgɛdaga										
 -3849934239	Musa n'est pas allé à korhogo	bk	Musa ma ta korhogo												phrase
 -3849952656	Petite soeur	bk	Dɔgɔmuso												essentiel gens
 -3849977637	Petit frère	bk	Dɔgɔcɛ												essentiel gens
@@ -538,7 +543,7 @@
 -4005544967	Devoir	bk	Ka kan ka												essentiel
 -40318372109	Alors puis maintenant donc	bk	Ayiwa												connecteur essentiel
 403627311	Commencer	yq	Dabɔ		Daminɛ (v.)		Damina								verbe vi
-403694429	Cesser / abandonner	bk	Dabla		To										bouake marked verbe
+403694429	Cesser / abandonner / Arrêter / Laisser	bk	Dabla		To		Dabila								bouake marked verbe
 -40927183476	Cendre	yq	Buguri		Buguri(gwɛ)										
 -40927312869	Aujourd'hui	yq	Bi		Bi										calendrier
 -4122869514	Esclavage	bk	Jɔnya												
@@ -589,7 +594,7 @@
 -44178557456	Passer / dépasser	bk	Tɛmɛ												verbe
 -4431224777	Même	yq	Yɛrɛ		Yɛrɛ										
 -44437459979	S'assoir	bk	Sigi												verbe
--44437573903	Étranger	bk	Lonacɛ												gens
+-44437573903	Étranger	bk	Lonacɛ		Lonan		Dunan		Lonacɛ						gens
 -44437908548	Sortir	bk	Bɔ												verbe
 -44439246043	Gater	bk	Can												verbe vt
 -44639764826	Conscience	bk	Dusukun												
@@ -609,8 +614,8 @@
 -47881810910	Il elle lui	bk	A / Ale	CIV	A / Ale	BFA	A / Ale	MLI							essentiel pp
 -47881877351	Tu / Toi	bk	I	CIV	Ile		I	BFA	Ile		I	MLI	E		essentiel pp
 -47881986758	Je moi	bk	N	CIV	Ne		N	BFA	Ne		N	MLI	Ne		essentiel pp
--48185682132	Bientôt	yq			Yanni Dɔnni		Sɔnni								
--48185883125	Effort	bk	Jijali												
+-48185682132	Bientôt	yq	Yanni dɔnni		Yanni sɔnni		Sɔnni								
+-48185883125	Effort	bk	Jijali	(n.)											
 -48185883126	Fatiguer	bk	Sɛgɛ												verbe vt
 -48185883127	Encourager		Jija												marked verbe
 -48185883128	Prix	yq	Sɔngɔ		Sara (n.)		Sɔngɔn								essentiel
@@ -623,10 +628,10 @@
 -48185883137	Bon appétit	bk	Ala y'a suma i kɔnɔ												phrase
 -48185883138	Avant hier	bk	Kuna sini												calendrier
 -48185883139	Après demain	bk	Sini kɛnɛ												calendrier leech
--48185883140	Obtenir/trouver	bk	Sɔrɔ												verbe
+-48185883140	Obtenir / trouver / Gagner	bk	Sɔrɔ												verbe
 -48186082422	Qui	bk	Jɔn												question
 4896902309	Chef de maison	bk	Sotigi												gens
-4897052312	Reveiller	bk	Lakunu												verbe vt
+4897052312	Reveiller	bk	Lakunu		Kunu										verbe vt
 -49188586989	Vouloir	yq	Fɛ		Fɛ										verbe
 -49188671553	Fidèle	bk	Kantigiman												
 -49188696477	Famille	yq	Denbaya		Denbaya										gens
@@ -654,10 +659,10 @@
 -52656018474	Répondre	yq			Jaabi		Jaabili kɛ								verbe
 -52656018475	Petit garçon	bk	Cɛdennin												gens
 -52668375815	Ami	yq	Tericɛ		Teri										gens
--52670046300	Beaucoup	bk	Caaman												essentiel
+-52670046300	Beaucoup / Nombreaux / Abondance	bk	Caaman		Caya										essentiel
 -52670184464	C'est qui	bk	Jɔn lo												question
 -52670184465	Vie	yq	Niin		Niin		Ɲɛnamaya								
--52670184466	Créateur	yq	Danbaga		Danbaga										wt
+-52670184466	Pagne	yq	Fani		Taafe		fani								
 -52670184467	Dans	yq	Kɔnɔ (post)		Kɔnɔ (prép.)										essentiel
 -52670184468	Monde / terre	bk	Duniɲa												wt
 -52670184469	Vérité	yq			Tiɲɛ										
@@ -711,7 +716,7 @@
 -53872831278	Professeur	bk	Lakɔlifa												essentiel
 -53873102985	Demain	yq	Sini		Sini										calendrier
 -53873236373	Après	bk	Kɔfɛ												essentiel
--53873263150	Année	yq	Saan		San										calendrier
+-53873263150	Année	bk	Saan												calendrier
 -53873303585	Semaine	yq	Lɔgɔkun		Lɔgɔkun										calendrier
 -53873333109	Jour		Loon												calendrier
 -53873557747	Mois	yq	Kalo		Kalo										calendrier
@@ -724,7 +729,7 @@
 -53958647738	Oreille	yq	Toro		Tulo		Tolo								corp
 -53958647739	École	yq			Lakɔli										
 -53958647740	Roue	bk	Pine												essentiel
--53958647741	Repas	bk	Domuni												essentiel
+-53958647741	Repas / Nourriture / Plat	yq	Domuni		Dumuni		Fana								essentiel
 -53958647742	Cheveux	yq	Kunsigi		Kunsigi										corp
 -53958647743	Amie	bk	Terimuso												essentiel
 -53958647744	Bolo	bk	Bras												essentiel
@@ -758,7 +763,7 @@
 -54292927907	Décembre	yq	Desanburukalo		Desanburu										calendrier
 -54293052445	Novembre	yq	Novanburukalo		Novanburu										calendrier
 -54293290889	Octobre	yq	Ɔkutɔburukalo		Ɔkutɔburukalo										calendrier
--5462122209	Que dieu te benisse	bk	Ala i duga												phrase
+-5462122209	Que dieu te benisse	bk	Ala i duga		Ala i baraji										phrase
 -54727441325	Compréhension	yq	Faamuli		Faamuyali		Famuli								
 -54727486070	Vraiment	yq	Tiɲɛ tiɲɛ na	CIV	Tiɲɛn na		Tigitigi								
 -54727498336	Éduquer / discipliner	bk	Kolo												verbe
@@ -852,9 +857,9 @@
 -5643947273	Exemple	yq	Ɲɛyirali		Nyɛyirali		Misali								
 -5644181930	Courage	yq			Jagɛlɛya										
 -5810084146	C'est moi	bk	Ne lo												phrase
--5841878338	Le chemin est loin	bk	Sira ka jan												phrase
+-5841878338	Un long chemin	bk	Sira ka jan												phrase
 -5843352880	Regarder	yq	Filɛ	CIV	Filɛli kɛ	BFA									marked
--5926327875	Je suis entré dans la maison	bk	N dola bon na												phrase
+-5926327875	Je suis entré dans la maison	bk	N dola bon na.												phrase
 -5926384811	J'ai un rhume.	bk	Mura be n na.												phrase
 -5926408929	Rhume	yq			Mura										santé
 6098503772	Que dieu accept salutations	bk	Ala du amina												marked
@@ -864,7 +869,7 @@
 -6415305877	Tu dis quoi ?	bk	Ile ko di ?												phrase
 -6416047111	Tous le temps cest pas le meme chez dieu	bk	Wagati bɛɛ tɛ kelen ye ala fɛ												phrase
 6681786393	Quelqu'un honnête	bk	Kankelentigi												marked
-6684371870	Gauche	bk	Numan bolo		bolo jugu										corp
+6684371870	Gauche (à)	yq			Numan (bolo) fɛ										essentiel
 -6713724513	Je voulais dire que...	bk	Ne be fɛ ka fɔ ko...												phrase
 -6713968474	Je dis	bk	Ne ko												phrase
 -6714023040	Jusqu'à	yq	Fɔɔ		Kabini										essentiel phrase
@@ -907,9 +912,9 @@
 -8088212970	Noir	yq			finman										
 -8099771854	Devant	yq	Ɲɛ fɛ		Ɲɛ										
 -8345687794	Je ne veux pas te fatiguer	bk	N tɛ fɛ k' i sɛgɛ												phrase
--8360950170	J'ai compris	bk	N ka faamu												phrase
+-8360950170	J'ai compris.	bk	N ka faamu.												phrase
 -8360992248	J'ai compris. / J'ai entendu.	bk	N ka mɛn.												phrase
--8361038700	Je t'ai entendu	bk	N k'i lamɛn												phrase
+-8361038700	Je t'ai entendu.	bk	N k'i lamɛn.												phrase
 -8439635054	Il est grand	bk	A ka jan												phrase
 -8520295119	Respect	bk	Bonya (n.)												
 -8521542029	Poisson fumé	bk	Jɛgɛ usu												nourriture
@@ -918,8 +923,8 @@
 -8523180370	C'est ça	bk	O lo	p.											phrase
 -8523273944	Ils ne sont pas ici	bk	O tɛ a?												phrase
 -8878884938	Ca fait deux jours	bk	A kɛla tere fila	CIV			I ni la fila	MLI							essentiel phrase
--9126606725	Que dieu te bénisse	bk	Ala i baraji												phrase
-9184690720	Salutations champ	bk	I ni sɛnɛ / i ni kongo												essentiel
+-9126606725	Neuf / Nouveau	yq			Kura										phrase
+9184690720	Salutation champ	bk	I ni sɛnɛ		i ni kongo										essentiel
 9184723890	Salutation cuisine	bk	I ni gwa												salutations
 9184759070	Salutation marché	bk	I ni lɔgɔ												essentiel
 9184791617	Salutation lessive ou porter l'eau	bk	I ni kɔɔ												essentiel
