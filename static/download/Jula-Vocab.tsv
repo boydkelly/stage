@@ -24,7 +24,7 @@
 1527665647867	Manière	yq			Cogoya										
 1527946171929	Travailler	yq			Baara kɛ										vi
 1527946171945	Fuir / Echapper / Courir / Conduire	yq			Boli										vi
-1527946172032	Qui ?	yq			Jɔn		Jɔnni								
+1527946172032	Mal / Douleur	yq			Dimi										d
 1527946172154	Quand ?	yq			Waati jumɛn		Tuma jumɛn								
 1528479911909	Argent	yq			Warigwɛ		Wari								
 1528479911910	Argile	yq			Bɔgɔn										
@@ -79,7 +79,7 @@
 -17509681716	As-tu dit quelque chose?	bk	I ka dɔ fɔ wa?												phrase
 -17509773102	Deuxième nouvelle (un peu en dessous)	bk	Dɔɔni be a kɔrɔ												phrase
 17834855115	Lourd	yq	Gwili		Guli										marked
--17944849393	Construction	yq	Lɔli		Dilanni										marked verbe
+-17944849393	Construction	yq	Lɔli		Dilanni										verbe
 -17944876358	Construire	bk	Lɔ		Dilan										verbe
 -17945360773	Page	yq	Sɛbɛ ɲɛɛ		Ɲɛɛ										
 -18161797927	Champ de riz	bk	Malo foro												
@@ -207,7 +207,6 @@
 27809169052	Cou	yq			Kaan										corp
 27809169053	Nuque	yq			Kaankala										corp
 27809169054	Genou	yq	Kunbiri kun		Kunbiri										alasane corp
-27809169055	Langue	yq			Nɛɛn										corp
 27809169056	Vache	yq	Misimuso												corp
 27809169057	Yeux	yq	Ɲadenw		Ɲɛ		Ɲɛdenw								corp
 27809169058	Uriner	yq			Ɲɛgɛnɛ										corp
@@ -316,7 +315,6 @@
 27946172021	S'assécher / Sécher	yq			Ja (v.)										verbe
 27946172022	Commerce	yq			Jago		Jagokɛyɔrɔ								
 27946172023	Affaire commerciale	yq			Jagoko										
-27946172024	Courage	yq			Jagwɛlɛya		Lasun								verbe
 27946172025	Accuser, Condamner	yq			Jalaki										verbe
 27946172026	Longueur	yq			Janya										
 27946172027	Descendre	yq			Jigi										verbe
@@ -420,7 +418,7 @@
 27946172127	Maintenant / Tout de suite	yq			Sisan										
 27946172128	Partager	yq			Son		Tilan								verbe
 27946172129	Tuberculose	yq			Sɔgɔsɔgɔgwɛ										santé
-27946172130	Crapeau	yq	Tɔri												a
+27946172130	Crapeau	yq	Tɔri												a 
 27946172131	Soldats	yq			Sɔrɔdasiw										gens
 27946172132	Palu	yq			Sumaya										santé
 27946172133	Bouton / Furoncle	yq			Sumunin										santé
@@ -453,13 +451,17 @@
 27946172161	Journaliste	yq			Zurunali sɛbɛrikɛla										gens
 28035546765	Ajuster / Aplanir / Niveler	yq			Dakɛɲɛ										verbe
 28035546766	Depuis 16 ans	yq			A saan 16 ye nin ye										verbe
+28364392934	Nous sommes dans la main de Dieu.	alasane	An be Ala bla la.												
 28365516628	Ongle	alasane	Bolo sɔɔni												alasane corp
 28366286693	Sourcis / Cil	alasane	Ɲa sii												alasane corp
 28366354150	Paupière	alasane	Ɲa fara												alasane corp
 28366446248	Pupille	alasane	Ɲakiseden												alasane corp
 28366622927	Heure	yq			Lɛri		Nɛgɛ ɲɛɛ ... ex: tan								calendrier
 28366846362	Gorge	alasane	Kaan file file												alasane corp
+28367029046	Mamelon	alasane	Suun												corp
 28367076607	Poitrine	alasane	Disi	m b i disi ka re											alasane corp
+28367283754	Casser	alasane	ci	vitre pneu	kare	bois poitrine disi									alasane
+28367609785	Poumons	alasane	Sɔɔn kuna kuna												alasane corp
 28367778141	Intestins	alasane	Kɔnɔ nogo												alasane corp
 28367944447	Nombril	alasane	Bara kun												alasane corp
 28367971257	Veine	source	Fasa juru												alasane corp
@@ -510,7 +512,7 @@
 -34269420531	Endurer persévérer	bk	Sɔmina												leech verbe
 -3582239531	Ensuite (ajouter)	bk	Ka fara o kan												connecteur essentiel
 -3582266273	Promesse	yq	Layiri		Layidu		dajuru								leech marked
-3661703856	Endurance		Muɲuli												wt
+3661703856	Endurance		Muɲuli												 wt
 3670486778	Aigle	bk	Segɛn												animal
 3670506647	Hippopotame	bk	Meeri	CIV/BFA			Mali	MLI							animal
 3670546453	Chèvre de montagne	bk	Kongo baa												animal
@@ -625,7 +627,7 @@
 -48185883138	Avant hier	bk	Kuna sini												calendrier
 -48185883139	Après demain	bk	Sini kɛnɛ												calendrier leech
 -48185883140	Obtenir / trouver / Gagner	bk	Sɔrɔ												verbe
--48186082422	Qui	bk	Jɔn												question
+-48186082422	Qui	bk	Jɔn		Jɔnni										question
 4896902309	Chef de maison	bk	Sotigi												gens
 4897052312	Reveiller	bk	Lakunu		Kunu										verbe vt
 -49188586989	Vouloir	yq			Fɛ										verbe
@@ -851,7 +853,7 @@
 -5587347447	C'est comme ça	bk	A be tɛ												essentiel phrase
 -5642987963	Bonté	yq	Ɲumanya		Ɲumaya										
 -5643947273	Exemple	yq	Ɲɛyirali		Nyɛyirali		Misali								
--5644181930	Courage	yq			Jagɛlɛya										
+-5644181930	Courage	yq	Jagwɛlɛya		Jagɛlɛya		Lasun								
 -5810084146	C'est moi	bk	Ne lo												phrase
 -5841878338	Un long chemin	bk	Sira ka jan												phrase
 -5843352880	Regarder	yq	Filɛ	CIV	Filɛli kɛ	BFA									marked
@@ -920,70 +922,9 @@
 -8523273944	Ils ne sont pas ici	bk	O tɛ a?												phrase
 -8878884938	Ca fait deux jours	bk	A kɛla tere fila	CIV			I ni la fila	MLI							essentiel phrase
 -9126606725	Neuf / Nouveau	yq			Kura										phrase
-9184690720	Salutation champ	bk	I ni sɛnɛ		i ni kongo										essentiel
+9184690720	Salutation champ	bk	I ni sɛnɛ 		i ni kongo										essentiel
 9184723890	Salutation cuisine	bk	I ni gwa												salutations
 9184759070	Salutation marché	bk	I ni lɔgɔ												essentiel
 9184791617	Salutation lessive ou porter l'eau	bk	I ni kɔɔ												essentiel
 -9558056281	Revenir	yq	Sekɔ		Ka kɔsegin ka na										calendrier verbe vi
-	Affaire de	yq			Koo		Koɲɛ								essentiel
-	Aile	yq			Gama fura										corp
-	Animal domestique	yq			Begɛn										animal
-	Artisant	yq			Bololabaara										gens
-	Aspect / Apparence / Forme	yq			Sawura		Kɛcogo								i
-	Athlétisme	yq			Farijo										i
-	Bavarder	yq			Baro kɛ										vi
-	Besoin	yq			Makoya		Mako								i
-	Bobo-Dioulasso	yq			Bobo-Julaso										lieux
-	Cadeau	yq			Nilifɛn		Kado								i
-	Cailloux / Gravier	yq			Bɛrɛ										i
-	Centrafrique	yq			Santarafiriki										lieux
-	Compatissant	yq			Makaritigi										?
-	Condamnation	yq			Jalakili										i
-	Constructeur	yq			Boon lɔbaga										gens
-	Découvrir	yq			Ka lon										?
-	Demander à boire	yq			Ka minji deli										i
-	Diabète	yq			Sukarobana										santé
-	Diphtérie	yq			Falakabana										santé
-	Discipline / Éducation	yq			Kololi										i
-	Disenterie	yq			Tɔgɔtɔgɔmi										santé
-	Egypte	yq			Misira										lieux
-	Faux / Mensonge	yq			Ngalon										i
-	Fils	yq			Dencɛ										gens
-	Folie	yq			Fatɔya		Hakilitanya		Faa						i
-	Fort, Puissant (adj)	yq			Fangaman										i
-	Fort	yq			Fangaba										i
-	France	yq			Faransi jamana										lieux
-	Gorge	yq	kaan		Gɔɔnɔ										corp
-	Gros / Vaste	yq			Bon (adj.)										essentiel
-	Guinée-Bissao	yq			Laginɛ Biso										lieux
-	Guinée Equatoriale	yq			Laginɛ Ekuwat.										lieux
-	Hebdomadaire	yq			Logokun o logokun										calendrier
-	Histoire (une)	yq	Maana		Tariki										marked
-	Interdit (c'est), totem	yq			Tana lo										i
-	Invisible	yq			Yebali										marked
-	Langue (parlée)	yq			Kaan										i
-	Le week-end	yq			Lɔgɔkun laban na										marked
-	Loin	yq			Yɔrɔ jan										i
-	Loi	yq			Sariya										i
-	Malheur / Peine / Souffrance	yq			Tɔɔrɔ										i
-	Museau	yq			Dakala										corp
-#Note ID	French	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	Note5	Jula6	Note6	tags
-	Nu	yq			Farilakolon										corp
-	Or	yq			Sanu										i
-	Panetier	yq			Buru dilanbaga										gens
-	Pause / Repos / Sièste	yq			Lafiyɛn										marked
-	Peau	yq			Fara										corp
-	Poison	yq	baga		Pɔsɔni										marked
-	Pour	yq			Kɔsɔn										?
-	Principe	yq			Sariyakolo										marked
-	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri		Nɛnɛkili										santé
-	Rhumatisme	yq			Koloci										santé
-	Sac	yq	saki		Bɔrɔ		Sakɔsi		saki						i
-	Sauterelle / Criquet	yq			Tɔɔn										animal
-	Short	yq			Kilɔti										i
-	Sucre	yq			Sukaro										nourriture
-	Totem	yq			Tana										i
-	Trahir	yq			Janfa										i
-	Traitre	yq			Janfanci		Janfaci								i
-	Trouble respiratoire	yq			Nɛnɛkiri bana										santé
-	Week-End	yq			Wikɛni										calendrier
+Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	note5	Jula6	Note6	Tags
