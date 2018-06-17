@@ -24,7 +24,7 @@
 1527665647867	Manière	yq			Cogoya										
 1527946171929	Travailler	yq			Baara kɛ										vi
 1527946171945	Fuir / Echapper / Courir / Conduire	yq			Boli										vi
-1527946172032	Mal / Douleur	yq			Dimi										d
+1527946172032	Mal / Douleur	yq			Dimi										corp
 1527946172154	Quand ?	yq			Waati jumɛn		Tuma jumɛn								
 1528479911909	Argent	yq			Warigwɛ		Wari								
 1528479911910	Argile	yq			Bɔgɔn										
@@ -646,7 +646,7 @@
 -52136264022	Ordures	bk	Ɲaman												essentiel
 -52136464178	Dire	yq			Fɔ										verbe vt
 -52136790920	Réparer	yq			Lalaga		Ladinɛ		Lalaga						
--52136836214	Poisson	yq	Jɛgɛ		Jigɛ										animal nourriture
+-52136836214	Poisson	yq	Jɛgɛ	CIV	Jigɛ	BFA									animal nourriture
 -52136922846	Frire	bk	Yiran												verbe
 -52139218999	Tirer	yq	Saman		Ci										verbe vt
 -52139281000	Maïs	yq			Kaba										nourriture
@@ -930,6 +930,7 @@
 -9558056281	Revenir	yq	Sekɔ		Ka kɔsegin ka na										calendrier verbe vi
 	Affaire de	yq			Koo		Koɲɛ								essentiel
 	Aile	yq			Gama fura										corp
+	Ail	wt	layi												nourriture
 	Animal domestique	yq			Begɛn										animal
 	Artisant	yq			Bololabaara										gens
 	Aspect / Apparence / Forme	yq			Sawura		Kɛcogo								i
