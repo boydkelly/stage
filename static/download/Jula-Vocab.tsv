@@ -32,6 +32,73 @@
 1528479911912	Au-dessus / En haut	yq			San fɛ										essentiel
 1528524001	Un doigt ne peut pas lever un cailloux.	bk	Bolokumande kelen tɛ se ka bɛrɛ ta.												phrase
 1528620781278	Ce n'est pas tout	dictionaire	O dɔrɔn tɛ												phrase
+1528816741117	Python		Mininyanba		Mininyan suruni										animal
+1529143433471	Bavarder	yq			Baro kɛ										vi
+1529143433472	Animal domestique	yq			Begɛn										animal
+1529143433473	Cailloux / Gravier	yq			Bɛrɛ										i
+1529143433474	Bobo-Dioulasso	yq			Bobo-Julaso										lieux
+1529143433475	Artisant	yq			Bololabaara										gens
+1529143433476	Gros / Vaste	yq			Bon (adj.)										essentiel
+1529143433477	Constructeur	yq			Boon lɔbaga										gens
+1529143433478	Sac	yq	saki		Bɔrɔ		Sakɔsi		saki						i
+1529143433479	Panetier	yq			Buru dilanbaga										gens
+1529143433480	Museau	yq			Dakala										corp
+1529143433481	Fils	yq			Dencɛ										gens
+1529143433482	Diphtérie	yq			Falakabana										santé
+1529143433483	Fort	yq			Fangaba										i
+1529143433484	Fort, Puissant (adj)	yq			Fangaman										i
+1529143433485	Peau	yq			Fara										corp
+1529143433486	France	yq			Faransi jamana										lieux
+1529143433487	Athlétisme	yq			Farijo										i
+1529143433488	Nu	yq			Farilakolon										corp
+1529143433489	Folie	yq			Fatɔya		Hakilitanya		Faa						i
+1529143433490	Aile	yq			Gama fura										corp
+1529143433491	Gorge	yq	kaan		Gɔɔnɔ										corp
+1529143433492	Condamnation	yq			Jalakili										i
+1529143433493	Trahir	yq			Janfa										i
+1529143433494	Traitre	yq			Janfanci		Janfaci								i
+1529143433495	Découvrir	yq			Ka lon										?
+1529143433496	Demander à boire	yq			Ka minji deli										i
+1529143433497	Langue (parlée)	yq			Kaan										i
+1529143433498	Short	yq			Kilɔti										i
+1529143433499	Rhumatisme	yq			Koloci										santé
+1529143433500	Discipline / Éducation	yq			Kololi										i
+1529143433501	Affaire de	yq			Koo		Koɲɛ								essentiel
+1529143433502	Pour	yq			Kɔsɔn										?
+1529143433503	Pause / Repos / Sièste	yq			Lafiyɛn										marked
+1529143433504	Guinée-Bissao	yq			Laginɛ Biso										lieux
+1529143433505	Guinée Equatoriale	yq			Laginɛ Ekuwat.										lieux
+1529143433506	Hebdomadaire	yq			Logokun o logokun										calendrier
+1529143433507	Le week-end	yq			Lɔgɔkun laban na										marked
+1529143433508	Compatissant	yq			Makaritigi										?
+1529143433509	Besoin	yq			Makoya		Mako								i
+1529143433510	Egypte	yq			Misira										lieux
+1529143433511	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri		Nɛnɛkili										santé
+1529143433512	Trouble respiratoire	yq			Nɛnɛkiri bana										santé
+1529143433513	Faux / Mensonge	yq			Ngalon										i
+1529143433514	Cadeau	yq			Nilifɛn		Kado								i
+1529143433515	Poison	yq	baga		Pɔsɔni										marked
+1529143433516	Centrafrique	yq			Santarafiriki										lieux
+1529143433517	Or	yq			Sanu										i
+1529143433518	Loi	yq			Sariya										i
+1529143433519	Principe	yq			Sariyakolo										marked
+1529143433520	Aspect / Apparence / Forme	yq			Sawura		Kɛcogo								i
+1529143433521	Sucre	yq			Sukaro										nourriture
+1529143433522	Diabète	yq			Sukarobana										santé
+1529143433523	Totem	yq			Tana										i
+1529143433524	Interdit (c'est), totem	yq			Tana lo										i
+1529143433525	Histoire (une)	yq	Maana		Tariki										marked
+1529143433526	Disenterie	yq			Tɔgɔtɔgɔmi										santé
+1529143433527	Sauterelle / Criquet	yq			Tɔɔn										animal
+1529143433528	Malheur / Peine / Souffrance	yq			Tɔɔrɔ										i
+1529143433529	Week-End	yq			Wikɛni										calendrier
+1529143433530	Invisible	yq			Yebali										marked
+1529143433531	Loin	yq			Yɔrɔ jan										i
+1529190677480	Sans doute	wt	Siga t’a												
+1529191015378	Désert	wt	Kongokolon												
+1529191270204	Pensez-y	wt	Miiri k’a filɛ												
+1529227811242	Concombre	wt	kɔkɔnburu												nourriture
+1529227963980	Ail	wt	layi												nourriture
 1538655602	L'homme lui-même	bk	Mɔgɔ yɛrɛ												gens
 -15868363272	Fidélité / Intégrité	bk	Kantigiya												
 -15920650123	Nouveau	bk	Kura												essentiel
@@ -928,71 +995,5 @@
 9184759070	Salutation marché	bk	I ni lɔgɔ												essentiel
 9184791617	Salutation lessive ou porter l'eau	bk	I ni kɔɔ												essentiel
 -9558056281	Revenir	yq	Sekɔ		Ka kɔsegin ka na										calendrier verbe vi
-	Affaire de	yq			Koo		Koɲɛ								essentiel
-	Aile	yq			Gama fura										corp
-	Ail	wt	layi												nourriture
-	Animal domestique	yq			Begɛn										animal
-	Artisant	yq			Bololabaara										gens
-	Aspect / Apparence / Forme	yq			Sawura		Kɛcogo								i
-	Athlétisme	yq			Farijo										i
-	Bavarder	yq			Baro kɛ										vi
-	Besoin	yq			Makoya		Mako								i
-	Bobo-Dioulasso	yq			Bobo-Julaso										lieux
-	Cadeau	yq			Nilifɛn		Kado								i
-	Cailloux / Gravier	yq			Bɛrɛ										i
-	Centrafrique	yq			Santarafiriki										lieux
-	Compatissant	yq			Makaritigi										?
-	Condamnation	yq			Jalakili										i
-	Constructeur	yq			Boon lɔbaga										gens
-	Découvrir	yq			Ka lon										?
-	Demander à boire	yq			Ka minji deli										i
-	Désert	wt	Kongokolon												
-	Diabète	yq			Sukarobana										santé
-	Diphtérie	yq			Falakabana										santé
-	Discipline / Éducation	yq			Kololi										i
-	Disenterie	yq			Tɔgɔtɔgɔmi										santé
-	Egypte	yq			Misira										lieux
-	Faux / Mensonge	yq			Ngalon										i
-	Fils	yq			Dencɛ										gens
-	Folie	yq			Fatɔya		Hakilitanya		Faa						i
-	Fort, Puissant (adj)	yq			Fangaman										i
-	Fort	yq			Fangaba										i
-	France	yq			Faransi jamana										lieux
-	Gorge	yq	kaan		Gɔɔnɔ										corp
-	Gros / Vaste	yq			Bon (adj.)										essentiel
-	Guinée-Bissao	yq			Laginɛ Biso										lieux
-	Guinée Equatoriale	yq			Laginɛ Ekuwat.										lieux
-	Hebdomadaire	yq			Logokun o logokun										calendrier
-	Histoire (une)	yq	Maana		Tariki										marked
-	Interdit (c'est), totem	yq			Tana lo										i
-	Invisible	yq			Yebali										marked
-	Langue (parlée)	yq			Kaan										i
-	Le week-end	yq			Lɔgɔkun laban na										marked
-	Loin	yq			Yɔrɔ jan										i
-	Loi	yq			Sariya										i
-	Malheur / Peine / Souffrance	yq			Tɔɔrɔ										i
-	Museau	yq			Dakala										corp
 Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	note5	Jula6	Note6	Tags
 #Note ID	French	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	Note5	Jula6	Note6	tags
-	Nu	yq			Farilakolon										corp
-	Or	yq			Sanu										i
-	Panetier	yq			Buru dilanbaga										gens
-	Pause / Repos / Sièste	yq			Lafiyɛn										marked
-	Peau	yq			Fara										corp
-	Pensez-y	wt	Miiri k’a filɛ												
-	Poison	yq	baga		Pɔsɔni										marked
-	Pour	yq			Kɔsɔn										?
-	Principe	yq			Sariyakolo										marked
-	Python		Mininyanba		Mininyan suruni										animal
-	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri		Nɛnɛkili										santé
-	Rhumatisme	yq			Koloci										santé
-	Sac	yq	saki		Bɔrɔ		Sakɔsi		saki						i
-	Sans doute	wt	Siga t’a												
-	Sauterelle / Criquet	yq			Tɔɔn										animal
-	Short	yq			Kilɔti										i
-	Sucre	yq			Sukaro										nourriture
-	Totem	yq			Tana										i
-	Trahir	yq			Janfa										i
-	Traitre	yq			Janfanci		Janfaci								i
-	Trouble respiratoire	yq			Nɛnɛkiri bana										santé
-	Week-End	yq			Wikɛni										calendrier
