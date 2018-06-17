@@ -71,7 +71,7 @@
 -17508334753	En tout cas!	bk	Akɔnii!												phrase
 -17508347819	Encore	yq			Tuguni		Fɔlɔ	BFA	Tugu						connecteur essentiel marked
 -17508390259	Chef	bk	Ŋamɔgɔ												gens
--17509100479	Maladie	yq	Bana												santé
+-17509100479	Maladie	yq	Bana		Banan										santé
 -17509221102	À Bouaké on doit parler Jula.	bk	Bouake kɔnɔ an ka kan ka julakan fɔ.												phrase
 -17509277263	Je dois...	bk	N ka kan ka...												phrase
 -17509316697	Je peux...	bk	N be se ka...												phrase question
@@ -92,7 +92,8 @@
 -18162364837	Accompagner	yq	Blasira		Bilasira…la										verbe
 -18162548526	Ils ont le palu	bk	Sumaya be o la												phrase
 -18162625383	Frère	bk	Balimancɛ												essentiel gens
--18434267659	Fièvre	yq			Farigwan		Farigan	3							santé
+-18162663818	Monnaie		Wari misɛn												essentiel
+-18434267659	Fièvre	yq	Farigwan				Farigan								santé
 -18434296505	Mal de tête	bk	Kun dimi	n kun Koko be dimi											corp
 -18434366707	Paludisme	bk	Sumaya dimi												
 -18510955590	Conseil	bk	Ladili												
@@ -207,14 +208,14 @@
 27809169052	Cou	yq			Kaan										corp
 27809169053	Nuque	yq			Kaankala										corp
 27809169054	Genou	yq	Kunbiri kun		Kunbiri										alasane corp
-27809169056	Vache	yq	Misimuso												corp
+27809169056	Vache	yq	Misimuso												animal
 27809169057	Yeux	yq	Ɲadenw		Ɲɛ		Ɲɛdenw								corp
 27809169058	Uriner	yq			Ɲɛgɛnɛ										corp
 27809169059	Dent	yq			Ɲiin										corp
 27809169060	Poil	yq			Sii										corp
 27809169061	Paume	yq			Tɛgɛ		Tigɛ								corp
 27871587030	Pied	yq	Sen		Seen										corp
-27946171920	Enceinte	yq			A kɔnɔman lo										santé
+27946171920	Enceinte	yq	kɔnɔman		A kɔnɔman lo										santé
 27946171921	Indifférent	yq			A tɛ  mako don										
 27946171922	Jamais (à)	yq			Abada										
 27946171923	Dans nos régions	yq			An ka mara la										
@@ -418,7 +419,7 @@
 27946172127	Maintenant / Tout de suite	yq			Sisan										
 27946172128	Partager	yq			Son		Tilan								verbe
 27946172129	Tuberculose	yq			Sɔgɔsɔgɔgwɛ										santé
-27946172130	Crapeau	yq	Tɔri												a 
+27946172130	Crapeau	yq	Tɔri												a
 27946172131	Soldats	yq			Sɔrɔdasiw										gens
 27946172132	Palu	yq			Sumaya										santé
 27946172133	Bouton / Furoncle	yq			Sumunin										santé
@@ -451,17 +452,16 @@
 27946172161	Journaliste	yq			Zurunali sɛbɛrikɛla										gens
 28035546765	Ajuster / Aplanir / Niveler	yq			Dakɛɲɛ										verbe
 28035546766	Depuis 16 ans	yq			A saan 16 ye nin ye										verbe
+28299761196	Il est venu ici.		A nan na yan.												
 28364392934	Nous sommes dans la main de Dieu.	alasane	An be Ala bla la.												
 28365516628	Ongle	alasane	Bolo sɔɔni												alasane corp
+28366095760	Testicules	alasane	Belekili												alasane corp
 28366286693	Sourcis / Cil	alasane	Ɲa sii												alasane corp
 28366354150	Paupière	alasane	Ɲa fara												alasane corp
 28366446248	Pupille	alasane	Ɲakiseden												alasane corp
 28366622927	Heure	yq			Lɛri		Nɛgɛ ɲɛɛ ... ex: tan								calendrier
 28366846362	Gorge	alasane	Kaan file file												alasane corp
-28367029046	Mamelon	alasane	Suun												corp
 28367076607	Poitrine	alasane	Disi	m b i disi ka re											alasane corp
-28367283754	Casser	alasane	ci	vitre pneu	kare	bois poitrine disi									alasane
-28367609785	Poumons	alasane	Sɔɔn kuna kuna												alasane corp
 28367778141	Intestins	alasane	Kɔnɔ nogo												alasane corp
 28367944447	Nombril	alasane	Bara kun												alasane corp
 28367971257	Veine	source	Fasa juru												alasane corp
@@ -507,12 +507,13 @@
 -31737841068	En bas / par terre	bk	Dugu man												
 -31737845063	En haut	bk	San fɛ												
 -3222246334	De temps en temps	bk	Tuma dɔw / tuma dama dama												marked
+-32946315944	argent		wari												essentiel
 3317696881	C'est mieux.	bk	A ka fisa.												phrase
 -3421980794	À cause de cela...	bk	O lo kama...												marked phrase
 -34269420531	Endurer persévérer	bk	Sɔmina												leech verbe
 -3582239531	Ensuite (ajouter)	bk	Ka fara o kan												connecteur essentiel
 -3582266273	Promesse	yq	Layiri		Layidu		dajuru								leech marked
-3661703856	Endurance		Muɲuli												 wt
+3661703856	Endurance		Muɲuli												wt
 3670486778	Aigle	bk	Segɛn												animal
 3670506647	Hippopotame	bk	Meeri	CIV/BFA			Mali	MLI							animal
 3670546453	Chèvre de montagne	bk	Kongo baa												animal
@@ -728,7 +729,7 @@
 -53958647739	École	yq			Lakɔli										
 -53958647740	Roue	bk	Pine												essentiel
 -53958647741	Repas / Nourriture / Plat	yq	Domuni		Dumuni		Fana								essentiel
--53958647742	Cheveux	yq			Kunsigi										corp
+-53958647742	Cheveux	yq	Kunsigi												corp
 -53958647743	Amie	bk	Terimuso												essentiel
 -53958647744	Bolo	bk	Bras												essentiel
 -53958647745	Mère	bk	Bamuso												essentiel gens
@@ -922,9 +923,75 @@
 -8523273944	Ils ne sont pas ici	bk	O tɛ a?												phrase
 -8878884938	Ca fait deux jours	bk	A kɛla tere fila	CIV			I ni la fila	MLI							essentiel phrase
 -9126606725	Neuf / Nouveau	yq			Kura										phrase
-9184690720	Salutation champ	bk	I ni sɛnɛ 		i ni kongo										essentiel
+9184690720	Salutation champ	bk	I ni sɛnɛ		i ni kongo										essentiel
 9184723890	Salutation cuisine	bk	I ni gwa												salutations
 9184759070	Salutation marché	bk	I ni lɔgɔ												essentiel
 9184791617	Salutation lessive ou porter l'eau	bk	I ni kɔɔ												essentiel
 -9558056281	Revenir	yq	Sekɔ		Ka kɔsegin ka na										calendrier verbe vi
+	Affaire de	yq			Koo		Koɲɛ								essentiel
+	Aile	yq			Gama fura										corp
+	Animal domestique	yq			Begɛn										animal
+	Artisant	yq			Bololabaara										gens
+	Aspect / Apparence / Forme	yq			Sawura		Kɛcogo								i
+	Athlétisme	yq			Farijo										i
+	Bavarder	yq			Baro kɛ										vi
+	Besoin	yq			Makoya		Mako								i
+	Bobo-Dioulasso	yq			Bobo-Julaso										lieux
+	Cadeau	yq			Nilifɛn		Kado								i
+	Cailloux / Gravier	yq			Bɛrɛ										i
+	Centrafrique	yq			Santarafiriki										lieux
+	Compatissant	yq			Makaritigi										?
+	Condamnation	yq			Jalakili										i
+	Constructeur	yq			Boon lɔbaga										gens
+	Découvrir	yq			Ka lon										?
+	Demander à boire	yq			Ka minji deli										i
+	Désert	wt	Kongokolon												
+	Diabète	yq			Sukarobana										santé
+	Diphtérie	yq			Falakabana										santé
+	Discipline / Éducation	yq			Kololi										i
+	Disenterie	yq			Tɔgɔtɔgɔmi										santé
+	Egypte	yq			Misira										lieux
+	Faux / Mensonge	yq			Ngalon										i
+	Fils	yq			Dencɛ										gens
+	Folie	yq			Fatɔya		Hakilitanya		Faa						i
+	Fort, Puissant (adj)	yq			Fangaman										i
+	Fort	yq			Fangaba										i
+	France	yq			Faransi jamana										lieux
+	Gorge	yq	kaan		Gɔɔnɔ										corp
+	Gros / Vaste	yq			Bon (adj.)										essentiel
+	Guinée-Bissao	yq			Laginɛ Biso										lieux
+	Guinée Equatoriale	yq			Laginɛ Ekuwat.										lieux
+	Hebdomadaire	yq			Logokun o logokun										calendrier
+	Histoire (une)	yq	Maana		Tariki										marked
+	Interdit (c'est), totem	yq			Tana lo										i
+	Invisible	yq			Yebali										marked
+	Langue (parlée)	yq			Kaan										i
+	Le week-end	yq			Lɔgɔkun laban na										marked
+	Loin	yq			Yɔrɔ jan										i
+	Loi	yq			Sariya										i
+	Malheur / Peine / Souffrance	yq			Tɔɔrɔ										i
+	Museau	yq			Dakala										corp
 Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	note5	Jula6	Note6	Tags
+#Note ID	French	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	Note5	Jula6	Note6	tags
+	Nu	yq			Farilakolon										corp
+	Or	yq			Sanu										i
+	Panetier	yq			Buru dilanbaga										gens
+	Pause / Repos / Sièste	yq			Lafiyɛn										marked
+	Peau	yq			Fara										corp
+	Pensez-y	wt	Miiri k’a filɛ												
+	Poison	yq	baga		Pɔsɔni										marked
+	Pour	yq			Kɔsɔn										?
+	Principe	yq			Sariyakolo										marked
+	Python		Mininyanba		Mininyan suruni										animal
+	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri		Nɛnɛkili										santé
+	Rhumatisme	yq			Koloci										santé
+	Sac	yq	saki		Bɔrɔ		Sakɔsi		saki						i
+	Sans doute	wt	Siga t’a												
+	Sauterelle / Criquet	yq			Tɔɔn										animal
+	Short	yq			Kilɔti										i
+	Sucre	yq			Sukaro										nourriture
+	Totem	yq			Tana										i
+	Trahir	yq			Janfa										i
+	Traitre	yq			Janfanci		Janfaci								i
+	Trouble respiratoire	yq			Nɛnɛkiri bana										santé
+	Week-End	yq			Wikɛni										calendrier
