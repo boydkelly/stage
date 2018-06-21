@@ -11,7 +11,7 @@
 27783419712	Accroissement		Yiriwali						wt
 27783419567	Accueillir les visiteurs		Ka lonanw bisimila						wt
 1527665647659	Accusé faussement	yq	Jalaki gwansan						wt
-1529599765621	Acheter	jl 28	Fɛɛrɛ						
+1529599765621	Acheter	jl 28	Fɛɛrɛ	v					v wt
 1529599765427	Acte/comportement	jl 10	Kɛwale						
 1527665647547	Activité intense	yq	Baara gwanniman						wt
 1527665647548	Activité spéciale	yq	Baara kɛrɛnkɛrɛnnin						wt
@@ -41,14 +41,14 @@
 1529599765360	Anciens manuscrits de la Bible	jl 4	Bibulu bololasɛbɛni kɔrɔkɔrɔw						
 1527665648007	Année de service	yq	Waajulibaara saan						wt
 1529599765613	Années passées	jl 25	Saan tɛmɛninw						
-27783419468	À notre époque		Bi tilew la						wt
+27783419468	À notre époque / De nos jours	jl 28	Bi tilew la						wt
 -54217186332	Antenne de traduction	bk	Gafew bayɛlɛma yɔrɔ						wt
 1527665647725	Anticiper les objections	yq	Ka kɔn k'i yɛrɛ labɛn sɔsɔliw koo la						wt
 1527665647894	Apostat	yq	Murutilen						wt
 1527665647580	Apôtre	yq	Ciden						wt
 1528499809481	Apprécions les merveilles de la création de Dieu	wt	Ala ka danfɛn cɛɲumanbaw koo ka diya an ye	114					dp
 1527665647697	Apprendre des textes bibliques	yq	Ka bibulusenw degi k'u lɔn						wt
-27783419500	Approbation		Diyanye						wt
+1529599765501	Approbation	jl 15	Diyanye						
 1529599765425	Approcher de Jéhovah	jl 10	Magwɛrɛ Jehova la						
 27783419686	Approcher s' (temps)		Surunyalen						wt
 1527665647777	Après chaque exposé	yq	Kalan kelen-kelen banni kɔ						wt
@@ -64,7 +64,7 @@
 1529599765439	Assemblée	jl 11	Lajɛnba						
 1529599765449	Assemblée régionale	jl 11	Tile saba lajɛnbaw						
 1527665647982	Assemblée spéciale d'un jour	yq	Tile kelen lajɛnba						wt
-27783419528	Assistance / Foule		Jama						wt
+27783419528	Assistance / Foule	jl 19	Jama						wt
 1527665647821	Assistant ministériel expérimenté	yq	Kɔrɔsigi ciden setigi						wt
 -54217186339	Assistant ministériel	jl 16	Kɔrɔsigi ciden						wt
 1527665647719	Assumer les responsabilités chrétiennes	yq	Ka kerecɛnya kunkanbaaraw dafa						wt
@@ -77,7 +77,7 @@
 1529599765354	Authentique	jl 4	Tigitigi						
 27783419697	Autre nécessité		Waajibiko wɛrɛ						wt
 1527665647941	Autres brebis	yq	Saga wɛrɛw						wt
-1529599765565	Autres moyens	jl 20	Fɛɛrɛ wɛrɛw						
+1529599765565	Autres moyens	jl 20	Fɛɛrɛ wɛrɛw						wt
 1529599765330	Avant	jl 1	Ka kɔrɔ						
 1527665647726	Avant notre ère	yq	Ka kɔn Krista tile ɲɛ						wt
 1529244629188	Avec franchise	yq	Ni kɔnɔgwɛ ye						wt
@@ -95,7 +95,7 @@
 1527665647885	Beaucoup écoutent plus attentivement	yq	mɔgɔw b'u tulo malo						wt
 1529599765376	Bénéfice	jl 6	Nafa						
 1529599765385	Bénéfique	jl 7	Nafaman						
-1529599765437	Bénir	jl 10	Duga						
+1529599765437	Bénir	jl 10	Duga	vi					v wt
 27783419506	Bénis		Dugaden		Dubaden				wt
 1529599765505	Berger	jl 15	Sagadɛndɛla						
 1527665647771	Besoin de la congrégation	yq	Kafo ka mako						wt
@@ -104,7 +104,7 @@
 -40927278615	Bible	bk	Bibulu						wt
 1529599765619	Bibliothèque	jl 27	Bibilotɛki						
 1529599765443	Bienfait de l'amité	jl 11	Teriya diya						
-27783419505	Bienfait		Duga		Sara		Nafa		wt
+27783419505	Bienfait		Duga	n	Sara		Nafa		n wt
 1527665647897	Bienfait durable	yq	Nafa bɛrɛbɛrɛ						wt
 1527665647575	Biens matériels	jl 24	Bolofɛnw						wt
 27783419618	Blâme		Lagosili						wt
@@ -124,15 +124,14 @@
 1527665647788	Bonté de cœur	yq	Kanuya kantigiman						wt
 1527665647924	Bonté mal placée	yq	Ɲumaya min man kan		Ɲumaya min a dagalen tɛ				wt
 1527665647923	Bonté	Yannick	Ɲumaya						wt
-27783419531	Brûler / Consumer		Jeni		Jɛni				wt
-1527665647673	Brûler / consumer	Yannick	Jeni				Jɛni		wt
-1527665647988	Bureau de la filiale	yq	Tɔnbolo biro						wt
+27783419531	Brûler / Consumer	yq	Jeni		Jɛni				wt
+1527665647988	Bureau de la filiale	jl 22	Tɔnbolo biro						wt
 1529599765573	Bureau	jl 21	Biro						
 1527665647740	Calomnier Jéhovah		Ka nafigiya kɛ Jehova la						wt
 1529599765469	Camarades de classe	jl 12	Lakɔli filankuruw						
 1527665647787	Campagne spéciale	yq	Kanpaɲi kɛrɛnkɛrɛn						wt
 1527665647899	Ça ne m'intéresse pas	yq	Ne mako t'a la						wt
-1529599765433	Cantique / Mélodie	jl 10	Dɔnkili						
+1529599765433	Cantique / Mélodie / Chanson / Chant	jl 10	Dɔnkili						
 1527665647507	Ça ressemble à quoi ?	yq	A bɔnin be mun le ma ?						wt
 1527665647506	Ça ressemble à …	yq	A bɔnin be …ma						wt
 1529599765533	Catastrophes	jl 18	Balawo						
@@ -163,7 +162,6 @@
 1529599765539	Chambre	jl 18	Layɔrɔ						
 1527665647748	Changer de mode de vie	yq	Ka ɲɛnamaya kɛcogo yɛlɛma						wt
 27783419707	Changer / Traduire		Yɛlɛma						wt
-27783419504	Chanson, Chant, Musique		Dɔnkili						wt
 1529599765383	Chant	jl 7	Donkili						
 -53018127491	Chapitre	jl 9	Kalansen		Tilan		Tilanyɔrɔ		wt
 1529599765441	Chaque année	jl 11	Saan o saan						
@@ -172,8 +170,6 @@
 -15522069116	Char de jehovah	bk	Jehova ka wotoro						wt
 27783419507	Chemise, Vêtement, Tunique		Duloki		Dereke		Fani		wt
 27783419578	Chérir la vie		Ka ɲɛnamaya jati fɛnba ye						wt
-3670467518	Cheval	bk	Soo						delete
-1529599765535	Chèvre de montagne	jl 18	Kɔngɔba						delete
 1527665647861	Chez les personnes intéressées	yq	Makodon mɔgɔw fɛ						wt
 1529599765507	Chez nous	jl 15	An ka soo						
 1529599765401	Choix	jl 8	Sugandili						
@@ -197,7 +193,7 @@
 1527665648012	Comité de service	yq	Waajuliko ɲɛnabɔbagaw jɛnkulu						wt
 1529599765541	Comité	jl 18	Kɔmite						
 -53017833927	Commandement	jl 16	Cii						wt
-1529599765563	Commandements	jl 20	Cikanw						
+1529599765563	Commandements / Instructions	jl 20	Cikanw						wt
 1527665647722	Commander (passer commande)	yq	Ka komandi kɛ						wt
 1527665647717	Commencer une étude  dès le premier contact	yq	Ka kalan daminɛ ɲɔgɔnye fɔlɔ la						wt
 1529599765419	Commentaire	jl 9	Lakalita						
@@ -215,7 +211,6 @@
 1527665647836	Communication spéciale	yq	Kunnafoni kɛrɛnkɛrɛn						wt
 1527665647643	Compagnie spirituelle stimulante	yq	Hakilimaya jɛnnyogonya duman						wt
 1527665647851	Compagnon de chambre	yq	Lamɔgɔ						wt
-27783419431	Compagnon de travail de Dieu		Ala ka baarakɛnyogon						delete
 1527665647519	Compagnon de travail de dieu	yq	Ala ka baarakɛnyogon						wt
 1527665647795	Compagnons chrétiens	yq	Kerecɛnɲɔgɔnw						wt
 1527665647993	Compagnon	yq	Tunɲɔgɔn						wt
@@ -231,8 +226,7 @@
 -53018792198	Congrégation	jl 6	Kafo						wt
 27783419448	Conjuguons nos efforts		An ka jɛn k'an jija ka …						wt
 1529599765315	Connaissance	jl	Lɔniya						
-27783419552	Connaître Jéhovah et le servir		Ka Jehova lon ani ka baara kɛ a ye						wt
-1527665647711	Connaître jéhovah et le servir	yq	Ka jehova lon ani ka baara kɛ a ye						wt
+27783419552	Connaître Jéhovah et le servir	yq	Ka Jehova lon ani ka baara kɛ a ye						wt
 1529599765389	Conseil	jl 7	Ladili						
 27783419617	Conseiller adjoint (EMT)		Ladili dibaga filanan		Ladili dibaga kankɔrɔsigi				wt
 1529599765615	Construction	jl 25	Lɔli						
@@ -261,7 +255,6 @@
 1529599765326	Croyances	jl 1	Lannakow						
 27783419602	Croyance	yq	Lannako						wt
 27783419443	Croyant		Alalɔnbaga						wt
-1529599765574	Cuisine	jl 21	Gwabugu						delete
 -18949479733	Culte	bk	Batoli						wt
 1529599765421	Culte familiale	jl 10	Gwa kɔnɔ batoli						
 1529599765323	Culte pur de Jéhovah	jl	Jehova ka batoli saniman						
@@ -273,7 +266,6 @@
 1529599765612	Dans le territoire	jl 25	Kiin kɔnɔ						
 1527665647612	Dans un monde méchant et corrompu	yq	Duniɲa juguman tolinen kɔnɔ						wt
 27783419487	De façon méthodique (ordonnée) / Logique		Cogo tilennen na						wt
-1527665647589	De façon méthodique (ordonnée)	yq	Cogo tilennen na						wt
 27783419587	Défendre la vérité		Ka tinyɛnko lafasa						wt
 1528499809558	Delivrés de la detresse	wt	Kisili, duniɲa ka tɔɔrɔba wagati la	193					dp
 1528499809528	Délivrés d’un monde de ténèbres	wt	An kunmabɔra duniɲa dibiman bolo	162					dp
@@ -285,10 +277,8 @@
 -5583657714	Démon	bk	Jina						wt
 1529599765392	Démonstration	jl 7	Nɛyiraliw						
 1529599765608	Démuni	jl 24	Dɛsɛbagatɔ						
-1529599765624	De nos jours	jl 28	Bi tilew la						
 1527665647832	De nouveaux sommets ont été atteints	yq	Kunkɔrɔta kura caaman sɔrɔla						wt
 1529599765602	Dépenses	jl 24	Musakaw						
-27783419678	Dépliant		Sɛbɛnin						wt
 1527665647979	Des amis peu recommandables	yq	Teri jugu sifaw						wt
 1529599765479	Désespoir	jl 13	Jigi tigɛ						
 1527665647621	Désirs charnels	yq	Farisogo negew						wt
@@ -311,9 +301,9 @@
 1529244629192	Diriger son regard vers	yq	Ɲɛsin fɛn ma						wt
 27783419596	Disciple		Kalanden						wt
 1527665647628	Discours de mariage	yq	Furukalan						wt
+27783419593	Discours / Enseignement	jl 3	Kalan						wt
 1527665647780	Discours et discussions	yq	Kalan ni baro						wt
 1529599765447	Discours intéressants	jl 11	Kalan diimanw						
-27783419593	Discours		Kalan						wt
 27783419516	Discours public / Réunion publique	jl 7	Forobakalan						wt
 1527665647626	Discours spécial	yq	Forobakalan kɛrɛnkɛrɛn						wt
 27783419713	District du Jourdain		Zurudɛn mara						wt
@@ -340,7 +330,7 @@
 27783419519	Écritures grecques chrétiennes		Gɛrɛkikan Sɛbɛninw						wt
 27783419524	Écritures hébraïques		Heburukan Sɛbɛninw						wt
 1527665647661	Efficace	yq	min be sanga sɔrɔ		Bɛrɛbɛrɛ				wt
-1529599765623	Effort	jl 28	Jijali						
+1529599765623	Effort / Encouragement	jl 28 jl 10	Jijali						wt
 27783419444	Elle l'adopta comme son fils		Ale y'a kɛ a yɛrɛ dencɛ ye						wt
 27783419426	Elle m'est allée droit au cœur.		A sinna ka ne dusu minɛ.						wt
 27783419669	Elles ne sont pas autorisées à l'assemblée		O ma daga lajɛnba yɔrɔ la						wt
@@ -350,9 +340,8 @@
 27783419691	En avoir conscience ou non		U b'a kala ma wo, u t'a kala ma wo						wt
 25806141398	Encadré	bk	Koorilen						wt
 1527665647824	En cas d'urgence	yq	Kɔrɔtɔkow kosɔn						wt
-1529599765438	Encouragement	jl 10	Jijali						
 27783419634	Enduire		Mɔ						wt
-1527665647893	Endurance	Yannick	Muɲuli						wt
+1527665647893	Endurance	yq	Muɲuli						wt
 3661744119	Endurer	Boyd	Muɲu						wt
 1529599765430	Enfants	jl 10	Deenw						
 -53020300790	Enfer	bk	Jahanama						wt
@@ -364,7 +353,6 @@
 1529599765342	Enseignant	jl 3	Karamɔgɔ						
 1529599765370	Enseignant qualifié	jl 5	Karamɔgɔ setigi						
 1527665647572	Enseignement biblique fondamental	yq	Bibulu kalansira jonjon						wt
-1529599765346	Enseignement	jl 3	Kalan						
 1529599765314	Enseignement véridique	jl	Kalan tigitigi						
 1527665647716	Enseigner avec simplicité	yq	Ka kalan cogo nɔgɔman na						wt
 1527665647738	Enseigner sans oublier que le temps presse	yq	Ka mɔgɔ kalan ni kɔrɔtɔ miiriya ye						wt
@@ -390,7 +378,6 @@
 27783419520	Esprit fixé sur le Royaume		Hakili be sigi Masaya koow kan						wt
 -53018156709	Esprit saint	jl 19	Hakili senu						wt
 1528499809546	Est-il plus tard que vous ne le pensez ?	wt	Kɔni duniɲa laban wagati tɛna bari aw la dɛ?	181					dp
-1527665647985	Estrade	yq	Tintin						wt
 1529599765542	Établir	jl 18	Ka sigi sen kan						
 -55856535130	Éternellement	bk	Kudayi						wt
 27783419706	Êtes-vous prêts à faire votre choix ?		Yala i labɛnnen be k'o latigɛ wa ?						wt
@@ -487,15 +474,14 @@
 1529599765358	Grecque	jl 4	Grɛkikan						
 1529599765493	Groupe	jl 14	Jɛnkulu						
 1527665648010	Groupes de prédication	yq	Waajuliko jɛnkuluw						wt
-1529599765569	Guide	jl 20	Ɲɛminɛ						
--7054111008	Guider	bk	Ɲɛminɛ						wt
+1529599765569	Guide	jl 20	Ɲɛminɛ	n					wt n
+-7054111008	Guider	bk	Ɲɛminɛ	v					wt v
 1529599765362	Habitude	jl 4	Delinanko						
 1529599765356	Hébreux	jl 4	Heburukan						
 1529599765622	Histoires bibliques	jl 28	Bibulu ka maana						
 -3743945078	Homme orgeuilleux		Kuncɛba						bambara marked unbouake wt
 27783419480	Homosexualité		Cɛɲɔgɔnɲini ni musoɲɔgɔnɲini koo						wt
 1529599765329	Honnête	jl 1	Hɔɔrɔnw						
-27783419508	Humanité, Monde		Duniɲa		Diɲɛ				wt
 27783419613	Idée annexe		Kunnafoni do						wt
 27783419633	Idées indéniables		Miiriyaw, mɔgɔ te se k'u soso						wt
 1529599765345	Idées non chrétiennes	jl 3	Kafiriyakow						
@@ -516,10 +502,9 @@
 27783419419	Il parle exclusivement de		A kɔnɔnakow bɛɛ be kuma						wt
 27783419692	Ils pensent qu'ils ne sont pas qualifiés pour		U b'a miiri ko see t'u ye ka						wt
 1527665647514	Il y a plus de 2000 ans	yq	A saan 2000 ni kɔ ye nin ye						wt
-1529599765359	Image	jl 4	Jaa						
 27783419471	Image (sens figuré)/Représentation		Bisigi						wt
-1529599765532	Imiter	jl 17	Ladegi						
-3755525512	Imiter / Refléter		Ladegi		Ladegi		Ladege		marked verbe wt
+1529599765359	Image / Support visuel	jl 4	Jaa		Foto				wt
+3755525512	Imiter / Refléter	jl 17	Ladegi		Ladegi		Ladege		marked verbe wt
 1527665647776	Immoralité	yq	Kakalaya						wt
 1529599765500	Immuable	jl 15	Diyagoya						
 1527665647592	Imperfection	yq	Dafabaliya						wt
@@ -529,16 +514,13 @@
 1527665647634	Inefficacité des gouvernements	yq	Gofɛrɛnɛman dɛsɛbagato						wt
 1529599765338	Innocent	jl 2	Jalakibali						
 27783419490	Inspirée de Dieu	yq	Dafiɲɛ fɛ (Ala...)						wt
--16124121736	Instructions		Cikanw						wt
 1527665647532	Instruction spirituelle	yq	Alakow kalan						wt
 1527665647967	Intendant	yq	Sokunnasigibaga						wt
 4896872164	Interlocuteur	bk	Lamɛnbaga		Lamɛnnikɛla				wt
 1529599765579	Internet	jl 21	Ɛntɛrɛnɛti						
-27783419481	Intertitre / Sous-titre		Cɛtigɛ						wt
-1529599765393	Interview	jl 7	Fɛtaw						
+1529599765393	Interview	jl 7	Fɛtaw						wt
 403520813	Introduction	bk	Dadon kumaw						wt
-27783419609	Intronisation du Christ		Krista sigini masa sigilan kan						wt
-1527665647826	Intronisation du christ	yq	Krista sigini masa sigilan kan						wt
+27783419609	Intronisation du Christ	yq	Krista sigini masa sigilan kan						wt
 -7052097941	Israëlites	bk	Israɛldenw						wt
 1529244629190	Ivrognerie	yq	Dɔrɔtɔya				Dɔlɔtɔya		wt
 1527665647898	J'ai ma propre religion	yq	Ne be diinan dɔ la ka ban						wt
@@ -552,8 +534,7 @@
 1528499809468	Jéhovah : le Grand Créateur	wt	Jehova: danbagaba	101					dp
 1527665647668	Jéhovah mérite d'être loué	yq	Jehova ka kan ni tandoli ye						wt
 1527665647666	Jéhovah sera avec nous	yq	Jehova bena kɛ an fɛ						wt
-27783419651	Je ne m'intéresse pas aux Témoins de Jéhovah		Ne mako tɛ Jehova Seerew la						wt
-1527665647900	Je ne m'intéresse pas aux témoins de jéhovah	yq	Ne mako tɛ jehova seerew la						wt
+27783419651	Je ne m'intéresse pas aux Témoins de Jéhovah	yq	Ne mako tɛ Jehova Seerew la						wt
 1528499809506	Jesus Christ : le nouveau Chef de la terre	wt	Yezu krista ye jɔn lo ye tigitigi?	140					dp
 1529599765510	Jeune	jl 16	Kanbele						
 -11287133660	Joie	jl 11	Nagali						wt
@@ -568,12 +549,10 @@
 1528499809496	La Bible enseigne-t-elle la Trinite ?	wt	Yala bibulu be kalan kɛ ko ala ye tigiya saba ye wa?	129					dp
 1528499809540	La Bible : un livre digne de foi	wt	Mun lo b’a yira ko bibulu ye kitabu lakika ye?	175					dp
 1528499809520	La domination humaine : l'heure du bilan	wt	Hadamadenw ka kuntigiya kɛcogo: a jateminɛ	154					dp
-1529599765584	La filiale	jl 22	Tɔnbolo biro						
 1527665647902	La fin de la fausse religion est proche	yq	Ngalon diinan laban ka surun						wt
 1529599765431	L'age	jl 10	Sanda						
 1528499809478	La guérison des nations et ses effets	wt	Siyaw ka kɛnɛyali ani a nɔfɛ koow	111					dp
-27783419536	Laisser la Parole de Dieu les pousser à l'action		K'a to Ala ka Kuma ka u lasun						wt
-1527665647682	Laisser la parole de dieu les pousser à l'action	yq	K'a to ala ka kuma ka u lasun						wt
+27783419536	Laisser la Parole de Dieu les pousser à l'action	yq	K'a to Ala ka Kuma ka u lasun						wt
 1528499809467	L'amitié véritable avec Dieu et avec le prochain	wt	Teriya sɔbɛ an ni ala cɛ, ani an ni an mɔgɔɲɔgɔn cɛ	100					dp
 1528499809549	La mort est-elle la fin de tout ?	wt	Yala saya ye koo bɛɛ banni lo ye wa?	184					dp
 1529599765324	L'amour	jl	Kanuya						
@@ -610,8 +589,7 @@
 27783419694	Les attaquer par surprise		U taga cun u kan						wt
 1528499809500	Les chretiens doivent-ils observer le sabbat ?	wt	Yala kerecɛnw ka kan ka lafiɲɛlon labato wa?	134					dp
 1528499809486	Les chrétiens se tiennent séparés du monde : Pourquoi est-ce bénéfique ?	wt	Kerecɛnw b’u yɛrɛw faran ka bɔ duniɲa ka koow la: mun nafa b’a la?	119					dp
-27783419690	Le seul vrai Dieu		Tiɲɛn Ala kelenpe						wt
-1527665647987	Le seul vrai dieu	yq	Tiɲɛn ala kelenpe						wt
+27783419690	Le seul vrai Dieu	yq	Tiɲɛn Ala kelenpe						wt
 1528499809503	Les miracles de la Bible ont-ils vraiment eu lieu ?	wt	Bibulu be kabako minw kofɔ, yala u kɛra tiɲɛn na wa?	137					dp
 1529599765530	Les nouveaux	jl 17	Mɔgɔ kuraw						
 1528499809523	Les vrais chrétiens parent 'enseignement divin	wt	Kerecɛn lakikaw be ala ka kalan cɛɲumanya yira cogo min na	157					dp
@@ -664,13 +642,13 @@
 27783419606	Mer Rouge		Kɔgɔji Wulen						wt
 1527665647523	Merveilleuses promesses divines	yq	Ala ka layidu cɛnyumanbaw koo						wt
 27783419484	Message capital		Cira kɔrɔtalen						wt
-27783419483	Message		Cira						wt
 1529599765473	Message d'espoir	jl 12	Jigiya kuma						
 1527665647586	Message impopulaire	yq	Cira min tun man di mɔgɔw ye						wt
+27783419483	Message / Prophète		Cira						wt
 27783419486	Messager		Ciraden						wt
 4894740815	Messie	bk	Masiya						wt
 27783419687	Métaphore		Tagamasinyɛ						wt
-27783419513	Méthode / moyen		Fɛɛrɛ						wt
+27783419513	Méthode / moyen		Fɛɛrɛ	n					wt
 27783419710	Méthode souple		Yiracogo magaman		Yiracogo nogoman				wt
 27783419585	Mettre en évidence		Ka sinsin… kan		Yira ka gwɛ				wt
 27783419583	Mettre en valeur		Ka sin k'a yira						wt
@@ -684,9 +662,8 @@
 1529599765552	Moment opportun	jl 19	Wagati latigɛlen na						
 1529599765436	Moment propice	jl 10	Wagati kɛrɛnkɛrɛnnin						
 1529599765448	Moments difficiles	jl 11	Wagati gwɛlɛw						
-1529599765554	Monde (beaucoup de personnes)	jl 19	Jama						
 1527665647529	Monde impie	yq	Ala ɲɛsiranbali duniɲa						wt
-1529599765444	Monde	jl 11	Duniɲa						
+1529599765444	Monde	jl 11	Duniɲa		Diɲɛ				wt
 1529599765322	Monde nouveau	jl	Dugukolo kuru						
 27783419476	Montants des portes		Bonda yiri						wt
 27783419590	Montrer sa reconnaissance		Ka walenyumanlon yira						wt
@@ -702,8 +679,7 @@
 1527665647516	Ne pas indisposer les gens inutilement	yq	A tɛ mɔgɔ kɔnɔ gwan gwansan						wt
 1527665647652	Ne pas s'écarter des lois	yq	I kana mabɔ sariyaw la						wt
 1527665647544	Ne pas se focaliser sur nous-mêmes	yq	An man kan ka hakili sigi an ka jɔrɔ an yɛrɛ koo la						wt
-27783419569	Nettoyer et entretenir la Salle du Royaume		Ka Masaya Boon saniya ani k'a ladon						wt
-1527665647736	Nettoyer et entretenir la salle du royaume	yq	Ka masaya boon saniya ani k'a ladon						wt
+27783419569	Nettoyer et entretenir la Salle du Royaume	yq	Ka Masaya Boon saniya ani k'a ladon						wt
 1527665647515	Neutralité	yq	A te sen don politiki ko la						wt
 27783419457	Ne vous en remettez pas au hasard		Aw kana miiri ko koow bena kɛ u yɛrɛ ye						wt
 1529599765614	Nombre de congrégations	jl 25	Kafow hakɛ						
@@ -774,7 +750,7 @@
 27783419437	Pécheurs impies		Ala ɲɛsiranbali jurumutɔw						wt
 27783419479	Pédophilie		Cɛnimusoya kɛ ni denfitiniw ye						wt
 27783419628	Pendant un jour entier		Loon kelen kuru bɛɛ						wt
-27783419522	Pensée essentielle		Hakilinata jonjon						wt
+27783419522	Pensée essentielle / Point principal	yq	Hakilinata jonjon		hakilinata kunbaba				wt
 1529599765408	Pensée	jl 9	Hakili						
 1529599765414	Pensées clés	jl 9	Hakilinata						
 1529599765361	Pensées de Dieu	jl 4	Ala ka miiriyaw						
@@ -801,9 +777,7 @@
 1527665647598	Pionnier spécial	jl 13	Dan na piyɔniye						wt
 27783419534	Pire ennemi		Juguba						wt
 1528499809553	Placez-vous votre confiance en Jéhovah ?	wt	Yala aw jigi lanin be jehova lo kan wa?	188					dp
-1529599765501	Plaisir	jl 15	Diyanye						
 27783419540	Plein d'égards		K'i janto mɔgɔ la						wt
-1527665647645	Point principal	yq	Hakilinata jonjon		hakilinata kunbaba				wt
 1529599765413	Points clés	jl 9	Yɔrɔ jɔnjɔnw						
 1527665647553	Points faibles du pays	yq	Barika tɛ jamana yɔrɔ minw na						wt
 1527665647555	Points faibles	yq	Barikantanyakow						wt
@@ -877,7 +851,6 @@
 27783419625	Progresser (faire)		Lataga ɲɛ						wt
 1529599765557	Progresser	jl 19	Yiriwa						
 1529599765445	Progresser spirituellement	jl 11	Ka taga ɲɛ Alako ta fan fɛ						
--11284825780	Prophète	bk	Cira						wt
 1527665647549	Prophète de malheur	yq	Balawo kibaro weleweledala						wt
 1527665647587	Prophétie	jl 7	Kiraya kuma		Cirakuma				wt
 1527665647635	Propos confidentiels	yq	Gundo kumaw						wt
@@ -917,8 +890,7 @@
 1527665647875	Qui mérite toute notre attention	yq	Min ka kan ka ta sɔbɛ la						wt
 1528499809493	Qui sera sauvé ?	wt	Jɔn lo be se ka kisi?	126					dp
 1529599765409	Radio	jl 9	Arajo						
-27783419550	Raisonner habilement à partir des Écritures		Ka hakilijagabɔ koɲuman Bibulusenw kan						wt
-1527665647707	Raisonner habilement à partir des écritures	yq	Ka hakilijagabɔ koɲuman bibulusenw kan						wt
+27783419550	Raisonner habilement à partir des Écritures	yq	Ka hakilijagabɔ koɲuman Bibulusenw kan						wt
 1528499809491	Raisons de croire que Dieu est l'Auteur de la Bible	wt	Dalilu minw b’a yira ko ala lo ye bibulu tigi ye	124					dp
 -53018679285	Rançon	bk	Kunmabɔsara						wt
 1527665647518	Rappelez aux proclamateurs	yq	A' ye weleweledalaw hakili jigi						wt
@@ -990,9 +962,9 @@
 -53018428141	Sabbat	bk	Lafiɲɛlon						wt
 1529599765484	Sacrifice de soi	jl 14	Yɛrɛ saraka						
 19411554786	Sacrifice rédempteur	bk	Kunmabɔ  saraka						wt
-1527665647947	Sacrifice	yq	Saraka						wt
+1527665647947	Sacrifice	yq	Saraka	n					wt n
 1527665647948	Sacrifier (à faux dieu)	yq	Saraka bɔ		kɛ				wt
--55856535110	Sacrifier	bk	Saraka						wt
+-55856535110	Sacrifier	bk	Saraka	v					wt v
 1527665648027	Sacrifier (se)	yq	Yɛrɛ saraka (réfléchi)						wt
 1527665647730	S'agenouiller	yq	Ka kunbiri gwan duguma						wt
 1527665647675	Saine compagnie	yq	Jɛnnyogonya nyuman						wt
@@ -1066,7 +1038,7 @@
 1527665647758	Soulever une objection	yq	Ka sɔsɔli lawuli						wt
 1527665647684	Souligner (accentuer)	yq	K'a yira ka gwɛ						wt
 1527665647657	Source d'encouragement	yq	Jagwɛlɛya sababu						wt
-1529599765415	Sous-titre	jl 9	Cɛtigɛ						
+1529599765415	Sous-titre / Intertitre	jl 9	Cɛtigɛ						wt
 1527665647614	Souverain de l'univers / Souverain seigneur	yq	Duniɲa kuru bɛɛ masaba						wt
 3221065537	Souveraineté de dieu	bk	Ala ka masabaya						wt
 1527665647839	Souveraineté	yq	Kuntigiya		Sebagaya		Masabaya		wt
@@ -1080,11 +1052,9 @@
 1527665647696	Succomber aux tentations	yq	Ka ben Kɔrɔboliw na						wt
 1529599765482	Suivre les traces de Jésus	jl 14	Ka tagama Yezu seen nɔɔ na						
 1527665647973	Sujet controversé	yq	Sɔsɔli kuma						wt
-1529599765348	Sujet de conversation	jl 3	Barokun						
 1527665647883	Sujet de préoccupation	yq	mɔgɔ be hami koo min koson						wt
-27783419644	Supporter/endurer		Muɲuli						wt
-1527665647655	Support visuel	yq	Jaa		Foto				wt
-27783419689	Surélévation/Estrade		Tintin						wt
+27783419644	Supporter / endurer	bk	Muɲuli	v					v wt
+27783419689	Surélévation / Estrade		Tintin						wt
 1527665647609	Sur la terre entière	yq	Dugukolo kuru bɛɛ kan		Dugukolo faan bɛɛ la				wt
 27783419682	Sur les trottoirs		Siradaw la						wt
 1529599765380	Surmonter	jl 6	Ka see sɔrɔ						
@@ -1120,17 +1090,15 @@
 1527665647735	Tenir ferme contre le diable et les démons	yq	Ka lo ka nyɛ ka sitanɛ ni jinaw kunbɛn						wt
 1529599765520	Tenir promesse	jl 16	Saratiw dafa						
 1527665647818	Tentation	yq	Kɔrɔboli						wt
-27783419512	Tenue	jl 8	Sawura		Fani				wt
 1527665647704	Tenue raisonnable	yq	Ka fani kɛɲɛnen don						wt
-27783419676	Tenue vestimentaire		Sawura						wt
+27783419512	Tenue vestimentaire	jl 8	Sawura		Fani				wt
 1527665647857	Terre promise	yq	Layidu jamana						wt
 1527665648017	Territoire (prédication)	yq	Wajulikɛ yɔrɔ						wt
 1527665647804	Territoire / quartier	yq	Kiin		Jamana				alasane wt
 1527665647805	Territoire souvent parcouru	yq	Kiin boli-boli siɲɛ caaman						wt
 1527665647938	Texte de l'année	yq	Saan ka kalankun		Saan ka bibulusen				wt
 1527665647984	Texte du jour	yq	Tilera kalan		Lon o lon ka miiriya				wt
-27783419463	Thème / Article / Titre		Barokun		Kalankun				wt
-1527665647557	Thème	yq	Barokun				Kalankun		wt
+27783419463	Thème / Sujet de conversation	jl 3	Barokun		Kalankun				wt
 1527665647525	Théocratie	yq	Ala ka mara cogo						wt
 1527665647718	Tirer leçon	yq	Ka kalan sɔrɔ						wt
 1527665647739	Tirer profit	yq	Ka nafa sɔrɔ						wt
@@ -1145,8 +1113,7 @@
 1529599765596	Toutes les langues	jl 23	Kanw bɛɛ						
 1529599765455	Toutes les nations	jl 12	Siyaw bɛɛ						
 1529599765597	Toutes sortes d'hommes	jl 23	Mɔgɔ sifaw bɛɛ						
-1527665647960	Tract/dépliant	yq	Sɛbɛnin						wt
-27783419679	Tract		Sɛbɛnin						wt
+1527665647960	Tract / dépliant	yq	Sɛbɛnin						wt
 1529599765580	Traducteur	jl 21	Bayɛlɛmabaga						
 27783419465	Traduction		Bayɛlɛmani						wt
 1529599765353	Traduction de la bible	jl 4	Bibulu bayɛlɛmani						
@@ -1195,8 +1162,7 @@
 1528499809504	Vivons avec bon sens au sein d'un monde depravé	wt	An ka ɲɛnamaya kɛ ni hakilisigi ye kakalaya duniya kɔnɔ	138					dp
 1527665647747	Vivre dans l'attachement à dieu	yq	Ka ɲɛnamaya kɛ k'an masirilen to ala la						wt
 1529599765467	Voisins	jl 12	Sigiɲɔgɔnw						
-27783419439	Volonté de Dieu	jl Intro	Ala sago						wt
-1527665647530	Volonté divine	yq	Ala sago						wt
+27783419439	Volonté de Dieu / divine	jl Intro	Ala sago						wt
 27783419665	Volonté		Ŋaniya						wt
 27783419499	Volonté / Plaisir		Diyanako						wt
 27783419705	Vous êtes-vous jamais demandé		Yala i delila k'i yɛrɛ ɲiniga ni…						wt
