@@ -467,7 +467,6 @@
 27809169043	Humilité / Modestie	yq			Majigilenya										
 27946172116	Hygiène / Propreté	yq			Saniya										santé
 -25714846273	Ici	yq			Yan										
-Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	note5	Jula6	Note6	Tags
 #Note ID	French	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	Note5	Jula6	Note6	tags
 -53015409422	Igname bouillie	bk	Ku beleke												nourriture
 -1161905542	Igname braisé	bk	Ku jeni												nourriture
@@ -894,7 +893,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27768736676	Singe	yq			Sula										animal marked
 22159392751	Sinon	yq	N'o tɛ		Ni o tɛ										connecteur
 24580780075	Si	yq	Mana		Ni										bambara connecteur unbouake
--54218752730	Soeur	bk	Baliman muso												essentiel
+-54218752730	Soeur	bk	Baliman muso		Balimamuso										essentiel
 27946172098	Soif	yq			Minɔgɔ										
 27946172005	Soigner	yq			Fura	verbe									santé
 -53807309109	Soir	yq			Wula										

@@ -172,8 +172,8 @@
 -15522069116	Char de jehovah	bk	Jehova ka wotoro						wt
 27783419507	Chemise, Vêtement, Tunique		Duloki		Dereke		Fani		wt
 27783419578	Chérir la vie		Ka ɲɛnamaya jati fɛnba ye						wt
-3670467518	Cheval	bk	Soo						wt
-1529599765535	Chèvre de montagne	jl 18	Kɔngɔba						
+3670467518	Cheval	bk	Soo						delete
+1529599765535	Chèvre de montagne	jl 18	Kɔngɔba						delete
 1527665647861	Chez les personnes intéressées	yq	Makodon mɔgɔw fɛ						wt
 1529599765507	Chez nous	jl 15	An ka soo						
 1529599765401	Choix	jl 8	Sugandili						
@@ -192,7 +192,7 @@
 1527665647816	Collège central	jl 20	Koow ɲɛnabɔla jɛnkulu						wt
 1527665647604	Collège d'anciens	yq	Diinan mɔgɔkorow jɛnkulu						wt
 1529599765468	Collègue de travail	jl 12	Baarakɛɲɔgɔn						
-1527665647644	Combien d'idées aborder ?	yq			Hakilinata hakɛ juman ta ?				wt
+1527665647644	Combien d'idées aborder ?	yq	Hakilinata hakɛ juman ta ?						wt
 -16124033849	Comité de filiale	jl 22	Tɔnbolo ka kɔmité						wt
 1527665648012	Comité de service	yq	Waajuliko ɲɛnabɔbagaw jɛnkulu						wt
 1529599765541	Comité	jl 18	Kɔmite						
@@ -215,7 +215,7 @@
 1527665647836	Communication spéciale	yq	Kunnafoni kɛrɛnkɛrɛn						wt
 1527665647643	Compagnie spirituelle stimulante	yq	Hakilimaya jɛnnyogonya duman						wt
 1527665647851	Compagnon de chambre	yq	Lamɔgɔ						wt
-27783419431	Compagnon de travail de Dieu		Ala ka baarakɛnyogon						wt
+27783419431	Compagnon de travail de Dieu		Ala ka baarakɛnyogon						delete
 1527665647519	Compagnon de travail de dieu	yq	Ala ka baarakɛnyogon						wt
 1527665647795	Compagnons chrétiens	yq	Kerecɛnɲɔgɔnw						wt
 1527665647993	Compagnon	yq	Tunɲɔgɔn						wt
@@ -261,7 +261,7 @@
 1529599765326	Croyances	jl 1	Lannakow						
 27783419602	Croyance	yq	Lannako						wt
 27783419443	Croyant		Alalɔnbaga						wt
-1529599765574	Cuisine	jl 21	Gwabugu						
+1529599765574	Cuisine	jl 21	Gwabugu						delete
 -18949479733	Culte	bk	Batoli						wt
 1529599765421	Culte familiale	jl 10	Gwa kɔnɔ batoli						
 1529599765323	Culte pur de Jéhovah	jl	Jehova ka batoli saniman						
@@ -320,7 +320,7 @@
 1527665647962	Divers aspects	yq	Sifa faanw ka ca						wt
 1529599765381	Divertissements	jl 6	Ɲɛnagwɛ						
 1527665647585	Dix commandements	yq	Cikan Tan						wt
-27783419509	Domination oppresive	yq			Fanga marali		Ka marali kɛ ni fanga ye		wt
+27783419509	Domination oppresive	yq	Fanga marali		Ka marali kɛ ni fanga ye				wt
 27783419473	Don matériel		Bololafen nili						wt
 1527665647649	Donner à jéhovah le meilleur	yq	I k'i seko fisaman kɛ jehova ma						wt
 1527665647743	Donner avec joie	yq	Ka nili kɛ ni diyanye ye						wt
@@ -335,11 +335,11 @@
 1529599765432	École	jl 10	Lakɔli						
 -15518899097	École pour évangélisateurs du royaume	bk	Masaya waajulikɛlaw ka lakoli						wt
 1527665647700	Ecourter poliment la conversation	yq	Ka daan sigi o baro la ni bonya ye						wt
-1529599765601	Écrire	jl 23	Sɛbɛri kɛ						
+1529599765601	Écrire	jl 23	Sɛbɛri kɛ						bambara
 27783419425	Écrit à l'envers		A sɛbɛra ka yɛlɛma ɲɛjugu kan						wt
 27783419519	Écritures grecques chrétiennes		Gɛrɛkikan Sɛbɛninw						wt
 27783419524	Écritures hébraïques		Heburukan Sɛbɛninw						wt
-1527665647661	Efficace	yq			Bɛrɛbɛrɛ		min be sanga sɔrɔ		wt
+1527665647661	Efficace	yq	min be sanga sɔrɔ		Bɛrɛbɛrɛ				wt
 1529599765623	Effort	jl 28	Jijali						
 27783419444	Elle l'adopta comme son fils		Ale y'a kɛ a yɛrɛ dencɛ ye						wt
 27783419426	Elle m'est allée droit au cœur.		A sinna ka ne dusu minɛ.						wt
@@ -469,7 +469,7 @@
 1527665647550	Frère inactif	yq	Balima sumalen						wt
 1529599765368	Frère	jl 5	Balimacɛ						
 1527665647791	Frères chrétiens	yq	Kerecɛn balimaw						wt
-1527665647846	Fronde / Lance-pierre	yq			Bɛrɛbonna				wt
+1527665647846	Fronde / Lance-pierre	yq	Bɛrɛbonna						wt
 27783419523	Fruit de l'esprit		Halkili senu deen						wt
 1529599765508	Gagne pain	jl 15	Baloɲini barra						
 1528499809519	Gardez constamment a l'esprit le « jour redoutable »	wt	A’ ye jatigɛlon to aw hakili la tuma bɛɛ!	153					dp
@@ -499,7 +499,6 @@
 27783419613	Idée annexe		Kunnafoni do						wt
 27783419633	Idées indéniables		Miiriyaw, mɔgɔ te se k'u soso						wt
 1529599765345	Idées non chrétiennes	jl 3	Kafiriyakow						
-Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Tags
 #Note ID	French	Source	Jula1	Note1	Jula2	Note2	Bambara	Note3	tags
 27783419472	Idôlatrie		Boli batoli						wt
 27783419533	Idôle		Joo		Boli		Batofɛn		wt
