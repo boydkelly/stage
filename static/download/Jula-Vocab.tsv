@@ -94,7 +94,7 @@
 1529143433529	Week-End	yq			Wikɛni										calendrier
 1529143433530	Invisible	yq			Yebali										marked
 1529143433531	Loin	yq			Yɔrɔ jan										i
-1529190677480	Sans doute	wt	Siga t’a												
+1529190677480	Sans doute	wt	Siga t’a la												
 1529191015378	Désert	wt	Kongokolon												
 1529191270204	Pensez-y	wt	Miiri k’a filɛ												
 1529227811242	Concombre	wt	kɔkɔnburu												nourriture
@@ -160,7 +160,7 @@
 -18162548526	Ils ont le palu	bk	Sumaya be o la												phrase
 -18162625383	Frère	bk	Balimancɛ												essentiel gens
 -18162663818	Monnaie		Wari misɛn												essentiel
--18434267659	Fièvre	yq	Farigwan				Farigan								santé
+-18434267659	Fièvre	yq	Farigwan		Farigan										santé
 -18434296505	Mal de tête	bk	Kun dimi	n kun Koko be dimi											corp
 -18434366707	Paludisme	bk	Sumaya dimi												
 -18510955590	Conseil	bk	Ladili												
@@ -275,7 +275,7 @@
 27809169052	Cou	yq			Kaan										corp
 27809169053	Nuque	yq			Kaankala										corp
 27809169054	Genou	yq	Kunbiri kun		Kunbiri										alasane corp
-27809169056	Vache	yq	Misimuso												animal
+27809169056	Vache	yq	Misi muso												animal
 27809169057	Yeux	yq	Ɲadenw		Ɲɛ		Ɲɛdenw								corp
 27809169058	Uriner	yq			Ɲɛgɛnɛ										corp
 27809169059	Dent	yq			Ɲiin										corp
@@ -364,7 +364,7 @@
 27946172002	Aveugle	yq			Fiyɛntɔ										gens
 27946172003	Manquer	yq			Fɔn										verbe
 27946172004	Médicament	yq	Fila		Fura										santé
-27946172005	Soigner	yq			Fura										santé
+27946172005	Soigner	yq			Fura	verbe									santé
 27946172006	Meilleurs soins	yq			Furakɛcogo fisamanw										santé
 27946172007	Epoux	yq			Furucɛ										gens
 27946172008	Conjoint	yq			Furuɲɔgɔnma										gens
@@ -431,7 +431,7 @@
 27946172071	Parole	yq			Kuma										
 27946172072	Mot	yq			Kumaden		Daɲɛw								
 27946172073	Phrase	yq			Kumasen										
-27946172074	Lèpre	yq			Kuna		Kunatɔbana								santé
+27946172074	Lèpre	yq	kunatɔ		Kuna		Kunatɔbana								santé
 27946172075	Orgueilleux	yq			Kuncɛba										gens
 27946172076	Hauteur	yq			Kundama		Tintin								
 27946172077	Délivrer / Racheter	yq			Kunmabɔ		Kisi		Hɔɔɔrɔnya		Labɔ				verbe
@@ -486,7 +486,7 @@
 27946172127	Maintenant / Tout de suite	yq			Sisan										
 27946172128	Partager	yq			Son		Tilan								verbe
 27946172129	Tuberculose	yq			Sɔgɔsɔgɔgwɛ										santé
-27946172130	Crapeau	yq	Tɔri												a
+27946172130	Crapeau	yq	Tɔri												animal
 27946172131	Soldats	yq			Sɔrɔdasiw										gens
 27946172132	Palu	yq			Sumaya										santé
 27946172133	Bouton / Furoncle	yq			Sumunin										santé
@@ -527,7 +527,7 @@
 28366354150	Paupière	alasane	Ɲa fara												alasane corp
 28366446248	Pupille	alasane	Ɲakiseden												alasane corp
 28366622927	Heure	yq			Lɛri		Nɛgɛ ɲɛɛ ... ex: tan								calendrier
-28366846362	Gorge	alasane	Kaan file file												alasane corp
+28366846362	Pomme d'Adam	alasane	Kaan file file												alasane corp
 28367076607	Poitrine	alasane	Disi	m b i disi ka re											alasane corp
 28367778141	Intestins	alasane	Kɔnɔ nogo												alasane corp
 28367944447	Nombril	alasane	Bara kun												alasane corp
@@ -542,7 +542,7 @@
 28368841297	Crâne	alasane	Kun kolo												alasane corp
 28368987505	Machoire	alasane	Dagwana												alasane corp
 28369148070	Moustache	alasane	Nun sii												alasane corp
-28370590572	Gros coeur (qui se fâche facilement)	alasane	Dusuba												alasane corp
+28370590572	Gros coeur (qui se fâche facilement)	alasane	Dusuba												alasane
 28371300085	l'homme a une jambe	alasane	Cɛ sen kelen nin												alasane corp
 28382876273	Aujourd'hui encore	yq			Hali bi										
 28382876274	Banane	yq			Baranda										nourriture
@@ -565,7 +565,7 @@
 28382876291	Sel	yq			Kɔgɔ										nourriture
 28382876292	Un / Seul	bk			Kelen										
 28382876293	Sorgho	yq			Binbiri										nourriture
-28382876294	Ventre / Intérieur	yq			Kɔnɔ (n.)		Kɔnɔbara								corp
+28382876294	Ventre / Intérieur	yq			Kɔnɔ (n.)		Kɔnɔbara	nombril							corp
 28382876295	Viande	yq			Sogo										nourriture
 -31737613286	Sur	yq			Kan										
 -31737677739	À côté de	yq	Gɛrɛfɛ		Kɔrɔ		Kɛrɛ fɛ								
@@ -582,7 +582,7 @@
 -3582266273	Promesse	yq	Layiri		Layidu		dajuru								leech marked
 3661703856	Endurance		Muɲuli												wt
 3670486778	Aigle	bk	Segɛn												animal
-3670506647	Hippopotame	bk	Meeri	CIV/BFA			Mali	MLI							animal
+3670506647	Hippopotame	bk	Meeri	CIV			Mali	MLI							animal
 3670546453	Chèvre de montagne	bk	Kongo baa												animal
 3670593377	Crocodile	bk	Bamba												animal
 3671015070	Caffard	bk	Ɲɛmbɛrɛ												animal bouake
@@ -767,7 +767,7 @@
 -53545395749	Riz	yq			Malo		Kini								essentiel
 -53545395750	Étoile	yq			Lolo										essentiel
 -53545395751	Penser	yq	Miiri		Mirili		Miiri		Bisigi						
--53545395752	Boeuf	yq	Misi												animal
+-53545395752	Boeuf	yq	Misi tora		Misi										animal
 -53545395753	Entente	bk	Bɛn												
 -53805499233	Français	yq	Faransika		Faransikan										
 -53805657835	Oncle paternel	bk	Benicɛ												gens
@@ -997,3 +997,4 @@
 -9558056281	Revenir	yq	Sekɔ		Ka kɔsegin ka na										calendrier verbe vi
 Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	note5	Jula6	Note6	Tags
 #Note ID	French	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	Note5	Jula6	Note6	tags
+	Tousser		Sɔgɔsɔgɔ												
