@@ -1,6 +1,6 @@
 -11085274429	Réunion	bk	Lajɛn						wt
 -11284825780	Prophète	bk	Cira						wt
--11287133660	Joie	Boyd	Ninsɔndiya						wt
+-11287133660	Joie	jl 11	Nagali						wt
 -11287332641	Serviteur / adorateur	bk	Sagokɛla						wt
 -15176835587	Sans foi	bk	Janfanci						wt
 1527665647505	Ce qu'elle nous réserve	yq	A be min mara an ye						wt
@@ -60,7 +60,7 @@
 1527665647572	Enseignement biblique fondamental	yq	Bibulu kalansira jonjon						wt
 1527665647573	Dans les temps bibliques	yq	Bibulu sɛbɛwagati la						wt
 1527665647574	Étude biblique	yq	Bibulukalan						wt
-1527665647575	Biens matériels	yq	Bololafɛnw						wt
+1527665647575	Biens matériels	jl 24	Bolofɛnw						wt
 1527665647576	Contribution volontaire	yq	Bolomafara						wt
 1527665647577	Contribuer	yq	Bolomafara di						wt
 1527665647578	Se déverser	yq	Bɔn						wt
@@ -70,7 +70,7 @@
 1527665647584	Exposé n°1	yq	Cii folo kalan						wt
 1527665647585	Dix commandements	yq	Cikan Tan						wt
 1527665647586	Message impopulaire	yq	Cira min tun man di mɔgɔw ye						wt
-1527665647587	Prophétie	yq	Ciraya		Cirakuma				wt
+1527665647587	Prophétie	jl 7	Kiraya kuma		Cirakuma				wt
 1527665647588	Dans la dignité	yq	Cogo bɛnnen na						wt
 1527665647589	De façon méthodique (ordonnée)	yq	Cogo tilennen na						wt
 1527665647590	Porte en porte	yq	Da ni da la						wt
@@ -79,7 +79,7 @@
 1527665647594	Lors de l'examen du paragraphe	yq	Dakun lajɛtɔ						wt
 1527665647595	Révision orale	yq	Dalafoli segikanni						wt
 1527665647596	Entamer (entamer une conversation)	yq	Daminɛ						wt
-1527665647598	Pionnier spécial	yq	Dan na Piyoniye						wt
+1527665647598	Pionnier spécial	jl 13	Dan na piyɔniye						wt
 1527665647599	Créature spirituelle	yq	Danfɛn hakililama						wt
 1527665647600	Contemporain de david	Yannick	Daouda ka wagati mɔgɔ				Daouda ka filankuru		wt
 1527665647601	Fils unique-engendré	yq	Dencɛ kelenpɛ bangelen						wt
@@ -217,8 +217,8 @@
 1527665647765	Prêcher librement	yq	Ka waajuli kɛ ɲɛsuma na						wt
 1527665647766	Réserver du temps	yq	Ka wagati latigɛ						wt
 1527665647771	Besoin de la congrégation	yq	Kafo ka mako						wt
-1527665647772	Membre de la congrégation	yq	Kafoden						wt
-1527665647774	Surveillant de circonscription	yq	Kafokulu kɔrɔsigibaga		Kafokulu kɔrɔsibaga				wt
+1527665647772	Membre de la congrégation	jl 15	Kafoden						wt
+1527665647774	Surveillant de circonscription	jl 17	Kafokulu kɔrɔsibaga		Kafokulu kɔrɔsibaga				wt
 1527665647775	Comment remplir le formulaire	yq	Kafolisɛbɛ dafacogo						wt
 1527665647776	Immoralité	yq	Kakalaya						wt
 1527665647777	Après chaque exposé	yq	Kalan kelen-kelen banni kɔ						wt
@@ -254,7 +254,7 @@
 1527665647812	Compte tenu du temps imparti	yq	Komi wagati daan tigɛra						wt
 1527665647813	Vérifions les choses les plus importantes	yq	Koo minw kɔrɔtanin lo ka tɛmɛ tɔɔw kan, aw k'olu faranfasi						wt
 1527665647814	Système de choses	yq	Koo sigi cogoya		Diɲɛ				wt
-1527665647816	Collège central	yq	Koow Ɲɛnabɔla Jɛnkulu						wt
+1527665647816	Collège central	jl 20	Koow ɲɛnabɔla jɛnkulu						wt
 1527665647818	Tentation	yq	Kɔrɔboli						wt
 1527665647821	Assistant ministériel expérimenté	yq	Kɔrɔsigi ciden setigi						wt
 1527665647824	En cas d'urgence	yq	Kɔrɔtɔkow kosɔn						wt
@@ -267,7 +267,7 @@
 1527665647836	Communication spéciale	yq	Kunnafoni kɛrɛnkɛrɛn						wt
 1527665647838	Trébucher (spirituellement)	yq	Kunnatiɲɛ						wt
 1527665647839	Souveraineté	yq	Kuntigiya		Sebagaya		Masabaya		wt
-1527665647841	Organisation	yq	Labɛn		Ɔriganisasiyɔn				wt
+1527665647841	Organisation	jl 19	Ɔriganisasiyɔn		Ɔriganisasiyɔn				wt
 1527665647844	Lors de la réunion	yq	Lajɛn kɛto						wt
 1527665647845	Lieux de culte	yq	Lajɛn kɛyɔrɔw						wt
 1527665647846	Fronde / Lance-pierre	yq			Bɛrɛbonna				wt
@@ -285,9 +285,9 @@
 1527665647861	Chez les personnes intéressées	yq	Makodon mɔgɔw fɛ						wt
 1527665647862	Ne doit pas durer plus de	yq	Man kan ka mɛɛn ka tɛmɛ … kan						wt
 1527665647863	Codirigeant	yq	Marakɛɲɔgɔn						wt
-1527665647865	Salle du Royaume	yq	Masaya boon				Massaya Soo	Bambara	wt
+1527665647865	Salle du Royaume	jl 15	Masaya Boon				Massaya Soo	Bambara	wt
 1527665647866	Ministère du royaume	yq	Masaya cidenyabaara						wt
-1527665647867	Manière	yq			Cogoya				wt
+1527665647867	Manière	jl 11	Wale		Cogoya				wt
 1527665647870	Repas du seigneur	yq	Matigi ka surafana seli						wt
 1527665647872	Attitude mentale	yq	Miiriya cogo						wt
 1527665647873	Offre du mois	yq	Min be di kalo la						wt
@@ -320,7 +320,7 @@
 1527665647902	La fin de la fausse religion est proche	yq	Ngalon diinan laban ka surun						wt
 1527665647903	Si une personne manifeste de l'intérêt	yq	Ni mɔgɔ do y'a mako don an ka baro la						wt
 1527665647904	Dans la mesure du temps disponible	yq	Ni wagati be yen						wt
-1527665647905	Offrande	yq	Nili						wt
+1527665647905	Offrande	jl 24	Jaka minɛ						wt
 1527665647908	Repentir (se)	yq	Nimisa fɛn la						wt
 1527665647909	Repentance	yq	Nimisali						wt
 1527665647910	Cela donne vraiment à réfléchir	yq	Nin b'an lasun ka miiri sɔbɛ la						wt
@@ -342,7 +342,7 @@
 1527665647930	Ce genre de questions	yq	O ɲiningali ɲogonw						wt
 1527665647931	Pas le moment de flâner	yq	O tɛ saliya wagati ye						wt
 1527665647932	Cela l'affermi en vue des épreuves à endurer	yq	O ye a fanga don a la walisa a ka kɔrɔbɔliw muɲu						wt
-1527665647933	Pionnier auxiliaire	yq	Piyoniye korosigi						wt
+1527665647933	Pionnier auxiliaire	jl 13	Piyɔniye kɔrɔsigi						wt
 1527665647935	Service de pionnier	yq	Piyɔniye baara						wt
 1527665647937	Rapport	yq	Rapoori						wt
 1527665647938	Texte de l'année	yq	Saan ka kalankun		Saan ka bibulusen				wt
@@ -355,8 +355,8 @@
 1527665647953	Témoin	yq	Seere		Seree				wt
 1527665647954	Témoignage informel	yq	Seereya kɛ sababu dɔ sen fɛ		Sen fɛ seereya		Senfɛ sereya		wt
 1527665647956	Secrétaire	yq	Sekeretɛri						wt
-1527665647957	Saint	yq	Senu				Senuman		wt
-1527665647958	Témoignage	yq	Sereeya						wt
+1527665647957	Saint	jl 4	Senuman				Senuman		wt
+1527665647958	Témoignage	jl 12	Seereya						wt
 1527665647959	Asperger	yq	Seri seri						wt
 1527665647960	Tract/dépliant	yq	Sɛbɛnin						wt
 1527665647962	Divers aspects	yq	Sifa faanw ka ca						wt
@@ -379,7 +379,7 @@
 1527665647985	Estrade	yq	Tintin						wt
 1527665647987	Le seul vrai dieu	yq	Tiɲɛn ala kelenpe						wt
 1527665647988	Bureau de la filiale	yq	Tɔnbolo biro						wt
-1527665647990	Alliance	Yannick	Tɔnsigi						wt
+1527665647990	Alliance	jl	Layidu						wt
 1527665647991	Grande tribulation	yq	Tɔɔrɔba						wt
 1527665647992	Déluge	yq	Tufane jii		Sanjiba				wt
 1527665647993	Compagnon	yq	Tunɲɔgɔn						wt
@@ -387,7 +387,7 @@
 1527665647995	Éviter les extrêmes	yq	U waganen tɛ						wt
 1527665647996	Retrait volontaire	yq	U yɛrɛ mabɔ kafo la						wt
 1527665647997	À cause de leur état de pécheur	yq	U yɛrɛw ka jurumutoya koson						wt
-1527665647999	Verset	yq	Vɛrise		Bibulusen				wt
+1527665647999	Verset	jl 9	Vɛrise		Bibulusen				wt
 1527665648000	Verset clé	yq	Vɛrise jonjon						wt
 1527665648002	Devoir sacré	yq	Waajibiko senuman						wt
 1527665648004	Quand nous prêchons	yq	Waajuli kɛto						wt
@@ -542,10 +542,10 @@
 -16124033849	Comité de filiale	bk	Tɔnbolo ka kɔmité						wt
 -16124121736	Instructions		Cikanw						wt
 -16527240875	Sorte	yq	Sifa		Sifa				wt
--18714818564	Proclamateur	bk	Weleweledala		Wajulikɛla				wt
+-18714818564	Proclamateur	jl 13	Weleweledala		Wajulikɛla				wt
 -18949454284	Présentation	bk	Yiracogo						wt
 -18949479733	Culte	bk	Batoli						wt
--18949490395	Serviteurs	bk	Batobagaw						wt
+-18949490395	Serviteurs	jl 2	Sagokɛlaw						wt
 19411554786	Sacrifice rédempteur	bk	Kunmabɔ  saraka						wt
 19411687406	Juru sara	bk	Propitiation						wt
 19411739780	Kisi	bk	Sauver						wt
@@ -587,9 +587,9 @@
 27783419436	Impie		Ala lɔnbali						wt
 27783419437	Pécheurs impies		Ala ɲɛsiranbali jurumutɔw						wt
 27783419438	Trinité		Ala sabaya						wt
-27783419439	Volonté de Dieu		Ala sagoya						wt
+27783419439	Volonté de Dieu	jl Intro	Ala sago						wt
 27783419440	Pensée spirituelle		Alako miiriya						wt
-27783419441	Trésor spirituel		Alako nafolo						wt
+27783419441	Trésor spirituel	jl 9	Lɔnniya nafolo						wt
 27783419442	Moisson spirituelle		Alako sumatigɛ						wt
 27783419443	Croyant		Alalɔnbaga						wt
 27783419444	Elle l'adopta comme son fils		Ale y'a kɛ a yɛrɛ dencɛ ye						wt
@@ -656,7 +656,7 @@
 27783419509	Domination oppresive	yq			Fanga marali		Ka marali kɛ ni fanga ye		wt
 27783419510	Pharaon		Faharuna						wt
 27783419511	Force irrésistible		Fanga barikama						wt
-27783419512	Tenue		Fani doncogo		Fani				wt
+27783419512	Tenue	jl 8	Sawura		Fani				wt
 27783419513	Méthode, moyen		Fɛɛrɛ						wt
 27783419514	Faiblesse (défaut)		Finyɛ						wt
 27783419515	Fête populaire		Foroba fɛtilon						wt
@@ -684,7 +684,7 @@
 27783419538	Compter sur Jéhovah		K'an bolo la Jehova kan						wt
 27783419539	Fixer notre esprit sur des pensées constructives		K'an nyɛɛ jolen to koo nafamanw kan						wt
 27783419540	Plein d'égards		K'i janto mɔgɔ la						wt
-27783419541	Se vouer		K'i yɛrɛkun di						wt
+27783419541	Se vouer	jl 11	Yɛrɛkun di						wt
 27783419542	Nous observons leur environnement		K'u laminikow kɔrɔsi						wt
 27783419543	Remercier Dieu		Ka barika la Ala ye		Ka Ala fo				wt
 27783419544	Reporter le baptême à plus tard		Ka batɛmi bila wagati wɛrɛ kan		Ka batɛmi segi kɔ		Ka batɛmi bila ka suma		wt
@@ -792,7 +792,7 @@
 27783419650	Empêcher de progresser		Nagasi						wt
 27783419651	Je ne m'intéresse pas aux Témoins de Jéhovah		Ne mako tɛ Jehova Seerew la						wt
 27783419652	Privilège		Nɛɛma						wt
-27783419653	Faux dieux		Ngalon alaw						wt
+27783419653	Faux dieux	jl 2	Ngalon alaw						wt
 27783419654	Fausse religion		Ngalon diinan						wt
 27783419655	Si les circonstances le permettent		Ni koow cogoya bɛnnen be						wt
 27783419656	Presque tout le monde apprécie		Ni mɔgɔ kelen-kelen tɛ , a ka di bɛɛ ye ka						wt
@@ -858,8 +858,8 @@
 3221065537	Souveraineté de dieu	bk	Ala ka masabaya						wt
 3653464641	Boîte à offrande	bk	Nili buwati						wt
 3656197437	Maitrise de soi	bk	Yɛrɛminɛli						wt
-3656657915	Communications	bk	Kunnafoniw						wt
-3656948736	De maison en maison	bk	Soo ni soo						wt
+3656657915	Communications	jl 27	Kunnafoni						wt
+3656948736	De maison en maison	jl 12	Soo ni soo						wt
 3661744119	Endurer	Boyd	Muɲu						wt
 3670467518	Cheval	bk	Soo						wt
 -3743945078	Homme orgeuilleux		Kuncɛba						bambara marked unbouake wt
@@ -872,21 +872,21 @@
 -40927278615	Bible	bk	Bibulu						wt
 -4123020142	Punir		Ɲangi						unbouake verbe wt
 -44178618673	Lecture de la bible	bk	Bibulu kalangwɛ						wt
--4434272399	Révision	bk	Segikanni						wt
+-4434272399	Révision	jl 9	Segikanni						wt
 -4632780310	Waa kɛmɛ ni bi segi ni looru	bk	185 000						wt
 4894740815	Messie	bk	Masiya						wt
 4894757744	Royaume	bk	Masaya						wt
 4896872164	Interlocuteur	bk	Lamɛnbaga		Lamɛnnikɛla				wt
 -53017499366	Envoyé de dieu	bk	Ala ka ciden						wt
--53017833927	Commandement	bk	Cii						wt
+-53017833927	Commandement	jl 16	Cii						wt
 -53017885414	Gloire	bk	Nɔɔrɔ						wt
--53018127491	Chapitre	bk	Sapitiri		Tilan		Tilanyɔrɔ		wt
--53018156709	Esprit saint	Boyd	Hakili senu						wt
+-53018127491	Chapitre	jl 9	Kalansen		Tilan		Tilanyɔrɔ		wt
+-53018156709	Esprit saint	jl 19	Hakili senu						wt
 -53018186881	Miracle	bk	Kabako						wt
 -53018428141	Sabbat	bk	Lafiɲɛlon						wt
 -53018531254	Résurrection	bk	Sukununi		Suu kununi				wt
 -53018679285	Rançon	bk	Kunmabɔsara						wt
--53018792198	Congrégation	Boyd	Kafo						wt
+-53018792198	Congrégation	jl 6	Kafo						wt
 -53019012572	Satan	bk	Sitanɛ						wt
 -53019039215	Diable	bk	Naafigi						wt
 -53019084841	Témoins de jéhovah	bk	Jehova seerew						wt
@@ -895,22 +895,337 @@
 -53277812243	Baisser	bk	Suuri		Sosuuri				wt
 -54217186332	Antenne de traduction	bk	Gafew bayɛlɛma yɔrɔ						wt
 -54217186334	Esclave fidèle et avisé	Boyd	Jɔnkɛ dannamɔgɔ hakiliman		Joncɛ  kantigiman hakiliman				wt
--54217186336	Ancien	bk	Diinan mɔgɔ kɔrɔ						wt
--54217186337	Surveillant itinérant	bk	Kɔrɔsigibaga tagamakɛla						wt
--54217186338	Pionnier	bk	Piyɔniye						wt
--54217186339	Assistant ministériel	bk	Kɔrɔsigi ciden						wt
--54217186340	Famille du béthel	bk	Betɛli denbaya mogow						wt
--54217186341	Béthel	bk	Betɛli						wt
+-54217186336	Ancien	jl 14	Diinan mɔgɔkɔrɔ						wt
+-54217186337	Surveillant itinérant	jl 17	Kɔrɔsibaga tagamakɛlaw						wt
+-54217186338	Pionnier	jl 13	Piyɔniye						wt
+-54217186339	Assistant ministériel	jl 16	Kɔrɔsigi ciden						wt
+-54217186340	Famille du béthel	jl 21	Betɛli ka denbayamɔgɔw						wt
+-54217186341	Béthel	jl 21	Bɛtɛli						wt
 -5583657714	Démon	bk	Jina						wt
 -55856535110	Sacrifier	bk	Saraka						wt
 -55856535126	Ressussiter	bk	Lakunun						wt
 -55856535130	Éternellement	bk	Kudayi						wt
 -55856535132	Originel		Kɔrɔba						marked wt
--55856535180	Paradis	yq	Alijɛnɛ		Alijɛnɛ				wt
+-55856535180	Paradis	jl	Alijɛnɛ		Alijɛnɛ				wt
 -7052097941	Israëlites	bk	Israɛldenw						wt
 -7053266987	185000	bk	Waa kɛmɛ ni bi seegi ni looru						wt
 -7054004510	Représentant de dieu	bk	Ala ka lasigidenw						wt
--7054053843	Expliquer	bk	Ɲɛfɔ						wt
+-7054053843	Expliquer	jl 19	Ɲɛfɔ						wt
 -7054111008	Guider	bk	Ɲɛminɛ						wt
 -8263134106	Dessein	bk	Sago						wt
+	Acceuillir	jl 5	Bisimila						
+	Accompagner	jl 17	Bilasira						
+	Acheter	jl 28	Fɛɛrɛ						
+	Acte/comportement	jl 10	Kɛwale						
+	Adulte	jl 16	Baliku						
+	Anciens manuscrits de la Bible	jl 4	Bibulu bololasɛbɛni kɔrɔkɔrɔw						
+	Années passées	jl 25	Saan tɛmɛninw						
+	Approcher de Jéhovah	jl 10	Magwɛrɛ Jehova la						
+	Araméen	jl 4	Aramekan						
+	Assainir la maison	jl 21	Boon saniya						
+	Assemblée	jl 11	Lajɛnba						
+	Assemblée régionale	jl 11	Tile saba lajɛnbaw						
+	Authentique	jl 4	Tigitigi						
+	Autres moyens	jl 20	Fɛɛrɛ wɛrɛw						
+	Avant	jl 1	Ka kɔrɔ						
+	Avenir	jl 12	Siniɲasigi						
+	Baptiser	jl 11	Batize						
+	Basé la discussion sur la Bible	jl 20	Ka baro basigi Bibulu ka fɔta kan						
+	Bénéfice	jl 6	Nafa						
+	Bénéfique	jl 7	Nafaman						
+	Bénir	jl 10	Duga						
+	Berger	jl 15	Sagadɛndɛla						
+	Besoin	jl 10	Makoya						
+	Bibliothèque	jl 27	Bibilotɛki						
+	Bienfait de l'amité	jl 11	Teriya diya						
+	Boisson	jl 10	Minnifɛn						
+	Boîte à offrandes	jl 25	Nili buwati						
+	Bon exemple	jl 16	Ɲɛyirali ɲuman						
+	Bonne façon	jl 22	Cogo bɛnnin						
+	Bonne formation	jl 14	Fɔrɔmasɔn ɲuman						
+	Bonne intention	jl 15	Ɲaniya ɲuman						
+	Bonne nouvelle du Royaume de Dieu	jl 12	Ala ka Masaya kibaro diiman						
+	Bonnes nouvelles	jl 12	Kibaro diiman						
+	Bon père	jl	Faa ɲuman						
+	Bureau	jl 21	Biro						
+	Camarades de classe	jl 12	Lakɔli filankuruw						
+	Cantique	jl 10	Dɔnkili						
+	Catastrophes	jl 18	Balawo						
+	Celui qui aide	jl 16	Dɛmɛbaga						
+	Centaines de kilomètres	jl 17	Kilomɛtɛrɛ kɛmɛ-kɛmɛ						
+	Chaleur (humaine)	jl 5	Dusudiya						
+	Chambre	jl 18	Layɔrɔ						
+	Chant	jl 7	Donkili						
+	Chaque année	jl 11	Saan o saan						
+	Chaque semaine	jl 9	Lɔgɔkun o lɔgɔkun						
+	Chèvre de montagne	jl 18	Kɔngɔba						
+	Chez nous	jl 15	An ka soo						
+	Choix	jl 8	Sugandili						
+	Choses spirituelles	jl 20	Alakow						
+	Chosir	jl 8	Sugandi						
+	Chrétien oint	jl 20	Kerecɛn mɔlenw						
+	Climat	jl 14	Wagati cogoya						
+	Coeur brisé	jl 9	Hakili ɲagami						
+	Collègue de travail	jl 12	Baarakɛɲɔgɔn						
+	Comité de la filiale	jl 22	Tɔnbolo ka kɔmite mɔgɔw						
+	Comité	jl 18	Kɔmite						
+	Commandements	jl 20	Cikanw						
+	Commentaire	jl 9	Lakalita						
+	Commerces	jl 12	Jagokɛyɔrɔw						
+	Compréhension	jl 3	Famuyali						
+	Conduite	jl 10	Jogo						
+	Confier	jl 20	Kalifa						
+	Congrégation chrétienne primitive	jl 15	Kerecɛn kafo daminɛ						
+	Connaissance	jl	Lɔniya						
+	Conseil	jl 7	Ladili						
+	Construction	jl 25	Lɔli						
+	Contenu de la Bible	jl 11	Bibulu kɔnɔko						
+	Contenu des livres	jl 23	Gafew kɔnɔkow						
+	Coordinateur de la filiale	jl 22	Tɔnbolow kɔrɔsibagaw						
+	Corps	jl 8	Farikolo						
+	Coutumes	jl 14	Landaw						
+	Couvrir	jl 8	Sutara						
+	Créateur	jl	Danbaga						
+	Croyances	jl 1	Lannakow						
+	Cuisine	jl 21	Gwabugu						
+	Culte familiale	jl 10	Gwa kɔnɔ batoli						
+	Culte pur de Jéhovah	jl	Jehova ka batoli saniman						
+	Dans le monde entier	jl 12	Duniɲa kuru bɛɛ kɔnɔ						
+	Dans le territoire	jl 25	Kiin kɔnɔ						
+	Démonstration	jl 7	Nɛyiraliw						
+	Démuni	jl 24	Dɛsɛbagatɔ						
+	De nos jours	jl 28	Bi tilew la						
+	Dépenses	jl 24	Musakaw						
+	Désespoir	jl 13	Jigi tigɛ						
+	Des siècles	jl 2	Saan kɛmɛ-kɛmɛ						
+	Difficulté	jl 6	Gwɛlɛya						
+	Digne, libre	jl 1	Hɔɔrɔn						
+	Discours intéressants	jl 11	Kalan diimanw						
+	Discours public	jl 7	Forobakalan						
+	Divertissements	jl 6	Ɲɛnagwɛ						
+	D'une manière simple	jl 13	Cogo nɔgɔman						
+	École biblique de Giléad	jl 14	Gilead ka Bibuluko lakɔli						
+	École	jl 10	Lakɔli						
+	Écrire	jl 23	Sɛbɛri kɛ						
+	Effort	jl 28	Jijali						
+	Empressement	jl 11	Kɔrɔtɔ						
+	Encouragement	jl 10	Jijali						
+	Enfants	jl 10	Deenw						
+	Engin	jl 14	Bolifɛn						
+	Enseignant de la Bible	jl 14	Bibulu karamɔgɔ						
+	Enseignant	jl 3	Karamɔgɔ						
+	Enseignant qualifié	jl 5	Karamɔgɔ setigi						
+	Enseignement	jl 3	Kalan						
+	Enseignement véridique	jl	Kalan tigitigi						
+	En tout lieux	jl 12	Yɔrɔ o yɔrɔ						
+	Entreprendre le service de pionnier	jl 13	Ka seen don piyɔniye baara la						
+	Entretenir la Salle du Royaume	jl 16	Masaya Boon ladonko						
+	Esclave filèle et avisé (Bible)	jl 19	Jɔncɛ dannamɔgɔ hakiliman						
+	Esclave filèle et avisé	jl 19	Jɔncɛ kantigiman hakiliman						
+	Espoir de la résurection	jl 3	Sukununi jigiya						
+	Esprit de sacrifice	jl 21	Yɛrɛsaraka hakili						
+	Établir	jl 18	Ka sigi sen kan						
+	Étude biblique de la congrégation	jl 7	Kafo ka Bibulu kalan						
+	Études bibliques	jl 17	Bibulukalanw						
+	Étudiants de la Bible	jl 2	Bibulu Kalendenw						
+	Étudiant sérieux	jl 2	Kalenden sɔbɛ						
+	Exemple	jl 12	Ɲɛyirali						
+	Expressions clés	jl 9	Kumaden jɔnjɔnw						
+	Fabriquer	jl 21	Dilan						
+	Faiblesse	jl 1	Barikantanya						
+	Faire des offrandes	jl 24	Ka nili kɛ						
+	Famille	jl 15	Denbaya						
+	Fausse croyance	jl 3	Ngalon lannako						
+	Fidèle	jl 15	Kantigi						
+	Fidélité	jl 17	Kantigiya						
+	Force	jl 5	Barika						
+	Fraternité	jl 11	Balimaya						
+	Fréquentations	jl 6	Jɛnɲɔgɔnya						
+	Frère	jl 5	Balimacɛ						
+	Gagne pain	jl 15	Baloɲini barra						
+	Genre d'homme	jl 16	Mɔgɔ sifa						
+	Gens de la maison	jl 12	Somɔgɔw						
+	Grace à	jl 10	Sababu						
+	Grande chose	jl 11	Fɛɛnba						
+	Grecque	jl 4	Grɛkikan						
+	Groupe	jl 14	Jɛnkulu						
+	Guide	jl 20	Ɲɛminɛ						
+	Habitude	jl 4	Delinanko						
+	Hébreux	jl 4	Heburukan						
+	Histoires bibliques	jl 28	Bibulu ka maana						
+	Honnête	jl 1	Hɔɔrɔnw						
+	Idées non chrétiennes	jl 3	Kafiriyakow						
+	Image	jl 4	Jaa						
+	Imiter	jl 17	Ladegi						
+	Immuable	jl 15	Diyagoya						
+	Innocent	jl 2	Jalakibali						
+	Internet	jl 21	Ɛntɛrɛnɛti						
+	Interview	jl 7	Fɛtaw						
+	Jardin	jl 12	Zaradɛn						
+	Jeune	jl 16	Kanbele						
+	La filiale	jl 22	Tɔnbolo biro						
+	L'age	jl 10	Sanda						
+	L'amour	jl	Kanuya						
+	Langue	jl 14	Kaan						
+	La plage	jl 12	Kɔgɔjida						
+	Latigɛ	jl 9	Latigɛ						
+	La venue	jl 22	Nali						
+	L'eau à boire	jl 18	Jii minta						
+	Lecture	jl 7	Kalangwɛ						
+	Le Père de toute consolation	jl 18	Dusu saaloli bɛɛ tigi						
+	Les nouveaux	jl 17	Mɔgɔ kuraw						
+	Lettre	jl 20	Lɛtɛrɛw						
+	Lieu de culte	jl 5	Alabatoyɔrɔ						
+	Lieu de travail	jl 21	Baarakɛbonw						
+	Lieux public	jl 12	Foroba yɔrɔw						
+	Localités	jl 23	Bɔyɔrɔw						
+	Louange	jl 8	Tanuli						
+	Louer	jl 8	Tanu						
+	Lumière	jl 28	Yeelen						
+	Machine à écrire	jl 21	Sɛbɛrikɛmansin						
+	Manière de s'habiller	jl 8	Fani doncogo						
+	Manuscrits	jl 4	Bibulu bololasɛbɛni						
+	Mari	jl 10	Furucɛ						
+	Membres de la congrégation	jl 7	Kafo denw						
+	Membres de la famille	jl 10	Denbayamɔgɔw						
+	Menteur	jl 3	Ngalontigɛla						
+	Message d'espoir	jl 12	Jigiya kuma						
+	Moment opportun	jl 19	Wagati latigɛlen na						
+	Moment propice	jl 10	Wagati kɛrɛnkɛrɛnnin						
+	Moments difficiles	jl 11	Wagati gwɛlɛw						
+	Monde (beaucoup de personnes)	jl 19	Jama						
+	Monde	jl 11	Duniɲa						
+	Monde nouveau	jl	Dugukolo kuru						
+	Motiver	jl 24	Lasun						
+	Moulant	jl 8	Ferekenin						
+	Mûre	jl 15	Kɔgɔnin						
+	Nombre de congrégations	jl 25	Kafow hakɛ						
 #Note ID	French	Source	Jula1	Note1	Jula2	Note2	Bambara	Note3	tags
+	Nourriture	jl 10	Dumunifɛn						
+	Obéir à Jéhovah	jl 24	Ka jehova bonya						
+	Objets matériels	jl 19	Bololafɛnw						
+	Ordinaire	jl 1	Gwansan						
+	Ordinateur	jl 23	Ɔrdinatɛriw						
+	Paganisme	jl	Kafiriya						
+	Pagnes/habits	jl 18	Faniw						
+	Paix éternelle	jl	Hɛɛrɛ banbali						
+	Paix	jl 6	Hɛɛrɛ						
+	Paragraphe	jl 9	Dakun						
+	Parents	jl 10	Bangebagaw						
+	Parole de Dieu	jl 20	Ala ka kuma						
+	Participer à la discussion	jl 7	Daa don baro la						
+	Passage de la bible	jl 3	Bibulusen						
+	Pays	jl 14	Jamana						
+	Pécheur	jl 14	Jurumutɔ						
+	Pensée	jl 9	Hakili						
+	Pensées clés	jl 9	Hakilinata						
+	Pensées de Dieu	jl 4	Ala ka miiriyaw						
+	Pensées importantes	jl 9	Miiriya jɔnjɔnw						
+	Penser	jl 6	Miiri						
+	Père céleste	jl	Sankolo Faa						
+	Père célèste	jl	Sankolola faa						
+	Personne riche	jl 24	Nafolotigiw						
+	Personnes âgées	jl 17	Mɔgɔkɔrɔbaw						
+	Peuple de Dieu	jl 20	Ala ka jama						
+	Pionnier permanant	jl 13	Kudayi piyɔniye						
+	Plaisir	jl 15	Diyanye						
+	Points clés	jl 9	Yɔrɔ jɔnjɔnw						
+	Populaire (notoriété)	jl 17	Ka sanga sɔrɔ						
+	Portable	jl 9	Selilɛri						
+	Prédicateur à plein temps	jl 13	Kudayi waajulikɛla						
+	Prédication de la bonne nouvelle	jl 21	Kibaro diiman waajuli baara						
+	Prédication	jl 12	Waajuli baara						
+	Premiers chrétiens	jl 3	Kerencɛn fɔlɔw						
+	Premier siècle	jl 20	Saan kɛmɛkulu fɔlɔ						
+	Prendre soin de	jl 24	Ladon						
+	Prendre soin	jl 15	Mara						
+	Préparatifs de l'assemblée	jl 22	Lajɛnbaw labɛn						
+	Présider une congrégation	jl 15	Kafo ɲɛminɛ						
+	Pression	jl 21	Ɲɛɛ gwannin						
+	Prière	jl 7	Delili						
+	Principes bibliques	jl 1	Bibulu ka sariyaw						
+	Prochaine réunion	jl 5	Lajɛn nata						
+	Progrès	jl 17	Ɲɛtaga						
+	Progresser	jl 19	Yiriwa						
+	Progresser spirituellement	jl 11	Ka taga ɲɛ Alako ta fan fɛ						
+	Protéger	jl 15	Tanga						
+	Provoquer	jl 8	Darabɔ						
+	Publications	jl 16	Gafew						
+	Puits	jl 12	Kɔlɔnda						
+	Question	jl 5	Ɲinigali						
+	Radio	jl 9	Arajo						
+	Rassurer	jl 18	Jigi sigi						
+	Réconfort	jl 5	Dususalo						
+	Remplir la mission	jl 12	Cii dafa						
+	Rendre visite à quelqu'un	jl 12	Ka taga bɔ mɔgɔw ye						
+	Renouvellement	jl 25	Lakurayali						
+	Renouveller	jl 25	Lakuraya						
+	Répandre	jl 24	Jɛnsen						
+	Réparer	jl 18	Lalaga						
+	Repas	jl 14	Dumuni						
+	Repasser	jl 21	Pase						
+	Réponse	jl 5	Jaabili						
+	Représentant	jl 22	Lasigiden						
+	Respect de dieu	jl 8	Ala ka bonya						
+	Réunions et assemblées	jl 17	Lajɛnw ni lajɛnbaw						
+	Revue	jl 22	Magazɛn						
+	Route de la vie	jl 13	Kisili sira						
+	Royaume des cieux	jl 12	Sankolo masaya						
+	Sacrifice de soi	jl 14	Yɛrɛ saraka						
+	Salle à manger	jl 21	Dumunikɛ boon						
+	Satisfaire un besoin	jl 22	Mako wasa						
+	Sauveur	jl 8	Kisibaga						
+	Se dépêcher	jl 18	Teliya						
+	Se montrer; se glorifier	jl 8	Yɛrɛ yira						
+	Se réunir avec nos compagnons chrétiens	jl 6	Ka jɛn n'an kerecɛnɲogow ye						
+	Service de missionnaire	jl 14	Misɔndenya barra						
+	Siège des Témoins de Jéhovah	jl 21	Jehovah Seerew ka sigiyɔrɔsoba						
+	Si les problèmes s'abattent sur eux	jl 18	Ni balawo cunna u kan						
+	Simple	jl 8	Dama kɛɲɛnin						
+	S'inquiéter	jl 17	Hami						
+	Soeur	jl 5	Balimamuso						
+	Soins médicaux	jl 18	Furakɛli						
+	Sonorisation	jl 16	Sono						
+	Soucis	jl 9	Haminankow						
+	Souhaiter la bienvenue	jl 16	Ka mɔgɔw bisimila						
+	Sous-titre	jl 9	Cɛtigɛ						
+	Suivre les traces de Jésus	jl 14	Ka tagama Yezu seen nɔɔ na						
+	Sujet de conversation	jl 3	Barokun						
+	Surmonter	jl 6	Ka see sɔrɔ						
+	Surveiller	jl 20	Kɔrɔsi						
+	Symbole	jl 19	Tagamasiɲɛ						
+	Téléphone	jl 12	Telefɔni						
+	Témoin fidèle et véridique	jl 2	Seere tilennin tigitigi						
+	Témoins de Jéhovah	jl 1	Jehova Seerew						
+	Tenir promesse	jl 16	Saratiw dafa						
+	Tous les décendants	jl 23	Bɔnsɔnw bɛɛ						
+	Tout comme	jl 1	I n’a fɔ						
+	Toute la terre	jl 14	Diɲɛ faan bɛɛ						
+	Toutes les langues	jl 23	Kanw bɛɛ						
+	Toutes les nations	jl 12	Siyaw bɛɛ						
+	Toutes sortes d'hommes	jl 23	Mɔgɔ sifaw bɛɛ						
+	Traducteur	jl 21	Bayɛlɛmabaga						
+	Traduction de la bible	jl 4	Bibulu bayɛlɛmani						
+	Traduire	jl 23	Bayɛlɛ						
+	Traduit	jl 23	Bayɛlɛma						
+	Transmettre/envoyer	jl 18	Lase						
+	Transport	jl 18	Taransipɔri						
+	Travail manuel	jl 16	Bolo baara						
+	Tribunal	jl 2	Kititigɛso						
+	Une partie du monde	jl 18	Duniɲa faan dɔ						
+	Valeurs de Dieu	jl 1	Ala ka fɔtaw						
+	Veiller sur	jl 15	Janto						
+	Vérités bibliques	jl 19	Bibulu ka tiɲɛn kumaw						
+	Véritité	jl 2	Tiɲɛn						
+	Veuve	jl 24	Firiyamuso						
+	Vie	jl	Ɲenamaya						
+	Village	jl 14	Dugudennin						
+	Voisins	jl 12	Sigiɲɔgɔnw						
+	Vrai ami	jl 5	Teri sɔbɛ						
+	Vrai culte	jl 25	Tijɛn batoli						
+	Vrai disciple	jl	Kalanden sɔbɛ						
+	Vraie foi	jl	Limaniya lakika						
+	Vrai enseignement	jl	Kalan lakika						
+	Vrai étudiant	jl 19	Kalanden lakikaw						
+	Vrai	jl 3	Lakika						
+	Zèle	jl 16	Kisɛya						
