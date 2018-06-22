@@ -78,7 +78,7 @@
 -17509681716	As-tu dit quelque chose?	bk	I ka dɔ fɔ wa?												phrase
 27946171994	Athlète / Sportif	yq	Farikoloɲanagɛla		Farijola		Farijola		Farikoloɲanagwɛla						gens
 1529143433487	Athlétisme	yq	Farijo												
-3845946176	Attendre	yq	Kɔnɔ		Kɔnɔ (v.)		Kɔnɔni kɛ		Makɔnɔ						verbe
+3845946176	Attendre	yq	Kɔnɔ 	(v.)	Kɔnɔ 	(v.)	Kɔnɔni kɛ		Makɔnɔ						verbe
 -8522151866	Attends moi	bk	Lɔ ka n kɔnɔ												phrase
 -19339921610	Aubergine	bk	Gɔyɔ												nourriture
 1528479911912	Au-dessus / En haut	yq	San fɛ												essentiel
@@ -167,7 +167,7 @@
 28368415340	Cerveau	alasane	Kun nɛɛn		Zɛmɛ		kùnkòlòsɛmɛ,kùnkòlòsɔmi	bm							corp
 4363400885	Ce sont ses parents qui ont arrangé le mariage.	bk	A balimaw lo ka furu siri.												phrase
 403694429	Cesser / abandonner / Arrêter / Laisser	bk	Dabla		To		Dabila								bouake marked verbe
-26490421635	C'est à moi	bk	N ta lo												phrase
+26490421635	C'est à moi	bk	N ta lo				N ta don								phrase
 -25715308632	C'est	bk	Lo												essentiel
 -55856535182	C'est bon	bk	A ka ɲi												essentiel phrase
 -8523180370	C'est ça	bk	O lo	p.											phrase
@@ -250,7 +250,7 @@
 27946172080	Conseiller	yq	Ladi												
 27946171967	Consonne	yq	Dafata												
 1529143433477	Constructeur	yq	Boon lɔbaga												gens
--17944849393	Construction	yq	Lɔli		Dilanni										verbe
+-17944849393	Construction	yq	Lɔli		Dilanni										unbouake verbe
 -17944876358	Construire	bk	Lɔ		Dilan										verbe
 -4003352986	Continue / vas-y	bk	A kɛ dɔrɔn		Taga a fɛ		Taga a man								bouake
 -19139873076	Coq	yq	Dɔndɔn												animal
@@ -518,8 +518,8 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -12494899734	Inquiéter	bk	Jɔɔrɔ												verbe
 1529143433524	Interdit (c'est), totem	yq	Tana lo												
 -55856535139	Interdit	yq	Kana		Dagalen tɛ										essentiel
-1529657783614	Intestin						nùgu	bm							corp
-28367778141	Intestins	alasane	Kɔnɔ nogo												alasane corp
+1529657783614	Intestin						nùgu	bm							delete
+28367778141	Intestins	alasane	Kɔnɔ nogo				Nugu	bm							alasane corp
 1529143433530	Invisible	yq	Yebali												marked
 -16607061439	J'ai besoin de toi	bk	N'mako b' i la												phrase
 -8360950170	J'ai compris.	bk	N ka faamu.												phrase
@@ -609,9 +609,9 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 1529143433518	Loi	yq	Sariya												
 27946172026	Longueur	yq	Janya												
 -17234126057	Longue vie et santé	bk	Si niin kɛnɛya												phrase
--7539868355	Louche	bk	Kuru ba		Yelen										
+-7539868355	Louche	bk	Kuru ba		Yelen										marked
 -27502629559	Louer	bk	Tando												verbe
-27768736663	Loup	yq	Kongo wulu				lu	MLI							animal
+27768736663	Loup	yq	Kongo wulu				Lu	MLI							animal
 17834855115	Lourd	yq	Gwili		Guli										marked
 -55000189430	Lundi	bk	Tɛnɛnlɔn / Tɛnɛn	CIV	Tɛnɛnlɔn	BFA	Ntɛnɛndɔn / Ntɛnɛn	MLI							calendrier
 27206246061	Lutter		Kɛlɛ	CIV	Bondori	BFA									
@@ -715,7 +715,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946171940	Oncle maternelle	yq	Belencɛ												
 -53805657835	Oncle paternel	bk	Benicɛ												gens
 -7878568457	On est ensemble.	bk	An be ɲɔgɔn fɛ.												phrase
-28365516628	Ongle	alasane	Bolo sɔɔni				sɔni,sɔnìfara	bm							corp
+28365516628	Ongle	alasane	Bolo sɔɔni				Sɔni / Sɔnìfara	bm							corp
 -15267674977	On peut vous satisfaire	bk	O ka nɔgɔ												phrase
 -53015497479	Orange	bk	Lenburuba												nourriture
 -52136264022	Ordures	bk	Ɲaman												essentiel
@@ -860,7 +860,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 4363400882	Qu'est-ce qui t'a empêché de venir ?	bk	Mun k'i bali ka na?												phrase
 27946172110	Questionner	yq	Ɲiningan												verbe
 -54217186342	Question	yq	Ɲiningali												essentiel question
--54218752721	Qu'est que c'est?	bk	Nin ye mun lo ye?												leech phrase question
+-54218752721	Qu'est que c'est?	bk	Nin ye mun lo ye?		Mun lo?										leech phrase question
 -53958647736	Queue	yq	Kukala		Ku		Kokala								corp marked
 -48186082422	Qui	bk	Jɔn		Jɔnni										question
 -25715160808	Quoi	bk	Mun												question
@@ -872,7 +872,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946172037	Rappeler (se)	yq	Ka hakili jigi												verbe
 -53277853604	Rat	bk	Toto												animal
 27946172103	Rebeller (se)	yq	Muruti mɔgɔ ma												verbe
--5843352880	Regarder	yq	Filɛ	CIV	Filɛli kɛ	BFA									marked
+-5843352880	Regarder	yq	Filɛ	CIV	Filɛli kɛ	BFA	Lajɛn	MLI							marked
 1529657783630	Rein						kɔmɔkìli	bm							corp
 27946172066	Remarquer	yq	Kɔrɔsi												verbe
 -52136790920	Réparer	yq	Lalaga		Ladinɛ		Ladinɛ		Lalaga						
