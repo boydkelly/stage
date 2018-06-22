@@ -98,6 +98,7 @@
 27946171927	Avion	yq	Aviyɔn												
 27946172062	Avortement	yq	Kɔnɔcɛn												santé
 -54126222165	Avril	yq	Awirilikalo		Awrili										calendrier
+1529678551519	Ballon	yq			Balɔn										
 28382876274	Banane	yq	Baranda												nourriture
 27809169045	Barbe	yq	Bonbonsi				Boonsi	bm							corp
 -55856535128	Bateau	bk	Kurunba		Kurun										essentiel
@@ -126,6 +127,7 @@
 -27001359839	Bonne route (arriver)	bk	Ala y'a ɲuma se												marked phrase
 -27001294005	Bonne route (arrivé / retour)	bk	Ala y'a ɲuma nan												phrase
 -19754582047	Bonne soirée	bk	Ala ye wula nɔgɔya												phrase
+1529678551507	Bon sens / Sagesse	yq			Hakilitigiya		Hakili ɲuman								
 -5642987963	Bonté	yq	Ɲumanya		Ɲumaya										
 4363400872	Bon travail!	bk	I ni baara!												phrase
 -55856535118	Bon	yq	Ɲuman		Ɲɛɛ (v. Intrans.)										essentiel
@@ -144,6 +146,7 @@
 3671015070	Caffard	bk	Ɲɛmbɛrɛ												animal bouake
 -18767289424	Cahier / papier	bk	Sɛbɛ												essentiel
 1529143433473	Cailloux / Gravier	yq	Bɛrɛ												
+1529678551512	Calcul mathématique	yq			Jateminɛ										
 27946172083	Camarade de classe	yq	Lakɔli filankuru												gens
 10324820876	Canard	bk	Tongonon												animal marked
 -25715028728	Canari	bk	Daga												essentiel
@@ -235,6 +238,7 @@
 -54727441325	Compréhension	yq	Faamuli		Faamuyali		Famuli								
 1445272529459	Comprendre	yq	Faamu												vt
 27946172088	Comprimé	bk	Filakise												gens
+1529678551513	Comptes	yq			Jateminɛw										
 1529227811242	Concombre	wt	kɔkɔnburu												nourriture
 1529143433492	Condamnation	yq	Jalakili												
 28382876279	Condiments	yq	Nanfɛnw												nourriture
@@ -302,6 +306,7 @@
 27946172033	Dessous / Sous	yq	Jukɔrɔ												
 -3222246334	De temps en temps	bk	Tuma dɔw / tuma dama dama												marked
 -55856535148	Détruire	yq	Halaki												
+1529678551506	Deuxièmement	yq			Filanan										
 -17509773102	Deuxième nouvelle (un peu en dessous)	bk	Dɔɔni be a kɔrɔ												phrase
 -8099771854	Devant	yq	Ɲɛ fɛ		Ɲɛ										
 27946172050	Devenir	yq	Kɛ ... yɛ												verbe
@@ -389,6 +394,7 @@
 27946172052	Exciser	yq	Kɛnɛ-kɛnɛ		Kɔrɔ		Kɔrɔ		Siginɛgɛ						santé
 -5643947273	Exemple	yq	Ɲɛyirali		Nyɛyirali		Misali								
 2477221638	Explication		Sɛgɛsɛgɛli												
+1529678551516	Faim	yq			Kɔngɔ										
 -55856535168	Faire	yq	Kɛ												verbe
 26568426171	Fais le venir.	bk	Taa a la na.												bouake phrase
 -55362297432	Famille étendue	bk	Somogow												essentiel
@@ -675,6 +681,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946171975	Musicien	yq	Dɔnkilidala												gens
 27946171935	Naître / Reproduire (enfants)	yq	Bange		Wolo		Wolo		Wolo						santé
 1529657783622	Narine						nuwo,nufile	bm							corp
+1529678551520	Natte	yq			Dɛbɛ										
 4363400883	N'avoir pas mangé et n'avoir pas dormi ne sont pas bon.	bk	Domunikɛbaliya ni sunɔgɔbaliya, o man ɲi.												phrase
 -54218752718	Ne me regarde pas	bk	Kana n filɛ												phrase
 4363400862	Ne nous frappe pas.	bk	Kana an bugɔ.												phrase
@@ -750,6 +757,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -17508233029	Pas de maladie est l'ami de l'homme.	bk	Banan tɛ mɔgɔ teri ye.												phrase
 -44178557456	Passer / dépasser	bk	Tɛmɛ												verbe
 27946172140	Passer	yq	Tɛmɛ												verbe
+1529678551511	Passion	yq			Jarabi										
 -53015680904	Patate	bk	Woso												nourriture
 -53015256195	Patate grillé	bk	Woso yirani												nourriture
 -53015739901	Pâte d'arachide	bk	Tiga dɛgɛ												nourriture
@@ -767,6 +775,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 1529143433485	Peau	yq	Fara				wòlo	bm							corp
 -55856535141	Pécher	bk	Jurumu												verbe
 27809169050	Pénis	yq alasane	Fɔrɔ		Sogoni										corp
+1529678551517	Pensée	yq			Miriya										
 -53545395751	Penser	yq	Miiri		Mirili		Miiri		Bisigi						
 1529191270204	Pensez-y	wt	Miiri k’a filɛ												
 -18766567636	Perdre	bk	Tunu												leech verbe
@@ -817,6 +826,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 26986729853	Pour sa part / quant à	bk	Kɔni												connecteur
 1529143433502	Pour	yq	Kɔsɔn												?
 -54727515367	Pousser  / motiver	bk	Lasun												leech verbe
+1529678551518	Poussière	bk	Pusiyeri		Buguri										
 -16607231724	Prendre / choisir	bk	Ta												verbe
 27946172059	Prendre garde	yq	Kɔlɔsi												verbe
 27946172134	Prendre	yq	Ta												verbe
@@ -930,6 +940,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946172005	Soigner	yq	Fura	verbe											santé
 -53807309109	Soir	yq	Wula												
 27946172131	Soldats	yq	Sɔrɔdasiw												gens
+1529678551510	Sol	yq	Duguman		Duguma		Dugukolo								
 28382876293	Sorgho	yq	Binbiri												nourriture
 -16527240875	Sorte	yq	Sifa												
 -44437908548	Sortir	bk	Bɔ												verbe
@@ -939,6 +950,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946171971	Soutien / Aide	yq	Dɛmɛli												
 1529657783634	Squelette						kolojalan	bm							corp
 27946171937	Stérilité	yq	Bangekɛbaliya												santé
+1529678551508	Stylo	yq	Biki		Sɛbɛri kɛlan		Biki								
 27946172148	Sucrer	yq	Timi												verbe
 1529143433521	Sucre	yq	Sukaro												nourriture
 27946172158	Sud	yq	Worodugu yan fan fɛ												
@@ -961,6 +973,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -55856535125	Tomber	yq	Bɛn												vi
 27946172120	Tonnerre	yq	Sanpɛrɛ												
 1529143433523	Totem	yq	Tana												
+1529678551515	Tôt le matin	yq			Joona sogoma		Sogoma da joona fɛ								
 -27502669907	Toujours	yq	Bele												
 -6416047111	Tous le temps cest pas le meme chez dieu	bk	Wagati bɛɛ tɛ kelen ye ala fɛ												phrase
 1529496492240	Tousser		Sɔgɔsɔgɔ												
@@ -1020,7 +1033,9 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946171977	Villageois	yq	Dugumɔgɔ												gens
 -17134557414	Ville / région	bk	Dugu												
 27946172010	Ville voisine	yq	Gɛrɛfɛ dugu												
+1529678551509	Ville	yq	Dugokɔnɔ		Duguba										
 1529657783638	Visage						ɲɛda,ɲɛna	bm							corp
+1529678551514	Vite, tôt	yq			Joona										
 -55856535145	Vivre	bk	Ɲɛnamaya												verbe
 27249273076	Voir	yq		I ka mobili ye	Ye										vt
 27946172124	Voisin	yq	Sigiɲogon												gens
