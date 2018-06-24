@@ -41,7 +41,6 @@
 21895485548	Allons	bk	An ye taga.	CIV			An ka taga.	MLI							phrase
 -40318372109	Alors puis maintenant donc	bk	Ayiwa...												connecteur essentiel
 -53958647743	Amie	bk	Terimuso												essentiel
-1529703600712	Ami	kodi	Teri												essentiel kodi
 -48185883129	Amitié	bk	Teriya												
 -52668375815	Ami	yq	Tericɛ		Teri										gens
 -16607429763	À mon avis	bk	Ne ya hakili la												phrase
@@ -90,7 +89,7 @@
 27946172099	Automobiliste	yq	Mobilitigi												gens
 1528479911911	Au travail	yq	Baarakɛyɔrɔ la												
 -53807402499	Autre	yq	Wɛrɛ												connecteur essentiel
-22159347319	Avant de	yq	Kasɔrɔ ka		Ka sɔrɔ		Sanni								marked connecteur
+22159347319	Avant de	yq	Kasɔrɔ ka		Ka sɔrɔ										connecteur marked
 -48185883138	Avant hier	bk	Kuna sini												calendrier
 22159483862	Avant que	yq	Sani		Yanni ka sɔrɔ ka ...										marked connecteur
 -18512251732	À venir / Prochain	yq	Nata												
@@ -99,7 +98,7 @@
 27946171927	Avion	yq	Aviyɔn												
 27946172062	Avortement	yq	Kɔnɔcɛn												santé
 -54126222165	Avril	yq	Awirilikalo		Awrili										calendrier
-1529678551519	Ballon	yq			Balɔn										
+1529678551519	Ballon	yq	Balɔn												
 28382876274	Banane	yq	Baranda												nourriture
 27809169045	Barbe	yq	Bonbonsi				Boonsi	bm							corp
 -55856535128	Bateau	bk	Kurunba		Kurun										essentiel
@@ -118,6 +117,7 @@
 1529143433474	Bobo-Dioulasso	yq	Bobo-Julaso												lieux
 -53545395752	Boeuf	yq	Misi tora		Misi										animal
 -53257498070	Boire	yq kodi	Min		Mini kɛ										verbe
+-53958647744	Bolo	bk	Bras												delete
 -48185883137	Bon appétit	bk	Ala y'a suma i kɔnɔ												phrase
 4363400867	Bon, je m'en vais.	bk	Ayiwa, n be taga.												marked phrase
 27946172106	Bonne épouse	yq	Muso ɲuman												gens
@@ -127,15 +127,17 @@
 -27001359839	Bonne route (arriver)	bk	Ala y'a ɲuma se												marked phrase
 -27001294005	Bonne route (arrivé / retour)	bk	Ala y'a ɲuma nan												phrase
 -19754582047	Bonne soirée	bk	Ala ye wula nɔgɔya												phrase
-1529678551507	Bon sens / Sagesse	yq			Hakilitigiya		Hakili ɲuman								
+1529678551507	Bon sens / Sagesse	yq	Hakilitigiya				Hakili ɲuman								
 -5642987963	Bonté	yq	Ɲumanya		Ɲumaya										
 4363400872	Bon travail!	bk	I ni baara!												phrase
 -55856535118	Bon	yq	Ɲuman		Ɲɛɛ (v. Intrans.)										essentiel
-1529657783603	Bouche						da	bm							corp
+1529657783603	Bouche		da					bm							corp
 28382876276	Bouillie	yq	Baga												nourriture
 27946172156	Bouillir	yq	Wili wili												verbe
 28382876277	Bouillon	yq	Nanji												nourriture
+28368569026	Bouton	alasane	Suguni		Sumuni										delete
 27946172133	Bouton / Furoncle	yq	Sumunin		Suguni		Sumunin								santé
+1529657783604	Bras		bolo				bolo	bm							delete
 27946172139	Bras / Main	yq	Bolo				Bolo	bm							corp
 -54218752726	Ça, celui-ci, celui-là	bk	Nin												essentiel
 1529143433514	Cadeau	yq	Nilifɛn		Kado		Kado								
@@ -144,7 +146,7 @@
 3671015070	Caffard	bk	Ɲɛmbɛrɛ												animal bouake
 -18767289424	Cahier / papier	bk	Sɛbɛ												essentiel
 1529143433473	Cailloux / Gravier	yq	Bɛrɛ												
-1529678551512	Calcul mathématique	yq			Jateminɛ										
+1529678551512	Calcul mathématique	yq	Jateminɛ												
 27946172083	Camarade de classe	yq	Lakɔli filankuru												gens
 10324820876	Canard	bk	Tongonon												animal marked
 -25715028728	Canari	bk	Daga												essentiel
@@ -184,10 +186,8 @@
 -52064831738	Ceux-ci	bk	Ninugu												essentiel
 -16729707913	Ceux la	bk	Nunugu / nunu												essentiel
 4696360801	Chaise	bk	Sigilan												essentiel
-1529703600701	Chaise	kodi	Sigilan												essentiel kodi
 3755562597	Chameau	yq	Ɲɔgɔmɛ												animal marked
 -18161797927	Champ de riz	bk	Malo foro												
-1529703600714	Champ	kodi	Foro												essentiel kodi
 -7540359438	Changement	yq	Yɛlɛmali		Yɛlɛmani										
 -17233546115	Changer	bk	Yɛlɛma												verbe
 -53241136646	Chanson	bk	Dɔnkili												
@@ -207,8 +207,8 @@
 -54031985691	Chemise	bk	Dereke												essentiel
 -18766798266	Chercher	yq	Ŋini		Ɲini										verbe
 -55856535108	Cheval / maison	bk	Soo												animal
-1529657783605	Cheveu						kùnsigi	bm							corp
--53958647742	Cheveux	yq	Kunsigi												corp
+1529657783605	Cheveux						kùnsigi	bm							delete
+-53958647742	Cheveux	yq	Kunsigi				kùnsigi	bm							corp
 1529657783606	Cheville						ntàma,ntàmàkuru	bm							corp
 3670546453	Chèvre de montagne	bk	Kongo baa												animal
 -55856535176	Chèvre	yq	Baa												animal
@@ -238,7 +238,7 @@
 -54727441325	Compréhension	yq	Faamuli		Faamuyali		Famuli								
 1445272529459	Comprendre	yq	Faamu												vt
 27946172088	Comprimé	bk	Filakise												gens
-1529678551513	Comptes	yq			Jateminɛw										
+1529678551513	Comptes	yq	Jateminɛw												
 1529227811242	Concombre	wt	kɔkɔnburu												nourriture
 1529143433492	Condamnation	yq	Jalakili												
 28382876279	Condiments	yq	Nanfɛnw												nourriture
@@ -264,6 +264,7 @@
 27946172141	Couper / Traverser	yq	Tigɛ												verbe
 27946172063	Couple	yq	Kɔɲɔcɛ ni kɔɲɔmuso												gens
 -5644181930	Courage	yq	Jagwɛlɛya		Jagɛlɛya		Lasun								
+-53241055339	Courir	bk	Bori												delete
 28382876280	Couscous	yq	Basi												nourriture
 27946171941	Cousin	yq	Belenden												
 -25714986524	Couteau	yq	Muru												
@@ -292,6 +293,7 @@
 -53873102985	Demain	yq	Sini												calendrier
 -16979685475	Demande lui	bk	A ɲini ka												phrase
 1529143433496	Demander à boire	yq	Ka minji deli												
+-19139843034	Demander / prier	bk	Daari												delete
 -44647367870	Demander	yq	Ɲiniga		Deli		Mɔgɔ ɲinigan fɛn na		Fɛn ɲini mɔgɔ fɛ						verbe
 27809169059	Dent	yq	Ɲiin				ɲi	bm							corp
 -55856535106	Dépouilles, morts	bk	Suw												
@@ -304,7 +306,7 @@
 27946172033	Dessous / Sous	yq	Jukɔrɔ												
 -3222246334	De temps en temps	bk	Tuma dɔw / tuma dama dama												marked
 -55856535148	Détruire	yq	Halaki												
-1529678551506	Deuxièmement	yq			Filanan										
+1529678551506	Deuxièmement	yq	Filanan												
 -17509773102	Deuxième nouvelle (un peu en dessous)	bk	Dɔɔni be a kɔrɔ												phrase
 -8099771854	Devant	yq kodi	Ɲa fɛ	civ	Ɲɛ fɛ	bfa									essentiel
 27946172050	Devenir	yq	Kɛ ... yɛ												verbe
@@ -328,7 +330,6 @@
 27946171979	Douanier	yq	Duwaɲɛcɛ												gens
 26641994456	Douter	yq	Siga												verbe
 -55856535170	Droite	bk	Bolo ɲuman	CIV	Kini bolo	MLI									essentiel
-1529703600709	Durer	kodi	Mɛɛn												essentiel kodi
 27946172014	Dûr / Solide	yq	Gwɛlɛ												essentiel
 3827696317	Eau	yq	Jii												essentiel
 -53958647739	École	yq	Lakɔli												
@@ -382,18 +383,18 @@
 4363400869	Est-ce que ton travail te satisfait?	bk	I ta baara ka ɲi i ma wa?												phrase
 1529657783611	Estomac						fùru	bm							corp
 27946172147	Est (point cardinal)	yq	Tilebɔ		Kɔrɔn		Kɔrɔn								
+-7455322472	Et 	bk	...ni...		...ani...										essentiel
 27946172151	Éternuer	yq	Tiso												santé
 -53545395750	Étoile	yq	Lolo												essentiel
 -44437573903	Étranger	bk	Lonacɛ		Lonan		Dunan		Lonacɛ						gens
 27946172038	Être naturel	yq	Ka kɛ i yɛrɛ ye												
--7455322472	Et / si	bk	...ni...		...ani...										essentiel
 -18512314835	Étudiant	yq	Lakoliden		Kalanden										gens
 -16392853323	Étudier profondément	bk	Kalen kɔ sɛgɛsɛgɛ												marked verbe
 -55365492608	Européen	bk	Tubabu												essentiel
 27946172052	Exciser	yq	Kɛnɛ-kɛnɛ		Kɔrɔ		Kɔrɔ		Siginɛgɛ						santé
 -5643947273	Exemple	yq	Ɲɛyirali		Nyɛyirali		Misali								
 2477221638	Explication		Sɛgɛsɛgɛli												
-1529678551516	Faim	yq			Kɔngɔ										
+1529678551516	Faim	yq	Kɔngɔ												
 -55856535168	Faire	yq	Kɛ												verbe
 26568426171	Fais le venir.	bk	Taa a la na.												bouake phrase
 -55362297432	Famille étendue	bk	Somogow												essentiel
@@ -405,7 +406,7 @@
 -55856535119	Femme	bk	Muso												essentiel
 27946171969	Fermer / Enfermer / Couvrir	yq	Tugu		Datugu										verbe
 -19139632939	Fer	yq	Nɛgɛ												
-28368362045	Fesse	alasane	bobara				jùkuna,jùmugu	bm							corp
+28368362045	Fesse	alasane	Bobara				jùkuna,jùmugu	bm							corp
 -16300653533	Feuille	bk	Flaburu		Furaburu										
 27946172137	Feu	yq	Tasuma		Ta		Ta								
 -54126282469	Février	yq	Feburukalo												calendrier
@@ -427,7 +428,6 @@
 27946171997	Fou	yq	Fatɔ												gens
 -53805499233	Français	yq	Faransika		Faransikan										
 1529143433486	France	yq	Faransi jamana												lieux
-1529703600711	Frapper	kodi	Bugɔ												essentiel kodi verbe
 -18162625383	Frère	bk	Balimancɛ												essentiel gens
 27946171983	Frère / Demi-frère	yq	Faden												gens
 4947716332	Frère (même mère)	bk	Badencɛ												gens
@@ -435,7 +435,6 @@
 1529657783612	Front						ten,fɔn	bm							corp
 -19139454040	Fruit	bk	Yiriden												
 1527946171945	Fuir / Echapper / Courir / Conduire	kodi	Bori		Boli										essentiel vi
-1529703600703	Fusil	kodi	Marfa												essentiel kodi
 28382876282	Galette	yq	ɳɔmi												nourriture
 -55856535163	Garçon	bk	Dencɛ												essentiel
 -201499735	Garder (promesse)	bk	Dafa												marked verbe
@@ -485,7 +484,6 @@
 -3743863285	Humilier	bk	Maroya												bouake marked verbe
 27809169043	Humilité / Modestie	yq	Majigilenya												
 27946172116	Hygiène / Propreté	yq	Saniya												santé
-1529703600717	Ici	kodi	Yan												essentiel kodi
 -25714846273	Ici	yq	Yan												
 Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	note5	Jula6	Note6	Tags
 #Note ID	French	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	Note5	Jula6	Note6	tags
@@ -520,6 +518,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -12494899734	Inquiéter	bk	Jɔɔrɔ												verbe
 1529143433524	Interdit (c'est), totem	yq	Tana lo												
 -55856535139	Interdit	yq	Kana		Dagalen tɛ										essentiel
+1529657783614	Intestin						nùgu	bm							delete
 28367778141	Intestins	alasane	Kɔnɔ nogo				Nugu	bm							alasane corp
 1529143433530	Invisible	yq	Yebali												marked
 -16607061439	J'ai besoin de toi	bk	N'mako b' i la												phrase
@@ -531,7 +530,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -5926384811	J'ai un rhume.	bk	Mura be n na.												phrase
 27946171922	Jamais (à)	yq	Abada												
 -55856535184	Jamais	yq	Abada		Fewu		Ka ye								essentiel
-1529657783615	Jambe						sen	bm							corp
+1529657783615	Jambe		Sen				sen	bm							corp
 -54126345103	Janvier	yq	Zanwiyekalo		Zanwiye										calendrier
 -7840058159	Jaune	yq	Nere		Nɛrɛnu(man)										couleur
 27946172030	Jeans	yq	Jini												
@@ -570,10 +569,25 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 26984085147	Jusqu'à présent	yq	Halibi		Hali bele		Hali bele								
 -1161731729	Juste	yq	Tilenin		Tilennen										marked
 -1161642427	Justice	bk	Tileninya												marked
+	Mettre	kodi	Bla												essentiel kodi verbe
+	Frapper	kodi	Bugɔ												kodi essentiel verbe
+	Peu	kodi	Dɔɔni												kodi essentiel
+	Champ	kodi	Foro												kodi essentiel
+	Fusil	kodi	Marfa												kodi essentiel
+	Durer	kodi	Mɛɛn												kodi essentiel
+	Petit	kodi	Misɛn												kodi essentiel
+	Mosqué	kodi	Misiri												kodi essentiel
+	Chaise	kodi	Sigilan												kodi essentiel
+	Nuit	kodi	Su												kodi essentiel
+	Table	kodi	Tabali												kodi essentiel
+	Ami	kodi	Teri												kodi essentiel
+	Rester	kodi	To												kodi essentiel verbe
+	Nom	kodi	Tɔgɔ												kodi essentiel
+	Ici	kodi	Yan												kodi essentiel
 -31737738050	La-bas	bk	Yan fɛ ye												marked
+	La / La-bas	kodi	Yen												essentiel kodi
 -19139389977	Lait caillé	bk	Nɔnɔ kumu												nourriture
 -53545395748	Lait	yq	Nɔnɔ												nourriture
-1529703600702	La / La-bas	kodi	Yen												essentiel kodi
 -7878496085	La matinée est arrivée; il n'y a rien de mal	bk	Dugu gwɛ la; foyi tɛ												phrase
 28368284086	Langue	alasane	Nɛɛn		Nɛɛnkun		Nɛ	bm							corp
 27946172152	Langue des signes	yq	Tulogwɛlɛnw ka kumacogo												
@@ -595,8 +609,9 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -15267346936	Le prix n'est pas cher	bk	A sɔngɔ ma ca												phrase
 4363400887	Les parents de fanta sont venus nombreux pour son mariage.	bk	Fanta balimaw nan na ka caya a furuko kosɔn.												phrase
 4363400877	L'essence est fini.  C'est grave.	bk	Taji bana. O kɛra baasi ye.												phrase
-1529657783617	Lèvre						dawolo	bm							corp
-28368192363	Levres	alasane	Dagwolo												alasane corp
+	Se lever	kodi	Wuli												kodi essentiel verbe
+1529657783617	Lèvre						dawolo	bm							delete
+28368192363	Levres	alasane	Dagwolo				dawolo	bm							alasane corp
 1529143433507	Le week-end	yq	Lɔgɔkun laban na												marked
 28371300085	L'homme a une jambe	alasane	Cɛ sen kelen												alasane corp
 1538655602	L'homme lui-même	bk	Mɔgɔ yɛrɛ												gens
@@ -619,9 +634,8 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27206246061	Lutter		Kɛlɛ	CIV	Bondori	BFA									
 -25714963738	Machette	bk	Bese												essentiel
 28368987505	Machoire	alasane	Dagwana												alasane corp
-1529657783618	Mâchoire						dakolo,dagɛlɛkɛ	bm							corp
+1529657783618	Machoire						dakolo,dagɛlɛkɛ	bm							corp
 27946172127	Maintenant / Tout de suite	yq	Sisan												
-1529657783619	Main						tɛgɛ	bm							corp
 22159414639	Mais	bk	Nka												connecteur
 -53958647735	Maison / Bâtiment / Chambre	bk	 Soo		Bon (n.)										essentiel
 -52139281000	Maïs	yq	Kaba												nourriture
@@ -635,7 +649,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -10943763535	Mal	yq	Dimi		Basi										
 27946171932	Maman (personnelle)	yq	Bamuso												gens
 27946172092	Maman	yq	Mama												gens
-28367029046	Mamelon	alasane	Siin												corp
 -53257466897	Manger	yq	Domuni kɛ		Dumuni kɛ										verbe
 -53015823452	Mangue	bk	Mangoro												nourriture
 1527665647867	Manière	yq	Cogoya												
@@ -650,6 +663,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -54126250680	Mars	yq	Marisikalo												calendrier
 -53807343565	Matin	bk	Sɔgɔma												calendrier essentiel
 -55856535143	Mauvais	bk	Jugu												essentiel
+	Usagé / Mauvais	kodi	Kolon												kodi essentiel
 27946172004	Médicament	yq	Fila		Fura										santé
 27946172006	Meilleurs soins	yq	Furakɛcogo fisamanw												santé
 -4431224777	Même	kodi	Yɛrɛ												
@@ -661,7 +675,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -55000189428	Mercredi	bk	Arabalɔn / Araba	CIV	Arabalɔn	BFA	Arabadɔn / Araba	MLI							calendrier
 -53958647745	Mère	bk	Bamuso												essentiel gens
 27946171963	Mettre fin	yq	Daan sigi												verbe
-1529703600710	Mettre	kodi	Bla												essentiel kodi verbe
 27946172100	Meurtrier	yq	Mɔgɔ fagala												gens
 27946171933	Microbe	yq	Banakisɛ												santé
 -7651829509	Miel	yq	Li												nourriture
@@ -671,7 +684,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -52670184468	Monde / terre	bk	Duniɲa												wt
 -51725530041	Montre	bk	Mɔntɔrɔ												
 -45246239492	Montrer	yq	Yira		Yira mɔgɔ la										verbe
-1529703600713	Mosqué	kodi	Misiri												essentiel kodi
 27946172072	Mot	yq	Kumaden		Daɲɛw		Daɲɛw								
 27768736666	Mouche	yq	Limɔgɔ												animal
 -55856535111	Mourir	bk	Saya												verbe vi
@@ -685,7 +697,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946171975	Musicien	yq	Dɔnkilidala												gens
 27946171935	Naître / Reproduire (enfants)	yq	Bange		Wolo		Wolo		Wolo						santé
 1529657783622	Narine						nuwo,nufile	bm							corp
-1529678551520	Natte	yq			Dɛbɛ										
+1529678551520	Natte	yq	Dɛbɛ												
 4363400883	N'avoir pas mangé et n'avoir pas dormi ne sont pas bon.	bk	Domunikɛbaliya ni sunɔgɔbaliya, o man ɲi.												phrase
 -54218752718	Ne me regarde pas	bk	Kana n filɛ												phrase
 4363400862	Ne nous frappe pas.	bk	Kana an bugɔ.												phrase
@@ -697,7 +709,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -8088212970	Noir	yq	finman												
 -17508277250	Nombreux	yq	Cayala		Ca (ka)										
 28367944447	Nombril	alasane	Bara kun		Kɔnɔbara		bàra	bm							corp
-1529703600716	Nom	kodi	Tɔgɔ												essentiel kodi
 -25715063327	Non	bk	Ɔn ɔn												essentiel question
 27946172056	Nord	yq	Kɔgɔdugu yan fan fɛ												
 25810073427	Nourrir	bk	Balo												marked verbe vi
@@ -708,7 +719,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -15920650123	Nouveau	bk	Kura												essentiel
 -18162100858	Nouvelles	bk	Kibaro												
 -54293052445	Novembre	yq	Novanburukalo		Novanburu										calendrier
-1529703600705	Nuit	kodi	Su												essentiel kodi
 27809169053	Nuque	yq	Kaankala				tɔn	bm							corp
 1529143433488	Nu	yq	Farilakolon												corp
 -55856535122	Obéir	yq	Kanminɛ		Kaan minɛni kɛ		Kolo		Kanminɛ						marked verbe
@@ -729,9 +739,9 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -1171839580	Orgeuil	yq	Kuncɛbaya												
 27946172075	Orgueilleux	yq	Kuncɛba												gens
 27946171986	Orphelin	yq	Falatɔ												gens
-1529657783624	Orteil						sènnkɔni	bm							corp
+1529657783624	Orteil		Sen Kumande				sènnkɔni	bm							corp
 1529143433517	Or	yq	Sanu												
-1529657783625	Os						kolo	bm							corp
+1529657783625	Os		Kolo				kolo	bm							corp
 27206573736	Ou bien	bk	Wala	CIV	Walama	BFA	Walima								connecteur
 4363400855	Ou est Awa? Elle est dans la maison.	bk	Awa be min? A be bon kɔnɔ.												phrase
 27946172146	Ouest	yq	Tileben												
@@ -763,14 +773,15 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -17508233029	Pas de maladie est l'ami de l'homme.	bk	Banan tɛ mɔgɔ teri ye.												phrase
 -44178557456	Passer / dépasser	bk	Tɛmɛ												verbe
 27946172140	Passer	yq	Tɛmɛ												verbe
-1529678551511	Passion	yq			Jarabi										
+1529678551511	Passion	yq	Jarabi												
 -53015680904	Patate	bk	Woso												nourriture
 -53015256195	Patate grillé	bk	Woso yirani												nourriture
 -53015739901	Pâte d'arachide	bk	Tiga dɛgɛ												nourriture
 27946172112	Patron	yq	Patɔrɔn												gens
+1529657783619	Paume		tɛgɛ				tɛgɛ	bm							corp
 27809169061	Paume	yq	Tɛgɛ		Tigɛ		Tigɛ								corp
-28366354150	Paupière	alasane	Ɲa fara												alasane corp
-1529657783626	Paupière						ɲɛfara,ɲɛwolo	bm							corp
+28366354150	Paupière	alasane	Ɲa fara				ɲɛfara,ɲɛŵolo	bm							alasane corp
+1529657783626	Paupière						ɲɛfara,ɲɛŵolo	bm							delete
 1529143433503	Pause / Repos / Sièste	yq	Lafiyɛn												marked
 27946171981	Pauvres	yq	Faantanw												gens
 6102892193	Pauvreté	yq	Fantanya												
@@ -781,7 +792,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 1529143433485	Peau	yq	Fara				wòlo	bm							corp
 -55856535141	Pécher	bk	Jurumu												verbe
 27809169050	Pénis	yq alasane	Fɔrɔ		Sogoni										corp
-1529678551517	Pensée	yq			Miriya										
+1529678551517	Pensée	yq	Miriya												
 -53545395751	Penser	yq	Miiri		Mirili		Miiri		Bisigi						
 1529191270204	Pensez-y	wt	Miiri k’a filɛ												
 -18766567636	Perdre	bk	Tunu												leech verbe
@@ -797,8 +808,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -55362297434	Petit-frère	bk	Dogocɛ												essentiel
 -3849977637	Petit frère	bk	Dɔgɔcɛ												essentiel gens
 -52656018475	Petit garçon	bk	Cɛdennin												gens
-1529703600708	Petit	kodi	Misɛn												essentiel kodi
-1529703600704	Peu	kodi	Dɔɔni												essentiel kodi
 27946171953	Peuple / Descendance	yq	Bɔnsɔn		Jama		Jama								gens
 3747847407	Peur	yq	Siran		Jatigɛ		Jatigɛ								
 -4633571900	Peut-être	yq	N'a sɔrɔ		I be taa a sɔrɔ										connecteur essentiel marked
@@ -892,7 +901,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946172041	Résister	yq	Ka to kelen kan		Lafasa		Lafasa								verbe
 -8520295119	Respect	bk	Bonya (n.)												
 1529143433511	Respirer / Respiration / Respiratoire	yq	Nɛnɛkiri		Nɛnɛkili										santé
-1529703600715	Rester	kodi	To												essentiel kodi verbe
 4897052312	Reveiller	bk	Lakunu		Kunu										verbe vt
 -9558056281	Revenir	yq	Sekɔ		Ka kɔsegin ka na										calendrier verbe vi
 1529143433499	Rhumatisme	yq	Koloci												santé
@@ -925,8 +933,8 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946172160	Sculpteur	yq	Yirilɛsɛla												gens
 27946172011	Secret	yq	Gundo												
 27946172069	S'écrier / Crier	yq	Kule		Ka kule		Ka kule								verbe
-1529657783632	Sein						sin	bm							corp
-1529703600707	Se lever	kodi	Wuli												essentiel kodi verbe
+28367029046	Sein	alasane	Siin				Sin	bm							corp
+1529657783632	Sein		Sin					bm							corp
 27946171944	Selles / Excréments	yq	Bo												corp
 28382876291	Sel	yq	Kɔgɔ												nourriture
 -53873303585	Semaine	yq	Lɔgɔkun	CIV			Dɔgɔkun	MLI							calendrier
@@ -964,14 +972,13 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946172148	Sucrer	yq	Timi												verbe
 1529143433521	Sucre	yq	Sukaro												nourriture
 27946172158	Sud	yq	Worodugu yan fan fɛ												
-1529657783635	Sueur						wɔsiji	bm							corp
+1529657783635	Sueur		Wɔsiji				wɔsiji	bm							corp
 27946172081	Suggestion / Conseil / Recommandation	yq	Ladili												verbe
 -31737613286	Sur	yq	Kan												
 -52064706662	S.v.p.	bk	Hakɛ to												essentiel
-1529703600700	Table	kodi	Tabali												essentiel kodi
 27946171989	Tailleur	yq	Fanikalanla												gens
 -15925527333	Tais-toi !	bk	I da tugu !												phrase
-1529657783636	Talon						tontòli	bm							corp
+1529657783636	Talon	jm	Sen ju				Sen tontòli	bm							corp
 -53806530587	Tante	yq	Tenɛmuso												gens
 4363400857	Ta voiture, je ne l'ai pas encore vue.	bk	I ta mobili, n m'a ye fɔlɔ.												marked phrase
 27946172150	Tee-shirt	yq	Tiriko												
@@ -1010,7 +1017,6 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -5841878338	Un long chemin	bk	Sira ka jan												phrase
 28382876292	Un / Seul	bk	Kelen												
 27809169058	Uriner	yq	Ɲɛgɛnɛ												corp
-1529703600706	Usagé / Mauvais	kodi	Kolon												essentiel kodi
 27809169048	Utérus	yq	Denso												corp
 27946171947	Vaccination	yq	Boloci												santé
 27946172035	Vacciner	yq	Ka boloci												santé
@@ -1026,7 +1032,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 4696293185	Venir	yq	Na												verbe
 -15925488548	Vent	bk	Fɔɲɔ												
 28382876294	Ventre / Intérieur	yq	Kɔnɔ (n.)												corp
-1529657783637	Ventre						kɔnɔ,kɔnɔbara	bm							corp
+1529657783637	Ventre		Kɔnɔ				kɔnɔ,kɔnɔbara	bm							corp
 27946172138	Véritable ami	yq	Teri sɔbɛ												gens
 -52670184469	Vérité	yq	Tiɲɛ												
 27946171987	Vers	yq	Fan fɛ		Tumuw		Tumuw								
@@ -1049,7 +1055,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 1529657783638	Visage						ɲɛda,ɲɛna	bm							corp
 1529678551514	Vite, tôt	yq	Joona												
 -55856535145	Vivre	bk	Ɲɛnamaya												verbe
-27249273076	Voir	yq		I ka mobili ye	Ye										vt
+27249273076	Voir	yq	Ye	I ka mobili ye											vt
 27946172124	Voisin	yq	Sigiɲogon												gens
 -53958647746	Voiture	yq	Mobili												essentiel
 27946172043	Voix	yq	Kan												
