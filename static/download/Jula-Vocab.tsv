@@ -72,7 +72,7 @@
 21895511963	Arretes-toi	bk	Ile lɔ												phrase
 27946172153	Arrière petit fils	yq	Tulomasama												gens
 -3852135199	Arriver	bk	Se												verbe vi
-1529657783602	Artère						jòlìbìlènsira	bm							corp
+1529657783602	Artère						jòlìbìlènsira	bm							delete
 1529143433475	Artisant	yq	Bololabaara												gens
 1529143433520	Aspect / Apparence / Forme	yq	Sawura		Kɛcogo		Kɛcogo								
 -19140257313	Assiette	bk	Tasa												essentiel
@@ -132,7 +132,7 @@
 -5642987963	Bonté	yq	Ɲumanya		Ɲumaya										
 4363400872	Bon travail!	bk	I ni baara!												phrase
 -55856535118	Bon	yq	Ɲuman		Ɲɛɛ (v. Intrans.)										essentiel
-1529657783603	Bouche		da					bm							corp
+1529657783603	Bouche		Da					bm							corp
 28382876276	Bouillie	yq	Baga												nourriture
 27946172156	Bouillir	yq	Wili wili												verbe
 28382876277	Bouillon	yq	Nanji												nourriture
@@ -219,7 +219,7 @@
 -19140002611	Chiot	bk	Wuluden												animal
 -55856535142	Chose	kodi	Fɛɛn		Fɛn										essentiel
 27946172118	Ciel	yq	Sankolo												
-1529657783607	Cil						ɲɛsi,ɲɛwolosi	bm							corp
+1529657783607	Cil		Ɲɛsi				ɲɛsi,ɲɛwolosi	bm							corp
 27946171948	Circoncision / Excision	yq	Boloko		Kɛnɛkɛnɛ		Kɛnɛkɛnɛ		Bolo koli						santé
 27946171996	Citoyen	yq	Fasoden												gens
 -19139969925	Citron	bk	Lenburu kumu												nourriture
@@ -385,7 +385,7 @@
 -25715223912	Est-ce que...	bk	...wa												essentiel question
 -6414475196	Est-ce que c'est intéressant?	bk	O ka di wa?												phrase question
 4363400869	Est-ce que ton travail te satisfait?	bk	I ta baara ka ɲi i ma wa?												phrase
-1529657783611	Estomac						fùru	bm							corp
+1529657783611	Estomac		Kɔnɔ				fùru	bm							corp
 27946172147	Est (point cardinal)	yq	Tilebɔ		Kɔrɔn		Kɔrɔn								
 -7455322472	Et 	bk	...ni...		...ani...										essentiel
 27946172151	Éternuer	yq	Tiso												santé
@@ -624,8 +624,8 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -55000189430	Lundi	bk	Tɛnɛnlɔn / Tɛnɛn	CIV	Tɛnɛnlɔn	BFA	Ntɛnɛndɔn / Ntɛnɛn	MLI							calendrier
 27206246061	Lutter		Kɛlɛ	CIV	Bondori	BFA									
 -25714963738	Machette	bk	Bese												essentiel
-28368987505	Machoire	alasane	Dagwana												alasane corp
-1529657783618	Machoire						dakolo,dagɛlɛkɛ	bm							corp
+28368987505	Machoire	alasane	Dagwana				dakolo,dagɛlɛkɛ	bm							alasane corp
+1529657783618	Machoire						dakolo,dagɛlɛkɛ	bm							delete
 27946172127	Maintenant / Tout de suite	yq	Sisan												
 22159414639	Mais	bk	Nka												connecteur
 -53958647735	Maison / Bâtiment / Chambre	bk	 Soo		Bon (n.)										essentiel
@@ -693,7 +693,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 4363400883	N'avoir pas mangé et n'avoir pas dormi ne sont pas bon.	bk	Domunikɛbaliya ni sunɔgɔbaliya, o man ɲi.												phrase
 -54218752718	Ne me regarde pas	bk	Kana n filɛ												phrase
 4363400862	Ne nous frappe pas.	bk	Kana an bugɔ.												phrase
-1529657783623	Nerf						fàsàjuru,fàsàsira,sɔmìnan	bm							corp
+1529657783623	Nerf		Fasa Juru				fàsàjuru,fàsàsira,sɔmìnan	bm							corp
 -9126606725	Neuf / Nouveau	yq	Kura												phrase
 27946171939	Neveu	yq	Belen		Dɔgɔnin dencɛ		Dɔgɔnin dencɛ								
 -7791876226	Nez	yq	Nu				nu	bm							corp
@@ -819,8 +819,8 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -7791903746	Plante de pied	bk	Sen tɛgɛ												corp
 27946172049	Pleurer	yq	Kasi												verbe
 -55856535115	Pluie / Année	kodi	Sanji												essentiel
-1529657783627	Poignet						bolokan,bolonɛgɛladonyɔrɔ	bm							corp
-27809169060	Poil	yq	Sii												corp
+1529657783627	Poignet		Bolokan				bolokan,bolonɛgɛladonyɔrɔ	bm							corp
+27809169060	Poil	yq	Sii				Sin	bm							corp
 27809169044	Poing	yq	Bolokuru				bolokurun	bm							corp
 1529143433515	Poison	yq	baga		Pɔsɔni										marked
 -8521542029	Poisson fumé	bk	Jɛgɛ usu												nourriture
@@ -832,8 +832,8 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 -7792085208	Pouce	bk	Bolo kumande ba				bolonkɔnikunba	bm							corp
 27768736672	Poulet	yq	Sisɛ	BFA	Sɛsɛ		Sɛsɛ								animal
 1529657783628	Pouls						pu	bm							corp
-1529657783629	Poumon						fogonfògon	bm							corp
-28367609785	Poumons	alasane	Sɔɔn kuna kuna												alasane corp
+1529657783629	Poumon						fogonfògon	bm							delete
+28367609785	Poumons	alasane	Sɔɔn kuna kuna				fogonfògon	bm							alasane corp
 22159427790	Pour cela	bk	kjb b												marked
 27207485786	Pourquoi ?	bk	Mu na?		Mun kosɔn?										question
 26986729853	Pour sa part / quant à	kodi	Kɔni												connecteur
@@ -931,7 +931,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27946172011	Secret	yq	Gundo												
 27946172069	S'écrier / Crier	yq	Kule		Ka kule		Ka kule								verbe
 28367029046	Sein	alasane	Siin				Sin	bm							corp
-1529657783632	Sein		Sin					bm							corp
+1529657783632	Sein		Sin					bm							delete
 1529703600707	Se lever	kodi	Wuli												essentiel kodi verbe
 27946171944	Selles / Excréments	yq	Bo												corp
 28382876291	Sel	yq	Kɔgɔ												nourriture
@@ -1023,7 +1023,7 @@ Note ID	Français	Source	Jula1	Note1	Jula2	Note2	Jula3	Note3	Jula4	Note4	Jula5	n
 27809169056	Vache	yq	Misi muso												animal
 27768736668	Veau	yq	Misiden												animal
 27946171946	Véhicule	yq	Mobili		Bolifɛn		Bolifɛn								
-28367971257	Veine	source	Fasa juru				jòlìfìnsira,jòlìsira	bm							corp
+28367971257	Veine	source	Joli sira				jòlìfìnsira,jòlìsira	bm							corp
 -19139544883	Vélo	yq	Nɛgɛso												
 27946171998	Vendeur	yq	Feerelikɛla												gens
 -55000189427	Vendredi	yq	Jumalɔn / Juma	CIV	Juman	BFA	Jumandɔn / Juman	MLI							calendrier
