@@ -22,7 +22,7 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-bootstrap-premium"
+theme = "huo-bootstrap-premium"
 # Pagination
 paginate = 10
 paginatePath = "page"
@@ -51,7 +51,7 @@ email = "bkelly@coastsystems.net"
 # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
 # slate, spacelab, superhero, united, yeti.
 
-bootswatchtheme = "flatly"
+bootswatchtheme = "paper"
 
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 #DefaultContentLanguageInSubdir = true
@@ -59,7 +59,7 @@ switchlang = false
 
 # You can use markdown here.
 BrandImage = "" #top header brand image.
-brand = "Coast Systems brand" # brand image alt text.
+brand = "Coast Systems  # brand image alt text.
 topline = "Lots of stuff here"
 #footline = "code with <i class='fa fa-heart'></i>"
 
@@ -121,7 +121,7 @@ extensionmask = []
   url = "fr"
 
 
-[[Languages.fr.menu.switchmenu]]
+[[Languages.fr.menu.switchlang]]
   name = "English"
   identifier = "en"
   weight = 7
