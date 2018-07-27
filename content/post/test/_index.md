@@ -1,11 +1,11 @@
 ---
-date: 2018-05-21T21:18:02Z
-type: "page"
-draft: false
-author: "Boyd Kelly"
-description: "About Coast Systems"
----
+date: 2018-05-21 21:18:02 +0000
+type: page
+author: Boyd Kelly
+description: About Coast Systems
+draft: true
 
+---
 # Who am I ?
 
 In short, I have done extensive volunteer service including IT work, managed the help desk for the Canadian Passport Office,and worked in a large corporate IT department. I have hosted websites, managed email dns servers, and taught a MS Exchange course at the University of British Columbia. I have a lot of experience in virtual technologies on Linux, Amazon and GCE. Working remotely with full confidence is a given.
