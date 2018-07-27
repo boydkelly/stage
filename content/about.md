@@ -1,12 +1,11 @@
 ---
-date: 2018-05-21T21:18:02Z
-title: ""
-author: "Boyd Kelly"
-draft: false
-type: "page"
-description: "About Coast Systems"
----
+date: 2018-05-21 21:18:02 +0000
+title: ''
+author: Boyd Kelly
+type: page
+description: About Coast Business Technologies
 
+---
 # Who am I ?
 
 In short, I have done extensive volunteer service including IT work, managed the help desk for the Canadian Passport Office, and worked in a large corporate IT department. That's experience in volunteer, public, and private sectors.  
