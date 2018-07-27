@@ -3,14 +3,7 @@ new_page_extension: md
 auto_deploy: true
 admin_path: 
 webhook_url: 
-sections:
-- path: content/post
-  label: Post
-  create: all
-- path: content
-  label: Pages
-  create: all
-  default_front_matter_template: page
+sections: 
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
