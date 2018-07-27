@@ -2,7 +2,7 @@
 date: 2018-05-21 21:18:02 +0000
 type: page
 author: Boyd Kelly
-description: About Coast Business Technolgies
+description: About Coast Business Tech
 
 ---
 # Qui suis-je ?
