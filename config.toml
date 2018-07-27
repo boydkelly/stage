@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
-baseurl = "http://www.coastsystems.net/"
+baseurl = "/"
 
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
@@ -51,10 +51,10 @@ email = "bkelly@coastsystems.net"
 # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
 # slate, spacelab, superhero, united, yeti.
 
-bootswatchtheme = "spacelab"
+bootswatchtheme = "paper"
 
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
-DefaultContentLanguageInSubdir = true
+#DefaultContentLanguageInSubdir = true
 switchlang = false
 
 # You can use markdown here.
