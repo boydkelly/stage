@@ -22,7 +22,7 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "huo-bootstrap-premium"
+theme = "hugo-bootstrap-premium"
 # Pagination
 paginate = 10
 paginatePath = "page"
@@ -51,16 +51,16 @@ email = "bkelly@coastsystems.net"
 # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
 # slate, spacelab, superhero, united, yeti.
 
-bootswatchtheme = "paper"
+bootswatchtheme = "spacelab"
 
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
-#DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = true
 switchlang = false
 
 # You can use markdown here.
 BrandImage = "" #top header brand image.
-brand = "Coast Systems  # brand image alt text.
-topline = "Lots of stuff here"
+brand = "Coast Business Technologies"  # brand image alt text.
+topline = "Technology, Language, Accounting"
 #footline = "code with <i class='fa fa-heart'></i>"
 
 customJS = []
@@ -133,7 +133,7 @@ extensionmask = []
 languageCode = "en"
 weight = 1
 copyright = "(c) 2018 Boyd Kelly"
-title = "Coast Systems" # Site title
+title = "Coast Business Technologies" # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"
@@ -184,7 +184,7 @@ url = "/topics/Julakan"
 [Languages.fr]
 languageCode = "fr"
 weight = 2
-title = "Coastsystems" # Site title
+title = "Coast Business Technologies" # Site title
 copyright = "(c) 2018 Boyd Kelly"
 
 [[Languages.fr.menu.main]]
@@ -198,7 +198,7 @@ url = "/post/"
 name = "À propos"
 weight = 1
 identifier = ""
-url = "/about"
+url = "/fr/about"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.fr.menu.main]]

@@ -1,14 +1,17 @@
 ---
 date: 2018-05-21T21:18:02Z
-type: "page"
-draft: false
+title: ""
 author: "Boyd Kelly"
+draft: false
+type: "page"
 description: "About Coast Systems"
 ---
 
 # Who am I ?
 
-In short, I have done extensive volunteer service including IT work, managed the help desk for the Canadian Passport Office,and worked in a large corporate IT department. I have hosted websites, managed email dns servers, and taught a MS Exchange course at the University of British Columbia. I have a lot of experience in virtual technologies on Linux, Amazon and GCE. Working remotely with full confidence is a given.
+In short, I have done extensive volunteer service including IT work, managed the help desk for the Canadian Passport Office, and worked in a large corporate IT department. That's experience in volunteer, public, and private sectors.  
+
+I have hosted websites, managed email and dns servers, coded, and taught a MS Exchange course at the University of British Columbia. I have a lot of experience in virtual technologies on Linux, Amazon and GCE. Working remotely with full confidence is a given.
 
 Please check out my [linked-in profile](http://www.linkedin.com/in/boydkelly)
 
