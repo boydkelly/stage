@@ -7,13 +7,13 @@ author: "Boyd Kelly"
 description: "Proverbe Jula"
 keywords: ["key", "words"]
 topics: ["Julakan"]
-tags: ["Jula", "Proverbe"]
+tags: ["jula", "proverbe"]
 ---
 
 ## Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.
 
 ## C'est l'homme qui fait l'homme.
 
-## Le fer s'aiguise par le fer, ansi un homme aiguise le visage d'un autre. -Prov 27:17 ***TMN***
+## Comme le fer aiguise le fer, ainsi un homme aide son ami à progresser -Prov 27:17 ***TMN***
 
 ## As iron Sharpens iron, so one man sharpens his friend. -Prov 27:17 ***TMN***
