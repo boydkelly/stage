@@ -16,6 +16,8 @@ Please check out my [linked-in profile](http://www.linkedin.com/in/boydkelly)
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="boydkelly"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boydkelly?trk=profile-badge'>Boyd Kelly</a></div>
+
 This static website is hosted on Google Cloud Platform, and created by me with Hugo static website generator, served by nginx on CentOS. The DNS is hosted on Amazon Route 53.
 
 ## If you would like to hire me, let's get in touch.
