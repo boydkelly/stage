@@ -4,7 +4,6 @@ title: ''
 author: Boyd Kelly
 type: page
 description: About Coast Business Technologies
-draft: true
 
 ---
 # Who am I ?
