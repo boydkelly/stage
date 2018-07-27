@@ -8,11 +8,13 @@ description: About Coast Business Technologies
 ---
 # Who am I ?
 
-In short, I have done extensive volunteer service including IT work, managed the help desk for the Canadian Passport Office, and worked in a large corporate IT department. That's experience in volunteer, public, and private sectors.  
+In short, I have done extensive volunteer service including IT work, managed the help desk for the Canadian Passport Office, and worked in a large corporate IT department. That's experience in volunteer, public, and private sectors.
 
 I have hosted websites, managed email and dns servers, coded, and taught a MS Exchange course at the University of British Columbia. I have a lot of experience in virtual technologies on Linux, Amazon and GCE. Working remotely with full confidence is a given.
 
 Please check out my [linked-in profile](http://www.linkedin.com/in/boydkelly)
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 This static website is hosted on Google Cloud Platform, and created by me with Hugo static website generator, served by nginx on CentOS. The DNS is hosted on Amazon Route 53.
 
