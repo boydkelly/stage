@@ -8,7 +8,7 @@ title = "Just do it !"
 topics = ["English in French"]
 
 +++
-## Just do it:  ![Just Do it !](/images/nike.jpg "Just do it !")
+## Just do it:
 
 Le slogan publicitaire de Nike n'est pas façile à traduire en français. Que veut dire cette expression? Le mot 'just' est un faux ami. Quant il est utilisé comme adjectif, il peut souvent se traduire par 'juste' en voulant dire équitable.
 
