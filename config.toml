@@ -97,7 +97,7 @@ hrefTargetBlank = false
 latexDashes = true
 plainIdAnchors = true
 [params]
-BrandImage = ""
+BrandImage = "/images/brand.png"
 bitbucket = ""
 bootswatchtheme = "paper"
 brand = "Coast Business Technologies"
