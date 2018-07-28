@@ -1,5 +1,5 @@
 ---
-title: "Jula Alphabet"
+title: "Alphabet Jula"
 date: 2018-05-22T12:26:50Z
 type: "post"
 draft: false
@@ -12,4 +12,4 @@ tags: ["jula", "langue", "afrique"]
 
 # Alphabet Jula
 
-<iframe width="600" height="800"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9ygFOtyMq1n2QdbKgpZpVuGZ5NfTnKZ-Vrfppc1YevMPnGC6AtzGkGi1syKYTVEmyj4bfLCdx8W0w/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="600" height="900"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9ygFOtyMq1n2QdbKgpZpVuGZ5NfTnKZ-Vrfppc1YevMPnGC6AtzGkGi1syKYTVEmyj4bfLCdx8W0w/pubhtml?widget=true&amp;headers=false"></iframe>
