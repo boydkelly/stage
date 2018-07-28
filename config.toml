@@ -9,6 +9,7 @@ theme = "hugo-bootstrap-premium"
 [Languages.en]
 copyright = "(c) 2018 Boyd Kelly"
 languageCode = "en"
+languageName = "English"
 title = "Coast Business Technologies"
 weight = 1
 [[Languages.en.menu.main]]
@@ -46,6 +47,7 @@ weight = 7
 [Languages.fr]
 copyright = "(c) 2018 Boyd Kelly"
 languageCode = "fr"
+languageName = "Français"
 title = "Coast Business Technologies"
 weight = 2
 [[Languages.fr.menu.main]]
@@ -113,7 +115,7 @@ mailmunchid = ""
 mathjax = ""
 showRightSidebar = true
 sumomeid = ""
-switchlang = false
+switchlang = true
 topline = "Technology, Language, Accounting"
 twitter = "www.twitter.com/boydkelly"
 youtube = ""
