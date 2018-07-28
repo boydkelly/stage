@@ -43,7 +43,7 @@
             <!-- switch language -->
             {{ if eq .Site.Params.switchlang true }}
 	    {{ $currentNode := . }}
-	    {{ partial "toggle" . }}
+	    {{ partial "toggle-lang" . }}
 
             {{ end }}
 
