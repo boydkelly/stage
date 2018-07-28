@@ -13,8 +13,6 @@ In short, I have done extensive volunteer service including IT work, managed the
 I have hosted websites, managed email and dns servers, coded, and taught a MS Exchange course at the University of British Columbia. I have a lot of experience in virtual technologies on Linux, Amazon and GCE. Working remotely with full confidence is a given.
 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="boydkelly"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boydkelly?trk=profile-badge'>Boyd Kelly</a></div>
 
 This static website is hosted on Google Cloud Platform, and created by me with Hugo static website generator, served by nginx on CentOS. The DNS is hosted on Amazon Route 53.

@@ -2,4 +2,4 @@
 echo `date -Is` >> content/update.log
 git add content/post/*
 git commit -a -m "push by script"
-git push github master
+git push origin master

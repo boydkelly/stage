@@ -13,4 +13,4 @@
 - id: words
   translation: "{{ .WordCount }} mots"
 - id: latestposts
-  translation: "Nouvautés"
+  translation: "Nouveautés"
