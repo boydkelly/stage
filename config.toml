@@ -99,11 +99,11 @@ plainIdAnchors = true
 [params]
 BrandImage = "http://www.coastsystems.net/images/brand.png"
 bitbucket = ""
-bootswatchtheme = "slate"
+bootswatchtheme = "flatly"
 brand = "Coast Business Technologies"
 customCSS = ["/css/style_custom.css"]
 customJS = []
-facebook = "Myprofile"
+facebook = ""
 flattr = ""
 github = "www.githubmcom/boydkelly"
 googleAnalytics = "UA-7938441-2"
