@@ -1,5 +1,5 @@
     {{ range .Translations }}
-    <li>
-        <a class="active" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+    <li class="nav-item">
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
     </li>
     {{ end }}
