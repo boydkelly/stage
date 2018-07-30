@@ -11,14 +11,6 @@ fields:
 - type: tag_list
   name: author
   label: Author
-- type: textarea
-  name: jula
-  label: Jula
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: tag_list
   name: description
   label: Description
