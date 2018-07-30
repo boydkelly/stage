@@ -1,23 +1,23 @@
 ---
-label: Post
+label: Proverb
 hide_body: false
 is_partial: false
 fields:
-- type: text
+- type: date
   label: Date
   name: date
   config:
     required: true
-- type: tag_list
+- type: text
   name: type
   label: Type
-- type: tag_list
+- type: text
   name: author
   label: Author
-- type: tag_list
+- type: text
   name: title
   label: Title
-- type: tag_list
+- type: text
   name: description
   label: Description
 - type: tag_list

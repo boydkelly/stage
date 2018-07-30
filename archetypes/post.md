@@ -4,7 +4,7 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 author: "Boyd Kelly"
 cover: /img/cover.jpg
-categories: ["category1"]
+topics: ["category1"]
 tags: ["tag1", "tag2"]
 draft: true
 ---
