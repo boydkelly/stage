@@ -1,12 +1,12 @@
 ---
-title: "Jula Alphabet" 
+title: "Alphabet Jula" 
 date: 2018-07-30T22:14:31Z
 lastmod: 2018-07-30T22:14:31Z
 author: "Boyd Kelly"
 cover: /img/cover.jpg
-description: "Jula Alphabet"
+description: "Alphabet Jula"
 topics: ["julakan"]
-tags: ["jula", "language"]
+tags: ["jula", "langue"]
 draft: false
 ---
 
