@@ -7,7 +7,7 @@ author: "Boyd Kelly"
 description: "Proverbe Jula"
 keywords: ["key", "words"]
 topics: ["Julakan"]
-tags: ["jula", "proverbe"]
+tags: ["jula", "proverbe", "langue"]
 ---
 
 ## Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.

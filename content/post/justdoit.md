@@ -12,6 +12,8 @@ topics = ["English in French"]
 
 Le slogan publicitaire de Nike n'est pas façile à traduire en français. Que veut dire cette expression? Le mot 'just' est un faux ami. Quant il est utilisé comme adjectif, il peut souvent se traduire par 'juste' en voulant dire équitable.
 
+<!--more-->
+
 A just decision=Une décision juste
 
 Ou bien 'seulement'. (et bien d'autres examples)

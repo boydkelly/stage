@@ -12,7 +12,12 @@ tags: ["jula", "langue"]
 
 # Rapport [Anki](http://apps.ankiweb.net) et Jula
 
-Ça fait quelque temps depuis que j'ai fait une mise à jour de mon fichier Jula.apkg disponible pour téléchargement sur le site ankiweb.net Je comprends parfaitement que les cartes aide-mémoire pour apprendre le Jula ne sont pas les fichiers les plus recherchés, mais c'est malheureux quand même les les gens chez [Anki]((http://apps.ankiweb.net) insistent à supprimer les téléchargements dites 'moins populaires'. En tout cas pour cette raison je vais maintenant partager les fichiers sur mon Google Drive, et envoyer des messages de mise à jour de temps en temps. En tout cas j'ai fait des mise à jours importants à la fois au contenu et à la présentation des cartes. Plusieurs cartes sont maintenant définies pour montrer des variations nationales ou alternatives des définitions Une prochaine étape sera de convertir un certain nombre de carte existantes au nouveau format. 
+Ça fait quelque temps depuis que j'ai fait une mise à jour de mon fichier Jula.apkg disponible pour téléchargement sur le site ankiweb.net Je comprends parfaitement que les cartes aide-mémoire pour apprendre le Jula ne sont pas les fichiers les plus recherchés, mais c'est malheureux quand même les les gens chez [Anki]((http://apps.ankiweb.net) insistent à supprimer les téléchargements dites 'moins populaires'. 
+
+<!--more-->
+
+
+En tout cas pour cette raison je vais maintenant partager les fichiers sur mon Google Drive, et envoyer des messages de mise à jour de temps en temps. En tout cas j'ai fait des mise à jours importants à la fois au contenu et à la présentation des cartes. Plusieurs cartes sont maintenant définies pour montrer des variations nationales ou alternatives des définitions Une prochaine étape sera de convertir un certain nombre de carte existantes au nouveau format. 
 
 Pour ceux qui ne connaissent pas [Anki](http://apps.ankiweb.net), selon [Wikipedia...](http://fr.wikipedia.org) Anki est un logiciel libre permettant d'apprendre et de réviser des cartes mémoires grâce à la répétition espacée. L'algorithme SM2 developé dans les années 1980 sert de base de la méthode de répétition espacée employé dans ce logiciel.
 

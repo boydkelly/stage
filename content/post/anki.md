@@ -12,7 +12,10 @@ tags: ["jula", "language"]
 
 # [Anki](http://apps.ankiweb.net) Jula update
 
-Its been a while since I have updated my Jula.apkg file for public download. I do realize that flash cards to learn Jula are not the hottest thing right now, but it is a bit of a shame that the [[ankiweb.net]](ankiweb.net people) will delete so-called less popular downloads. Anyways for this reason, I will share my files on Google Drive and send notifications on Social Media from time to time. Anyway I have made substantial updates to both the content and presentation. Many cards are now defined to show either regional or alternative variations of words. A next step will be to convert some of the existing cards to the newer format. 
+Its been a while since I have updated my Jula.apkg file for public download. I do realize that flash cards to learn Jula are not the hottest thing right now, but it is a bit of a shame that the [[ankiweb.net]](ankiweb.net people) will delete so-called less popular downloads. 
+<!--more-->
+
+Anyways for this reason, I will share my files on Google Drive and send notifications on Social Media from time to time. Anyway I have made substantial updates to both the content and presentation. Many cards are now defined to show either regional or alternative variations of words. A next step will be to convert some of the existing cards to the newer format. 
 
 For anyone not familiar with [[ankiweb.net]](Anki), according to wikipedia, Anki is a spaced repetition flashcard program. "Anki" is the Japanese word for "memorization". The SM2 algorithm, created for SuperMemo in the late 1980s, forms the basis of the spaced repetition methods employed in the program.
 
