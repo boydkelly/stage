@@ -8,3 +8,5 @@ fields:
   name: date
   config:
     required: true
+pages:
+- content/post/test-post.md
