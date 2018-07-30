@@ -1,6 +1,6 @@
 ---
 label: proverb
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - type: text
@@ -8,6 +8,9 @@ fields:
   name: date
   config:
     required: true
+- type: tag_list
+  name: author
+  label: Author
 - type: textarea
   name: jula
   label: Jula
