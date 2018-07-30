@@ -1,0 +1,10 @@
+---
+label: proverb
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Date
+  name: date
+  config:
+    required: true
