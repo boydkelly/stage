@@ -23,6 +23,9 @@ fields:
 - type: tag_list
   name: topics
   label: Topics
+- type: tag_list
+  name: type
+  label: Type
 pages:
 - content/post/test-post.md
 - content/post/test-post.md
