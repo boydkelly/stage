@@ -20,6 +20,9 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: tag_list
+  name: topics
+  label: Topics
 pages:
 - content/post/test-post.md
 - content/post/test-post.md
