@@ -3,7 +3,7 @@ label: Post
 hide_body: false
 is_partial: false
 fields:
-- type: date
+- type: boolean
   label: Date
   name: date
   config:
@@ -26,5 +26,3 @@ fields:
 - type: tag_list
   name: topics
   label: Topics
-pages:
-- content/post/jula-proverb.md
