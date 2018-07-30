@@ -54,28 +54,28 @@ weight = 2
 identifier = "post"
 name = "Blog"
 pre = ""
-url = "/post/"
+url = "/fr/post/"
 weight = 6
 [[Languages.fr.menu.main]]
 identifier = ""
 name = "À propos"
 pre = "<i class='fa fa-road'></i>"
-url = "/about"
+url = "/fr/about"
 weight = 1
 [[Languages.fr.menu.main]]
 identifier = "tech"
 name = "Technologie"
-url = "/topics/Technologie"
+url = "/fr/topics/Technologie"
 weight = 2
 [[Languages.fr.menu.main]]
 identifier = "aef"
 name = "Anglais en français"
-url = "/topics/Anglais en français"
+url = "/fr/topics/Anglais en français"
 weight = 3
 [[Languages.fr.menu.main]]
 identifier = "jula"
 name = "Julakan"
-url = "/topics/Julakan"
+url = "/fr/topics/Julakan"
 weight = 4
 [[Languages.fr.menu.switchlang]]
 identifier = "en"
