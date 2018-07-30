@@ -2,33 +2,27 @@
 title: Yet Still Again
 date: 2018-05-21 22:46:26 +0000
 author: Boyd Kelly
-description: Quelle est la différence entre ces trois termes ?
-keywords:
-- anglais
-- français
-- english
-- french
-topics:
-- English in French
-tags:
-- aef
-- language
-draft: true
+#description: Quelle est la différence entre ces trois termes ?
+topics: "English in French"
+tags: [french, language ]
+draft: false
 
 ---
-# Yet, Still, Again?
+### Yet, Still, Again?
 
 Souvent le français est plus précis que l'anglais... surtout en matière de verbes.  Par contre l'anglais peut aussi être plus précis que le français.  Voici un exemple:
 
-## Yet=Encore
+<!--more-->
 
-## Again=Encore
+### Yet=Encore
 
-## Still=Encore
+### Again=Encore
+
+### Still=Encore
 
 et aussi:
 
-## Even=Encore
+### Even=Encore
 
 Non seulement 4 mots en anglais, mais 4 significations différentes avec la même traduction en français.  Connaissez-vous la nuance?
 

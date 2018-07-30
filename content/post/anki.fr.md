@@ -4,15 +4,15 @@ date: 2018-05-25T13:07:27Z
 type: "post"
 draft: false
 author: "Boyd Kelly"
-description: "Anki Jula update"
+description: ""
 keywords: ["key", "words"]
 topics: ["Julakan"]
 tags: ["jula", "langue"]
 ---
 
-# Rapport [Anki](http://apps.ankiweb.net) et Jula
+### Rapport [Anki](http://apps.ankiweb.net) et Jula
 
-Ça fait quelque temps depuis que j'ai fait une mise à jour de mon fichier Jula.apkg disponible pour téléchargement sur le site ankiweb.net Je comprends parfaitement que les cartes aide-mémoire pour apprendre le Jula ne sont pas les fichiers les plus recherchés, mais c'est malheureux quand même les les gens chez [Anki]((http://apps.ankiweb.net) insistent à supprimer les téléchargements dites 'moins populaires'. 
+Ça fait quelque temps depuis que j'ai fait une mise à jour de mon fichier Jula.apkg disponible pour téléchargement sur le site ankiweb.net Je comprends parfaitement que les cartes aide-mémoire pour apprendre le Jula ne sont pas les fichiers les plus recherchés, mais c'est malheureux quand même les les gens chez [Anki](http://apps.ankiweb.net) insistent à supprimer les téléchargements dites 'moins populaires'. 
 
 <!--more-->
 

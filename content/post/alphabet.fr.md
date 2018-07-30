@@ -4,7 +4,7 @@ date: 2018-05-22T12:26:50Z
 type: "post"
 draft: false
 author: "Boyd Kelly"
-description: "description"
+description: "Alphabet Jula"
 # keywords: ["key", "words"]
 topics: ["Julakan"]
 tags: ["jula", "langue", "afrique"]
