@@ -17,6 +17,9 @@ fields:
 - type: tag_list
   name: title
   label: Title
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - content/post/test-post.md
 - content/post/test-post.md
