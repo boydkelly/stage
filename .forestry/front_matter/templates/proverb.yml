@@ -9,23 +9,23 @@ fields:
   config:
     required: true
 - type: tag_list
+  name: type
+  label: Type
+- type: tag_list
   name: author
   label: Author
 - type: tag_list
-  name: description
-  label: Description
-- type: tag_list
   name: title
   label: Title
+- type: tag_list
+  name: description
+  label: Description
 - type: tag_list
   name: tags
   label: Tags
 - type: tag_list
   name: topics
   label: Topics
-- type: tag_list
-  name: type
-  label: Type
 pages:
 - content/post/test-post.md
 - content/post/test-post.md
