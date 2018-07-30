@@ -1,0 +1,26 @@
+---
+label: proverb
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: Date
+  name: date
+  config:
+    required: true
+- type: tag_list
+  name: author
+  label: Author
+- type: textarea
+  name: jula
+  label: Jula
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: tag_list
+  name: description
+  label: Description
+pages:
+- content/post/test-post.md
