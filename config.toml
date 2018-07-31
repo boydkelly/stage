@@ -21,7 +21,7 @@ weight = 6
 [[Languages.en.menu.main]]
 identifier = "about"
 name = "About"
-pre = "<i class='fa fa-road'></i>"
+pre = "<i class='fa fa-road'> </i>"
 url = "/about"
 weight = 1
 [[Languages.en.menu.main]]
@@ -54,23 +54,23 @@ weight = 6
 [[Languages.fr.menu.main]]
 identifier = ""
 name = "À propos"
-pre = "<i class='fa fa-road'></i>"
+pre = "<i class='fa fa-road'> </i>"
 url = "/fr/about"
 weight = 1
 [[Languages.fr.menu.main]]
 identifier = "tech"
 name = "Technologie"
-url = "/fr/sujets/Technologie"
+url = "/fr/sujets/technologie"
 weight = 2
 [[Languages.fr.menu.main]]
 identifier = "aef"
 name = "Anglais en français"
-url = "/fr/sujets/Anglais en français"
+url = "/fr/sujets/anglais en français"
 weight = 3
 [[Languages.fr.menu.main]]
 identifier = "jula"
 name = "Julakan"
-url = "/fr/topics/Julakan"
+url = "/fr/sujets/julakan"
 weight = 4
 [Languages.fr.taxonomies]
 tag = "marques"
