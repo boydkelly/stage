@@ -39,11 +39,6 @@ identifier = "jula"
 name = "Julakan"
 url = "/topics/Julakan"
 weight = 4
-[[Languages.en.menu.switchlang]]
-identifier = "fr"
-name = "Français"
-url = "fr"
-weight = 7
 [Languages.fr]
 copyright = "(c) 2018 Boyd Kelly"
 languageCode = "fr"
@@ -65,26 +60,21 @@ weight = 1
 [[Languages.fr.menu.main]]
 identifier = "tech"
 name = "Technologie"
-url = "/fr/topics/Technologie"
+url = "/fr/sujets/Technologie"
 weight = 2
 [[Languages.fr.menu.main]]
 identifier = "aef"
 name = "Anglais en français"
-url = "/fr/topics/Anglais en français"
+url = "/fr/sujets/Anglais en français"
 weight = 3
 [[Languages.fr.menu.main]]
 identifier = "jula"
 name = "Julakan"
 url = "/fr/topics/Julakan"
 weight = 4
-[[Languages.fr.menu.switchlang]]
-identifier = "en"
-name = "English"
-url = "en"
-weight = 7
 [Languages.fr.taxonomies]
-tag = "tags"
-topic = "topics"
+tag = "marques"
+topic = "sujets"
 [author]
 email = "bkelly@coastsystems.net"
 name = "Boyd Kelly"
@@ -101,7 +91,7 @@ BrandImage = "http://www.coastsystems.net/images/brand.png"
 bitbucket = ""
 bootswatchtheme = "slate"
 brand = "Coast Business Technologies"
-customCSS = ["/css/style_custom.css"]
+#customCSS = ["/css/style_custom.css"]
 customJS = []
 facebook = ""
 flattr = ""

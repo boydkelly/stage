@@ -1,6 +1,3 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/pr
-ofile.js" async defer></script>
-
 {{ if ne .Site.Params.mailmunchid "" }}
 <!-- MailMunch  -->
 <script src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="{{ .Site.Params.mailmunchid }}" async="async"></script>
@@ -9,15 +6,12 @@ ofile.js" async defer></script>
 <!-- sumome -->
 <script src="//load.sumome.com/" data-sumo-site-id="{{ .Site.Params.sumomeid }}" async="async"></script>
 {{ end }}
-<script src="{{ "js/jquery.min.js" | absURL }}"></script>
-<script src="{{ "js/bootstrap.min.js" | absURL }}"></script>
-{{ if eq .Site.Params.popover.enablepopover true}}
-<script src="{{ "js/angular.min.js" | absURL }}"></script>
-<script src="/js/popover/angular-storage.min.js"></script>
-{{ end }}
-<script src="{{ "js/highlight.pack.js" | absURL }}"></script>
-<script src="{{ "js/site.js" | absURL }}"></script>
-<script>hljs.initHighlightingOnLoad();</script>
+
+{{ .Scratch.Add "js" (slice (resources.Get "js/jquery.min.js"))}}
+{{ .Scratch.Add "js" (slice (resources.Get "js/bootstrap.min.js"))}}
+
+{{ .Scratch.Add "js" (slice (resources.Get "js/highlight.pack.js"))}}
+{{ .Scratch.Add "js" (slice (resources.Get "js/site.js"))}}
 
 {{ with .Site.Params.googleAnalytics }}
 <script>
@@ -48,10 +42,18 @@ CONTENTLANGUAGE = {{ .Site.Params.DefaultContentLanguage }}; // used in pathname
 </script>
 
 {{ if eq .Site.Params.popover.enablepopover true }}
-<script src="/js/popover/angular-modal-service.min.js"></script>
-<script src="/js/angular-ismobile.min.js"></script>
-<script src="/js/popover/popover.min.js"></script>
+    {{ .Scratch.Add "js" (slice (resources.Get "js/popover/angular-modal-service.min.js"))}}
+    {{ .Scratch.Add "js" (slice (resources.Get "js/angular-ismobile.min.js"))}}
+    {{ .Scratch.Add "js" (slice (resources.Get "js/popover/popover.min.js"))}}
 {{ end }}
+
+{{ range .Site.Params.customJS }}
+    {{ $.Scratch.Add "js" (slice (resources.Get .))}}
+{{ end }}
+
+{{ $js := .Scratch.Get "js" | resources.Concat "js/bundle.js" | resources.Minify| resources.Fingerprint "sha512" }}
+<script  src="{{$js.Permalink}}" integrity="{{ $js.Data.Integrity }}"></script>
+
 
 {{ if ne .Site.Params.mathjax "" }}
 <script type="text/javascript"
@@ -81,7 +83,4 @@ MathJax.Hub.Config({
     }
 });
 </script>
-{{ end }}
-{{ range .Site.Params.customJS }}
-<script type="text/javascript" src="{{ . | absURL}}"></script>
 {{ end }}

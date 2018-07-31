@@ -5,8 +5,8 @@ lastmod: 2018-07-30T22:14:31Z
 author: "Boyd Kelly"
 cover: /img/cover.jpg
 description: "Alphabet Jula"
-topics: ["julakan"]
-tags: ["jula", "langue"]
+sujets: ["julakan"]
+marques: ["jula", "langue"]
 draft: false
 ---
 
