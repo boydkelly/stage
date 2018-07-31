@@ -6,8 +6,8 @@ draft: false
 author: "Boyd Kelly"
 #description: "Datally: Application Google pour controler limiter la consomation de data"
 keywords: ["key", "words"]
-topics: ["Technologie"]
-tags: ["tech", "android", "afrique"]
+sujets: ["Technologie"]
+marques: ["tech", "android", "afrique"]
 ---
 
 # Nouvelle application de Google pour gérer l'usage wifi

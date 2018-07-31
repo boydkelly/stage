@@ -6,8 +6,8 @@ draft: false
 author: "Boyd Kelly"
 description: "Alphabet Jula"
 # keywords: ["key", "words"]
-topics: ["Julakan"]
-tags: ["jula", "langue", "afrique"]
+sujets: ["Julakan"]
+marques: ["jula", "langue", "afrique"]
 ---
 
 ## Alphabet Jula

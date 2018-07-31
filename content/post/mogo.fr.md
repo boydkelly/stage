@@ -6,8 +6,8 @@ draft: false
 author: "Boyd Kelly"
 description: "Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye"
 keywords: ["key", "words"]
-topics: ["Julakan"]
-tags: ["jula", "proverbe", "langue"]
+sujets: ["Julakan"]
+marques: ["jula", "proverbe", "langue"]
 ---
 
 | Mɔgɔ be yen mɔgɔ kɛ mɔgɔ ye.                                                                |

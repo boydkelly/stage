@@ -6,8 +6,8 @@ draft: false
 author: "Boyd Kelly"
 description: ""
 keywords: ["key", "words"]
-topics: ["Julakan"]
-tags: ["jula", "langue"]
+sujets: ["Julakan"]
+marques: ["jula", "langue"]
 ---
 
 ### Rapport [Anki](http://apps.ankiweb.net) et Jula
