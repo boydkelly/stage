@@ -37,3 +37,5 @@ fields:
 - type: file
   name: img
   label: Image
+pages:
+- content/post/test-post.md
