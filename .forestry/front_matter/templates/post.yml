@@ -26,6 +26,7 @@ fields:
 - type: text
   name: description
   label: Description
+  default: Delete description to display summary
 - type: tag_list
   name: tags
   label: Tags
