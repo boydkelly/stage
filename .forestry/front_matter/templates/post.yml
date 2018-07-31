@@ -34,3 +34,6 @@ fields:
 - type: tag_list
   name: topics
   label: Topics
+- type: file
+  name: img
+  label: Image
