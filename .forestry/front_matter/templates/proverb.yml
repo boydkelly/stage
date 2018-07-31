@@ -26,5 +26,3 @@ fields:
 - type: tag_list
   name: topics
   label: Topics
-pages:
-- content/post/jula-proverb.md
