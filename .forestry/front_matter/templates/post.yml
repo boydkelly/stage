@@ -3,11 +3,6 @@ label: Post
 hide_body: false
 is_partial: false
 fields:
-- type: boolean
-  label: Date
-  name: date
-  config:
-    required: true
 - type: text
   name: type
   label: Type
@@ -26,3 +21,8 @@ fields:
 - type: tag_list
   name: topics
   label: Topics
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
