@@ -9,3 +9,4 @@ title = "test post"
 topics = ["julakan"]
 
 +++
+This is a test post
