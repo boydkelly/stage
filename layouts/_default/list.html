@@ -5,7 +5,7 @@
   </header>
   <ul class="container content">
     {{ range $index, .Paginator.Pages }}
-      {{ .Render "summary" }}
+      {{ .Render "list.li" }}
     {{ end }}
   </ul>
   {{ partial "bloc/content/pagination.html" . }}
