@@ -1,13 +1,15 @@
 ---
-title: Yet Still Again
+title: Yet Still Again ?
 date: 2018-05-21 22:46:26 +0000
 author: Boyd Kelly
-#description: Quelle est la différence entre ces trois termes ?
 sujets: ["Anglais en français"]
+topics: ["English in French"]
 marques: ["langue", "français"]
+tags: ["language", "french"]
 
 ---
-### Yet, Still, Again?
+
+Quelle est la différence entre ces trois termes ?
 
 Souvent le français est plus précis que l'anglais... surtout en matière de verbes.  Par contre l'anglais peut aussi être plus précis que le français.  Voici un exemple:
 

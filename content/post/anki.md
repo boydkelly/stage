@@ -10,7 +10,6 @@ topics: ["Julakan"]
 tags: ["jula", "language"]
 ---
 
-### [Anki](http://apps.ankiweb.net) Jula update
 
 Its been a while since I have updated my Jula.apkg file for public download. I do realize that flash cards to learn Jula are not the hottest thing right now, but it is a bit of a shame that the [[ankiweb.net]](ankiweb.net people) will delete so-called less popular downloads. 
 

@@ -11,7 +11,7 @@ tags: ["tech", "android", "afrique"]
 
 ---
 
-## New mobile data-saving & WiFi app by Google"
+## New mobile data-saving & WiFi app by Google
 
 Google has released a new application Datally which enables the user to follow and control apps that chew up bandwith.  Application is free and contains no publicity.  A necessity for those with only 3G/4G connections.
 

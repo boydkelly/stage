@@ -10,7 +10,7 @@ sujets: ["Technologie"]
 marques: ["tech", "android", "afrique"]
 ---
 
-# Nouvelle application de Google pour gérer l'usage wifi
+## Nouvelle application de Google pour gérer l'usage wifi
 
 Voici une nouvelle application Datally, de Google qui permet de suivre et de contrôler les applications qui mangent la volume internet.  Gratuit et sans pub.  Une nécessité pour les connections 3g/4g
 
