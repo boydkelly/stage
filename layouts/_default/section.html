@@ -1,0 +1,15 @@
+{{ partial "head.html" . }}
+<div id="main-content" class="container">
+  <div class="card">
+  <div class="card-body">
+  <header>
+    {{ partial "bloc/content/h1-title.html" . }}
+  </header>
+  {{ range $index, .Paginator.Pages }}
+    {{ .Render "section.li" }}
+  {{ end }}
+  {{ partial "bloc/content/pagination.html" . }}
+  </div>
+  </div>
+</div>
+{{ partial "foot.html" . }}
