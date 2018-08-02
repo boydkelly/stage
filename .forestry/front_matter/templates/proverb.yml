@@ -15,15 +15,19 @@ fields:
 - type: text
   name: type
   label: Type
+  default: post
 - type: text
   name: author
   label: Author
+  default: Boyd Kelly
 - type: text
   name: title
   label: Title
+  default: Title
 - type: text
   name: description
   label: Description
+  default: Remove this to display summary instead
 - type: tag_list
   name: tags
   label: Tags
