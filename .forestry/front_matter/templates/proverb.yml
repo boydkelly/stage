@@ -3,6 +3,15 @@ label: Proverb
 hide_body: false
 is_partial: false
 fields:
+- type: datetime
+  name: date
+  label: Date
+  description: Date
+  config:
+    date_format: YYYY/MM/DD
+    display_utc: true
+    required: true
+    time_format: H:MM:ZZ
 - type: text
   name: type
   label: Type
@@ -25,12 +34,3 @@ fields:
   name: featured_image
   label: Image
   description: Featured Image
-- type: datetime
-  name: date
-  label: Date
-  description: Date
-  config:
-    date_format: YYYY/MM/DD
-    display_utc: true
-    required: true
-    time_format: H:MM:ZZ
