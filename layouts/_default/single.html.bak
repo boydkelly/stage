@@ -45,7 +45,7 @@
     </div>
     {{ if .Site.Params.showRightSidebar }}
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-        {{ partial "bloc/content/sidebar.html" .}}
+        {{ partial "content/sidebar.html" .}}
       </div>
     {{ end }}
   </div>

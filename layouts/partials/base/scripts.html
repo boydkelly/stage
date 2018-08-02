@@ -10,6 +10,13 @@
 {{ .Scratch.Add "js" (slice (resources.Get "js/jquery.min.js"))}}
 {{ .Scratch.Add "js" (slice (resources.Get "js/bootstrap.min.js"))}}
 
+{{ if eq .Site.Params.switchlang true }}
+    {{ .Scratch.Add "js" (slice (resources.Get "js/js.cookie.js"))}}
+{{ end }}
+{{ if eq .Site.Params.popover.enablepopover true}}
+    {{ .Scratch.Add "js" (slice (resources.Get "js/angular.min.js"))}}
+    {{ .Scratch.Add "js" (slice (resources.Get "js/popover/angular-storage.min.js"))}}
+{{ end }}
 {{ .Scratch.Add "js" (slice (resources.Get "js/highlight.pack.js"))}}
 {{ .Scratch.Add "js" (slice (resources.Get "js/site.js"))}}
 
@@ -40,6 +47,9 @@ OPTIN = {{.Site.Params.popover.optin}},
 COOKIE_NAME = {{.Site.Params.popover.cookiename}},
 CONTENTLANGUAGE = {{ .Site.Params.DefaultContentLanguage }}; // used in pathnamereplace.js
 </script>
+{{ if eq .Site.Params.switchlang true }}
+    {{ .Scratch.Add "js" (slice (resources.Get "js/pathnamereplace.js"))}}
+{{ end }}
 
 {{ if eq .Site.Params.popover.enablepopover true }}
     {{ .Scratch.Add "js" (slice (resources.Get "js/popover/angular-modal-service.min.js"))}}

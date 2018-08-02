@@ -4,7 +4,7 @@
   <div class="card-body">
   <header>
   <div class=card-title>
-    {{ partial "bloc/content/h1-title.html" . }}
+    {{ partial "content/h1-title.html" . }}
   </div>
   </header>
   <ul class="container content">
@@ -12,7 +12,7 @@
       {{ .Render "list.li" }}
     {{ end }}
   </ul>
-  {{ partial "bloc/content/pagination.html" . }}
+  {{ partial "content/pagination.html" . }}
   </div>
   </div>
 </div>

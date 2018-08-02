@@ -21,7 +21,7 @@ weight = 6
 [[Languages.en.menu.main]]
 identifier = "about"
 name = "About"
-pre = "<i class='fa fa-road'> </i>"
+pre = "<i class='fa fa-road'> </i> "
 url = "/about"
 weight = 1
 [[Languages.en.menu.main]]
@@ -87,7 +87,7 @@ hrefTargetBlank = false
 latexDashes = true
 plainIdAnchors = true
 [params]
-BrandImage = "http://www.coastsystems.net/images/brand.png"
+brand_image = "/images/brand.png"
 bitbucket = ""
 bootswatchtheme = "slate"
 brand = "Coast Business Technologies"
@@ -106,7 +106,7 @@ mathjax = ""
 showRightSidebar = true
 sumomeid = ""
 switchlang = true
-topline = "Technology, Language, Accounting"
+tagline = "Technology, Language, Accounting"
 twitter = "www.twitter.com/boydkelly"
 youtube = ""
 [permalinks]
