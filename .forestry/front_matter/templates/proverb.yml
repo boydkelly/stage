@@ -3,26 +3,38 @@ label: Proverb
 hide_body: false
 is_partial: false
 fields:
-- type: boolean
-  label: Date
+- type: datetime
   name: date
+  label: Date
+  description: Date
   config:
+    date_format: YYYY/MM/DD
+    display_utc: true
     required: true
+    time_format: H:MM:ZZ
 - type: text
   name: type
   label: Type
+  default: post
 - type: text
   name: author
   label: Author
+  default: Boyd Kelly
 - type: text
   name: title
   label: Title
+  default: Title
 - type: text
   name: description
   label: Description
+  default: Remove this to display summary instead
 - type: tag_list
   name: tags
   label: Tags
 - type: tag_list
   name: topics
   label: Topics
+- type: file
+  name: featured_image
+  label: Image
+  description: Featured Image
