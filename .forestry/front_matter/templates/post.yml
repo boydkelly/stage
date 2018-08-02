@@ -35,7 +35,8 @@ fields:
   name: topics
   label: Topics
 - type: file
-  name: img
+  name: featured_image
   label: Image
+  description: Featured Image
 pages:
 - content/post/test-post.md
