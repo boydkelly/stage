@@ -54,11 +54,15 @@
 {{ end }}
 
 
-		<div class=card-body>
-		<div class="card-text">
-	{{ .Render "single.content" }}
-	{{ .Render "single.boot" }}
+<!--
+		<div class="card-header">
+		{{ partial "bloc/content/h1-title.html" . }}
        		</div>
+-->
+
+		<div class=card-body>
+		{{ .Render "single.content" }}
+		{{ .Render "single.boot" }}
 		</div>
 		</div>
     </div>
