@@ -6,6 +6,7 @@ metaDataFormat = "toml"
 paginate = 10
 paginatePath = "page"
 theme = "hugo-bootstrap-premium"
+#theme = "acadien-hugo-theme"
 [Languages.en]
 copyright = "(c) 2018 Boyd Kelly"
 languageCode = "en"
@@ -21,7 +22,6 @@ weight = 6
 [[Languages.en.menu.main]]
 identifier = "about"
 name = "About"
-pre = "<i class='fa fa-road'> </i> "
 url = "/about"
 weight = 1
 [[Languages.en.menu.main]]

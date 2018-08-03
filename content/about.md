@@ -1,7 +1,7 @@
 ---
 date: 2018-05-21 21:18:02 +0000
-title: ''
-author: Boyd Kelly
+title: "About Coast Business Technologies"
+author: "Boyd Kelly"
 type: page
 description: About Coast Business Technologies
 

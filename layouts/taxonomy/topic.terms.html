@@ -1,8 +1,8 @@
-{{ partial "head.html" . }}
+{{ define "main" }}
 <section id="main-content" class="container main_content terms topic">
   <div class="card">
   <header class="container">
-    {{ partial "content/h1-title.html" . }}
+    {{ partial "snippits/title.html" . }}
   </header>
   {{ $baseurl := .Site.BaseURL }}
   {{ $data := .Data }}
@@ -22,4 +22,4 @@
   {{ end }}
   </div>
 </section>
-{{ partial "foot.html" . }}
+{{ end }}

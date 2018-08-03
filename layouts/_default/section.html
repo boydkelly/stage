@@ -1,8 +1,8 @@
-{{ partial "head.html" . }}
+{{ define "main" }}
 <div id="main-content" class="container">
   <div class="card">
 
-  <div class="card-header">{{ partial "content/h1-title.html" . }}</div>
+  <div class="card-header">{{ partial "snippits/title.html" . }}</div>
 
 
   <div class="card-body">
@@ -13,4 +13,4 @@
   </div>
   </div>
 </div>
-{{ partial "foot.html" . }}
+{{ end }}
