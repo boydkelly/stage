@@ -9,8 +9,8 @@
   {{ partial "base/metas.html" . }}
   {{ partial "base/imports.html" . }}
 </head>
-<body{{ with .Site.Params.theme }} class="{{ . }}"{{ end }} data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">
-
+<body>
+  <div id="wrapper"
     {{ block "header" . }}
       {{ partial "content/header.html" . }}
     {{ end }}
@@ -28,6 +28,6 @@
 
 
     {{ partial "base/scripts.html" . }}
-
-  </body>
+  </div>
+</body>
 </html>

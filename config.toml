@@ -14,12 +14,6 @@ languageName = "English"
 title = "Coast Business Technologies"
 weight = 1
 [[Languages.en.menu.main]]
-identifier = "post"
-name = "Blog"
-pre = ""
-url = "/post/"
-weight = 6
-[[Languages.en.menu.main]]
 identifier = "about"
 name = "About"
 url = "/about"
@@ -45,12 +39,6 @@ languageCode = "fr"
 languageName = "Français"
 title = "Coast Business Technologies"
 weight = 2
-[[Languages.fr.menu.main]]
-identifier = "post"
-name = "Blog"
-pre = ""
-url = "/fr/post/"
-weight = 6
 [[Languages.fr.menu.main]]
 identifier = ""
 name = "À propos"
