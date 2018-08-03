@@ -5,7 +5,7 @@ disqusShortname = "www-coastsystems-net"
 metaDataFormat = "toml"
 paginate = 10
 paginatePath = "page"
-theme = "hugo-bootstrap-premium"
+#theme = "hugo-bootstrap-premium"
 #theme = "acadien-hugo-theme"
 [Languages.en]
 copyright = "(c) 2018 Boyd Kelly"
@@ -54,7 +54,6 @@ weight = 6
 [[Languages.fr.menu.main]]
 identifier = ""
 name = "À propos"
-pre = "<i class='fa fa-road'> </i>"
 url = "/fr/about"
 weight = 1
 [[Languages.fr.menu.main]]

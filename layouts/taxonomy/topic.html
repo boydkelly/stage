@@ -7,7 +7,8 @@
 
     <div class="card-body">
   {{ range $index, $page := .Paginator.Pages }}
-    {{ .Render "summary" }}
+    {{ .Render "summary.content" }}
+    {{ .Render "summary.boot" }}
   {{ end }}
   {{ partial "content/pagination.html" . }}
   </div>

@@ -1,32 +1,25 @@
-  <div class="container">
-
-	 <!-- 
-
-    {{ if .Site.Params.showBlogHeader }}
-
-
-      <div class="row">
-        <header>
-          {{ partial "content/h1-title.html" . }}
-          {{ partial "content/lastupdate.html" . }}
-        </header>
-      </div>
-    {{ end }}
-
-
-	 -->
+<div class="container">
 
 <div class="row">
 	<div class="col-sm-{{ if .Site.Params.showRightSidebar }}9{{ else }}12{{ end }}">
-        		{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-        		{{ range $paginator.Pages }}
-        	<div class="card border-secondary">
-        	<div class="card-body ">
-          			{{ .Render "summary" }}
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  
+  
+  {{ range $paginator.Pages }}
+  <div class="card border-secondary">
+  <div class="card-header">
+	<h1>{{ partial "snippits/link/title.html" . }}</h1>
 		</div>
+    <div class="card-body ">
+   		{{ .Render "summary" }}
+		{{ partial "snippits/readlink.html" . }}
+    </div>
 		</div>
-        		{{ end }}
-        	{{ partial "content/pagination.html" . }}
+    </p>
+    
+    {{ end }}
+
+       	{{ partial "content/pagination.html" . }}
       </div>
 
       {{ if .Site.Params.showRightSidebar }}
@@ -37,3 +30,4 @@
 </div>
 
 </div>
+

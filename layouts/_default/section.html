@@ -1,16 +1,16 @@
 {{ define "main" }}
 <div id="main-content" class="container">
   <div class="card">
-
-  <div class="card-header">{{ partial "snippits/title.html" . }}</div>
-
-
-  <div class="card-body">
-  {{ range $index, .Paginator.Pages }}
-    {{ .Render "section.li" }}
-  {{ end }}
+    <div class="card-header">{{ partial "snippits/title.html" . }}</div>
+    <div class="card-body">
+    {{ range $index, .Paginator.Pages }}
+      {{ .Render "section.li" }}
+      {{ partial "snippits/tags.html" . }}
+      {{ partial "snippits/date.html" . }}
+    {{ end }}
   {{ partial "content/pagination.html" . }}
   </div>
   </div>
+    </p>
 </div>
 {{ end }}
