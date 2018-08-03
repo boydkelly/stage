@@ -22,8 +22,10 @@
 {{ .Scratch.Add "css" (.Scratch.Get "highlight")}}
 
 {{ range .Site.Params.customCSS }}
-    {{ $.Scratch.Add "css" (slice (resources.Get .)) }}
+    {{ $.Scratch.Add "css" (slice (resources.Get . )) }}
 {{ end }}
 
 {{ $css := .Scratch.Get "css" | resources.Concat "css/bundle.css" | resources.Minify| resources.Fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
+
+
