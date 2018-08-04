@@ -22,10 +22,11 @@
 
 	<div class="card-body">
 	{{ .Render "single.content" }}
-	{{ .Render "single.boot" }}
-	{{ partial "snippits/sharing.html" }}
 
 	</div class="card-footer">
+	{{ .Render "single.boot" }}
+	{{ partial "snippits/sharing.html" . }}
+	{{ partial "snippits/disqus.html" . }}
 	</div>
     </div>
     {{ if .Site.Params.showRightSidebar }}
