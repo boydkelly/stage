@@ -13,11 +13,11 @@ languageCode = "en"
 languageName = "English"
 title = "Coast Business Technologies"
 weight = 1
-[[Languages.en.menu.main]]
-identifier = "about"
-name = "About"
-url = "/about"
-weight = 1
+#[[Languages.en.menu.main]]
+#identifier = "about"
+#name = "About"
+#url = "/about"
+#weight = 1
 [[Languages.en.menu.main]]
 identifier = "tech"
 name = "Technology"
@@ -39,11 +39,11 @@ languageCode = "fr"
 languageName = "Français"
 title = "Coast Business Technologies"
 weight = 2
-[[Languages.fr.menu.main]]
-identifier = ""
-name = "À propos"
-url = "/fr/about"
-weight = 1
+#[[Languages.fr.menu.main]]
+#identifier = ""
+#name = "À propos"
+#url = "/fr/about"
+#weight = 1
 [[Languages.fr.menu.main]]
 identifier = "tech"
 name = "Technologie"
@@ -77,7 +77,7 @@ plainIdAnchors = true
 brand_image = "/images/brand.png"
 bitbucket = ""
 bootswatchtheme = "slate"
-brand = "Coast Business Technologies"
+brand = "CB Technologies"
 #customCSS = ["/css/style_custom.css"]
 customJS = []
 facebook = ""
