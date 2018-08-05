@@ -7,7 +7,6 @@
 	{{ with .Page.Params.featured_image }}<img src="{{ . }}">{{ end }}
        </div>
 
-
        {{ if .Resources.GetMatch "featured_image.*" }}
         <div class="fluid-img"> 
 	<img src="{{ (.Resources.GetMatch "featured_image.*").RelPermalink }}" alt="">
@@ -20,17 +19,19 @@
        	</div>
 
 	<div class="card-body">
-	{{ .Render "single.content" }}
-
-	</div class="card-footer">
-	{{ .Render "single.boot" }}
-	{{ partial "snippits/sharing.html" . }}
-	{{ partial "snippits/disqus.html" . }}
+	{{ .Content }}
 	</div>
+
+	<div class="card-footer">
+	  {{ partial "snippits/sharing.html" . }}
+	  {{ partial "formatted/navigation.html" . }}
+	  {{ partial "content/comments.html" . }}
+	</div>
+    </div>
     </div>
     {{ if .Site.Params.showRightSidebar }}
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-        {{ partial "content/sidebar.html" .}}
+        {{ partial "content/sidebar.html" . }}
       </div>
     {{ end }}
   </div>
