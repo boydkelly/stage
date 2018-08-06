@@ -39,17 +39,6 @@
       	{{ end }}
       </ul>
 
-      {{ if gt (len .Site.Home.AllTranslations) 1 }}
-      {{ $langPage := cond (gt (len .Translations) 0) . .Site.Home }}
-      <ul class="navbar-nav ml-auto">
-        {{ range .Translations }}
-          <li class="nav-item">
-           <a class="nav-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-         </li>
-        {{ end }}
-     </ul>
-     {{ end }}
-
   </div>
 
 <div class="navbar-header">
