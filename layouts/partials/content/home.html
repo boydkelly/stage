@@ -1,5 +1,4 @@
-<div class="container">
-
+<div id="home" class="container">
 <div class="row">
 	<div class="col-sm-{{ if .Site.Params.showRightSidebar }}9{{ else }}12{{ end }}">
   {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
@@ -19,7 +18,7 @@
     
     {{ end }}
 
-       	{{ partial "content/pagination.html" . }}
+       	{{ partial "formatted/paginate.html" . }}
       </div>
 
       {{ if .Site.Params.showRightSidebar }}
