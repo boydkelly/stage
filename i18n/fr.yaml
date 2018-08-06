@@ -14,3 +14,5 @@
   translation: "{{ .WordCount }} mots"
 - id: latestposts
   translation: "Nouveautés"
+- id: tagged
+  translation: "Classé par tag"

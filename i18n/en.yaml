@@ -13,4 +13,6 @@
 - id: words
   translation: "{{ .WordCount }} words"
 - id: latestposts
-  translation: "Latest Posts"
+  translation: "What's new?"
+- id: tagged
+  translation: "Tagged items"
