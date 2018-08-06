@@ -1,21 +1,25 @@
 {{ if .IsPage }}
   {{ if or ( .NextInSection ) ( .PrevInSection ) }}
-    <nav><ul class="pagination">
+<nav>
+<ul class="list-inline">
     {{ if .PrevInSection }}
-        <li class="page-item">
+<li class="list-inline-item">
           <a class="page-link" href="{{ .PrevInSection.Permalink }}" title="{{ .PrevInSection.Title }}">
-            <span aria-hidden="true">&nbsp&laquo;</span>{{ i18n "previous" }}
+            <span aria-hidden="true">&laquo&nbsp;</span>{{ i18n "previous" }}
           </a>
         </li>
     {{end}}
+</li>
 
     {{ if .NextInSection }}
-      <li class="page-item">
+<li class="list-inline-item">
         <a class="page-link" href="{{ .NextInSection.Permalink }}" title="{{ .NextInSection.Title }}">
             {{ i18n "next" }} <span aria-hidden="true">&nbsp&raquo;</span>
         </a>
       </li>
     {{end}}
-    </ul> </nav>
+    </ul> 
+    
+</nav>
   {{ end }}
 {{ end }}
