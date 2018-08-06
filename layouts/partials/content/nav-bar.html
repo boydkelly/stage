@@ -39,9 +39,6 @@
       	{{ end }}
       </ul>
 
-  </div>
-
-<div class="navbar-header">
   {{ $langPage := cond (gt (len .Translations) 0) . .Site.Home }}
   <ul class="navbar-nav ml-auto">
     <li class="nav-item dropdown">
