@@ -9,7 +9,7 @@ sections:
   label: French
   create: all
   match: "*.fr.md/*"
-  new_doc_ext: ".fr.md"
+  new_doc_ext: fr.md
 - type: directory
   path: content
   label: Pages
