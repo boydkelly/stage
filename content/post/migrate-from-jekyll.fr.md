@@ -1,6 +1,7 @@
 +++
 author = "Auteur de migration"
 categories = ["Hugo", "Jekyll"]
+cover_image = "images/image1.jpeg"
 date = "2014-03-10"
 description = ""
 featured = ""
@@ -9,12 +10,11 @@ featuredpath = ""
 linktitle = "Migrer vers Hugo depuis Jekyll"
 slug = "Migrer vers Hugo depuis Jekyll"
 title = "Migrer vers Hugo depuis Jekyll"
-type = "post"
-cover_image = "images/image1.jpeg"
 [menu.main]
-  parent = "tutorials"
-+++
+parent = "tutorials"
+weight = 5
 
++++
 ## Déplacez le contenu statique vers `static`
 Jekyll a une règle comme quoi tout répertoire qui ne commence pas par `_` sera
 copié tel-quel dans le répertoire `_site`. Hugo garde tout le contenu statique

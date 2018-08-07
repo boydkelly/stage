@@ -1,20 +1,19 @@
 +++
 author = "Auteur inconnu"
 categories = ["Go"]
+cover_image = "images/image1.jpeg"
 date = "2014-04-02"
 description = ""
 featured = "pic02.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = "Introduction aux modèles (Hu)go"
-menu = "main"
 slug = "Introduction aux modeles Hugo"
 title = "Introduction aux modèles (Hu)go"
-type = "post"
-cover_image = "images/image1.jpeg"
+[menu.main]
+weight = 7
 
 +++
-
 Hugo utilise l'excellente librairie [go][] [html/template][gohtmltemplate] pour
 son moteur de modèles. c'est un moteur extrêmement léger qui offre un très petit
 nombre de fonctions logiques. À notre expérience, c'est juste ce qu'il faut pour

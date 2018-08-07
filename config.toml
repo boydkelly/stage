@@ -5,19 +5,12 @@ disqusShortname = "www-coastsystems-net"
 metaDataFormat = "toml"
 paginate = 10
 paginatePath = "page"
-#theme = "hugo-bootstrap-premium"
-#theme = "acadien-hugo-theme"
 [Languages.en]
 copyright = "(c) 2018 Boyd Kelly"
 languageCode = "en"
 languageName = "English"
 title = "Coast Business Technologies"
 weight = 1
-#[[Languages.en.menu.main]]
-#identifier = "about"
-#name = "About"
-#url = "/about"
-#weight = 1
 [[Languages.en.menu.main]]
 identifier = "tech"
 name = "Technology"
@@ -39,11 +32,6 @@ languageCode = "fr"
 languageName = "Français"
 title = "Coast Business Technologies"
 weight = 2
-#[[Languages.fr.menu.main]]
-#identifier = ""
-#name = "À propos"
-#url = "/fr/about"
-#weight = 1
 [[Languages.fr.menu.main]]
 identifier = "tech"
 name = "Technologie"
@@ -74,11 +62,10 @@ hrefTargetBlank = false
 latexDashes = true
 plainIdAnchors = true
 [params]
-brand_image = "/images/brand.png"
 bitbucket = ""
 bootswatchtheme = "slate"
 brand = "CB Technologies"
-#customCSS = ["/css/style_custom.css"]
+brand_image = "/images/brand.png"
 customJS = []
 facebook = ""
 flattr = ""
@@ -86,7 +73,6 @@ github = "www.github.com/boydkelly"
 googleAnalytics = "UA-7938441-2"
 googleplus = "Myprofile"
 highlight = "default"
-#home = "about"
 linkedin = "www.linkedin.com/in/boydkelly"
 mailmunchid = ""
 mathjax = ""

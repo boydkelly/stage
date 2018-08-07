@@ -1,20 +1,20 @@
 +++
 author = "Auteur du thème"
 categories = ["Hugo"]
+cover_image = "images/image1.jpeg"
 date = "2014-09-28"
 description = "Apprenez comment créer un thème Hugo"
 featured = "pic01.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = "Création d'un nouveau thème"
-title = "Création d'un nouveau thème"
 slug = "Creation d'un nouveau theme"
-type = "post"
-cover_image = "images/image1.jpeg"
+title = "Création d'un nouveau thème"
 [menu.main]
-  parent = "tutorials"
-+++
+parent = "tutorials"
+weight = 6
 
++++
 ## Introduction
 
 Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l'aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l'utilisation de CSS pour styliser votre thème.
